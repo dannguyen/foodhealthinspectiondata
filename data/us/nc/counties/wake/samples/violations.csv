@@ -1,0 +1,1999 @@
+"business_id","date","code","description"
+
+"00365192-A8F6-87E1-4D85FECDC569C6AB","20130208","6-501.19","Bathrooms not clean and/or supplied"
+
+"00365192-A8F6-87E1-4D85FECDC569C6AB","20130208","7-209.11","Toxic substances not properly identified, stored, & used"
+
+"00365192-A8F6-87E1-4D85FECDC569C6AB","20131107","2-102.12","Manager not present , or manager lacks required food safety training"
+
+"00365192-A8F6-87E1-4D85FECDC569C6AB","20131107","2-103.11 (M)","No approved employee health policy to prevent sick employees from working"
+
+"00365192-A8F6-87E1-4D85FECDC569C6AB","20131107","2-402.11","Personal Hygiene issues"
+
+"00365192-A8F6-87E1-4D85FECDC569C6AB","20131107","3-302.11","Food not stored safely to prevent contamination"
+
+"00365192-A8F6-87E1-4D85FECDC569C6AB","20131107","3-302.12","Food not properly labelled; original container"
+
+"00365192-A8F6-87E1-4D85FECDC569C6AB","20131107","3-501.15","Proper cooling methods not used; adequate equipment for temperature control"
+
+"00365192-A8F6-87E1-4D85FECDC569C6AB","20131107","3-501.16(A)(1)","Improper hot holding temperatures"
+
+"00365192-A8F6-87E1-4D85FECDC569C6AB","20131107","3-501.19","Food stored for too long without temperature control, and procedure"
+
+"00365192-A8F6-87E1-4D85FECDC569C6AB","20131107","4-402.11","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"00365192-A8F6-87E1-4D85FECDC569C6AB","20131107","5-202.13","Improper plumbing"
+
+"00365192-A8F6-87E1-4D85FECDC569C6AB","20131107","6-201.12","Floors, walls and ceilings not cleaned and maintained"
+
+"00365192-A8F6-87E1-4D85FECDC569C6AB","20131107","6-501.113","Floors, walls and ceilings not cleaned and maintained"
+
+"00365192-A8F6-87E1-4D85FECDC569C6AB","20131107","7-204.11","Toxic substances not properly identified, stored, & used"
+
+"003B5816-EB2D-98FB-BB9A47422343117B","20131010","2-103.11 (M)","No approved employee health policy to prevent sick employees from working"
+
+"003B5816-EB2D-98FB-BB9A47422343117B","20131010","2-201.11 (D )and (F)","Sick employee present or not properly kept from working"
+
+"003B5816-EB2D-98FB-BB9A47422343117B","20131010","2-401.11","Improper eating, tasting, drinking, or tobacco use"
+
+"003B5816-EB2D-98FB-BB9A47422343117B","20131010","4-101.19","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"003B5816-EB2D-98FB-BB9A47422343117B","20131010","4-302.14","Dishwashing facilities not used properly; sanitizer test strips not available"
+
+"003B5816-EB2D-98FB-BB9A47422343117B","20131010","5-205.11","Handwashing sink without soap and towels (dryer), or not accessible"
+
+"003B5816-EB2D-98FB-BB9A47422343117B","20131010","6-301.12","Handwashing sink without soap and towels (dryer), or not accessible"
+
+"003B5816-EB2D-98FB-BB9A47422343117B","20131010","6-501.18","Bathrooms not clean and/or supplied"
+
+"008A6B72-E823-5930-B24407ED48C781C8","20130905","3-401.11","Improper cooking time & temperatures"
+
+"008A6B72-E823-5930-B24407ED48C781C8","20130905","3-501.16(A)(1)","Improper hot holding temperatures"
+
+"00D18CF6-A9E0-C802-4912244307982DE1","20121219","6-501.14","Does not meet ventilation and lighting requirements"
+
+"00D18CF6-A9E0-C802-4912244307982DE1","20130617","2-102.12","Manager not present , or manager lacks required food safety training"
+
+"00D18CF6-A9E0-C802-4912244307982DE1","20130617","4-501.11","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"00D18CF6-A9E0-C802-4912244307982DE1","20130617","4-501.12","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"00D18CF6-A9E0-C802-4912244307982DE1","20130617","4-601.11 (A)","Food-contact surfaces:  not cleaned & sanitized"
+
+"00D18CF6-A9E0-C802-4912244307982DE1","20130617","4-601.11(B) and (C)","Equipment contaminated"
+
+"00D18CF6-A9E0-C802-4912244307982DE1","20130617","4-901.11","Utensils, equipment & linens: not properly stored, dried, & handled"
+
+"00D18CF6-A9E0-C802-4912244307982DE1","20130617","4-903.11(A) and (C)","Disposable utensils no properly stored and used"
+
+"00D18CF6-A9E0-C802-4912244307982DE1","20130617","6-202.11","Does not meet ventilation and lighting requirements"
+
+"00D18CF6-A9E0-C802-4912244307982DE1","20130617","6-501.11","Floors, walls and ceilings not cleaned and maintained"
+
+"00D18CF6-A9E0-C802-4912244307982DE1","20130617","6-501.12","Floors, walls and ceilings not cleaned and maintained"
+
+"00D18CF6-A9E0-C802-4912244307982DE1","20130617","6-501.14","Does not meet ventilation and lighting requirements"
+
+"00D18CF6-A9E0-C802-4912244307982DE1","20140106","2-102.12","Manager not present , or manager lacks required food safety training"
+
+"00D18CF6-A9E0-C802-4912244307982DE1","20140106","4-501.11","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"00D18CF6-A9E0-C802-4912244307982DE1","20140106","4-501.114","Food-contact surfaces:  not cleaned & sanitized"
+
+"00D18CF6-A9E0-C802-4912244307982DE1","20140106","4-601.11(B) and (C)","Equipment contaminated"
+
+"00D18CF6-A9E0-C802-4912244307982DE1","20140106","4-901.11","Utensils, equipment & linens: not properly stored, dried, & handled"
+
+"00D18CF6-A9E0-C802-4912244307982DE1","20140106","6-302.11","Bathrooms not clean and/or supplied"
+
+"00D18CF6-A9E0-C802-4912244307982DE1","20140106","6-303.11","Does not meet ventilation and lighting requirements"
+
+"00D18CF6-A9E0-C802-4912244307982DE1","20140106","7-102.11","Toxic substances not properly identified, stored, & used"
+
+"00FC2D97-FE0A-549D-150427A6BFD57253","20121213","2-201.11 (A), (B), (C), and (E)","No approved employee health policy to prevent sick employees from working"
+
+"00FC2D97-FE0A-549D-150427A6BFD57253","20121213","2-303.11","Personal Hygiene issues"
+
+"00FC2D97-FE0A-549D-150427A6BFD57253","20121213","3-302.11","Food not stored safely to prevent contamination"
+
+"00FC2D97-FE0A-549D-150427A6BFD57253","20121213","3-501.17","Improper date marking"
+
+"00FC2D97-FE0A-549D-150427A6BFD57253","20121213","4-402.11","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"0101A22A-D384-15BD-CA44676FD691DEA0","20130603","2-102.12","Manager not present , or manager lacks required food safety training"
+
+"0101A22A-D384-15BD-CA44676FD691DEA0","20130603","2-201.11 (A)","No approved employee health policy to prevent sick employees from working"
+
+"0101A22A-D384-15BD-CA44676FD691DEA0","20130603","3-305.12","Contamination not prevented during food preparation, storage & display"
+
+"0101A22A-D384-15BD-CA44676FD691DEA0","20130603","3-501.15","Proper cooling methods not used; adequate equipment for temperature control"
+
+"0101A22A-D384-15BD-CA44676FD691DEA0","20130603","3-501.19","Food stored for too long without temperature control, and procedure"
+
+"0101A22A-D384-15BD-CA44676FD691DEA0","20130603","4-202.16","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"0101A22A-D384-15BD-CA44676FD691DEA0","20130603","4-302.14","Dishwashing facilities not used properly; sanitizer test strips not available"
+
+"0101A22A-D384-15BD-CA44676FD691DEA0","20130603","4-602.11","Food-contact surfaces:  not cleaned & sanitized"
+
+"0101A22A-D384-15BD-CA44676FD691DEA0","20130603","4-602.13","Equipment contaminated"
+
+"0101A22A-D384-15BD-CA44676FD691DEA0","20130603","4-901.11","Utensils, equipment & linens: not properly stored, dried, & handled"
+
+"0101A22A-D384-15BD-CA44676FD691DEA0","20130603","4-903.11(A) and (C)","Disposable utensils no properly stored and used"
+
+"0101A22A-D384-15BD-CA44676FD691DEA0","20130603","6-101.11","Floors, walls and ceilings not cleaned and maintained"
+
+"0101A22A-D384-15BD-CA44676FD691DEA0","20130603","6-302.11","Bathrooms not clean and/or supplied"
+
+"0101A22A-D384-15BD-CA44676FD691DEA0","20130603","6-501.12","Floors, walls and ceilings not cleaned and maintained"
+
+"0101A22A-D384-15BD-CA44676FD691DEA0","20130603","7-204.11","Toxic substances not properly identified, stored, & used"
+
+"010EBE88-D265-AB66-7F9392ED1ABEA2FC","20121106","3-302.11","Food not stored safely to prevent contamination"
+
+"010EBE88-D265-AB66-7F9392ED1ABEA2FC","20121106","3-501.17","Improper date marking"
+
+"010EBE88-D265-AB66-7F9392ED1ABEA2FC","20121106","4-601.11 (A)","Food-contact surfaces:  not cleaned & sanitized"
+
+"010EBE88-D265-AB66-7F9392ED1ABEA2FC","20121106","7-101.11","Toxic substances not properly identified, stored, & used"
+
+"010EBE88-D265-AB66-7F9392ED1ABEA2FC","20130510","3-302.11","Food not stored safely to prevent contamination"
+
+"010EBE88-D265-AB66-7F9392ED1ABEA2FC","20130510","3-304.14","Wiping cloths: not properly used & stored"
+
+"010EBE88-D265-AB66-7F9392ED1ABEA2FC","20130510","3-501.16 (A)(2) and (B)","Improper cold holding temperatures"
+
+"010EBE88-D265-AB66-7F9392ED1ABEA2FC","20130510","3-501.18","Improper date marking"
+
+"010EBE88-D265-AB66-7F9392ED1ABEA2FC","20130510","3-602.11","Food not properly labelled; original container"
+
+"010EBE88-D265-AB66-7F9392ED1ABEA2FC","20130510","4-501.12","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"011A703F-D8CE-C53D-62B3073DF4809ED4","20130718","4-501.12","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"011A703F-D8CE-C53D-62B3073DF4809ED4","20130718","4-602.13","Equipment contaminated"
+
+"011A703F-D8CE-C53D-62B3073DF4809ED4","20130718","6-501.111","Insects & rodents present; unauthorized animals"
+
+"011A703F-D8CE-C53D-62B3073DF4809ED4","20130718","6-501.114","Floors, walls and ceilings not cleaned and maintained"
+
+"011EC6C8-EDD1-F08B-9F20505CA13E6374","20121002","2-201.11 (A)","No approved employee health policy to prevent sick employees from working"
+
+"011EC6C8-EDD1-F08B-9F20505CA13E6374","20121002","3-501.17","Improper date marking"
+
+"011EC6C8-EDD1-F08B-9F20505CA13E6374","20121002","4-602.13","Equipment contaminated"
+
+"011EC6C8-EDD1-F08B-9F20505CA13E6374","20121002","4-703.11","Food-contact surfaces:  not cleaned & sanitized"
+
+"011EC6C8-EDD1-F08B-9F20505CA13E6374","20130227","4-202.18","Does not meet ventilation and lighting requirements"
+
+"011EC6C8-EDD1-F08B-9F20505CA13E6374","20130227","4-501.114","Food-contact surfaces:  not cleaned & sanitized"
+
+"011EC6C8-EDD1-F08B-9F20505CA13E6374","20130227","5-501.17","Bathrooms not clean and/or supplied"
+
+"011EC6C8-EDD1-F08B-9F20505CA13E6374","20130814","3-501.16 (A)(2) and (B)","Improper cold holding temperatures"
+
+"011EC6C8-EDD1-F08B-9F20505CA13E6374","20130814","4-205.10","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"011EC6C8-EDD1-F08B-9F20505CA13E6374","20130814","4-501.11","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"011EC6C8-EDD1-F08B-9F20505CA13E6374","20130814","4-502.11(B)","Thermometers not provided & not accurate"
+
+"011EC6C8-EDD1-F08B-9F20505CA13E6374","20130814","4-601.11 (A)","Food-contact surfaces:  not cleaned & sanitized"
+
+"011EC6C8-EDD1-F08B-9F20505CA13E6374","20130814","4-903.11(A) and (C)","Disposable utensils no properly stored and used"
+
+"011EC6C8-EDD1-F08B-9F20505CA13E6374","20131219","2-102.12","Manager not present , or manager lacks required food safety training"
+
+"011EC6C8-EDD1-F08B-9F20505CA13E6374","20131219","3-305.11","Contamination not prevented during food preparation, storage & display"
+
+"011EC6C8-EDD1-F08B-9F20505CA13E6374","20131219","4-205.10","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"011EC6C8-EDD1-F08B-9F20505CA13E6374","20131219","4-501.11","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"011EC6C8-EDD1-F08B-9F20505CA13E6374","20131219","4-501.114","Food-contact surfaces:  not cleaned & sanitized"
+
+"011EC6C8-EDD1-F08B-9F20505CA13E6374","20131219","4-601.11 (A)","Food-contact surfaces:  not cleaned & sanitized"
+
+"011EC6C8-EDD1-F08B-9F20505CA13E6374","20131219","4-901.12","Wiping cloths: not properly used & stored"
+
+"011EC6C8-EDD1-F08B-9F20505CA13E6374","20131219","5-205.11","Handwashing sink without soap and towels (dryer), or not accessible"
+
+"011EC6C8-EDD1-F08B-9F20505CA13E6374","20131219","6-201.11","Floors, walls and ceilings not cleaned and maintained"
+
+"0124B480-C0F4-15B8-6D8AE96D00E0EB92","20140107","5-202.12","Handwashing sink without soap and towels (dryer), or not accessible"
+
+"0124B480-C0F4-15B8-6D8AE96D00E0EB92","20140107","5-205.11","Handwashing sink without soap and towels (dryer), or not accessible"
+
+"0124B480-C0F4-15B8-6D8AE96D00E0EB92","20140107","5-205.15 (A)(B)","Improper plumbing"
+
+"0124B480-C0F4-15B8-6D8AE96D00E0EB92","20140107","5-501.16","Trash bin area maintained"
+
+"012BD35B-E1D0-BE1F-ED0468117DE14D50","20131021","2-102.12","Manager not present , or manager lacks required food safety training"
+
+"012BD35B-E1D0-BE1F-ED0468117DE14D50","20131021","3-302.12","Food not properly labelled; original container"
+
+"012BD35B-E1D0-BE1F-ED0468117DE14D50","20131021","4-204-112","Thermometers not provided & not accurate"
+
+"012DAC8C-F601-1833-85FAF965A9614205","20130226","2-102.12","Manager not present , or manager lacks required food safety training"
+
+"012DAC8C-F601-1833-85FAF965A9614205","20130226","2-201.11 (A), (B), (C), and (E)","No approved employee health policy to prevent sick employees from working"
+
+"012DAC8C-F601-1833-85FAF965A9614205","20130226","3-304.14","Wiping cloths: not properly used & stored"
+
+"012DAC8C-F601-1833-85FAF965A9614205","20130226","3-501.17","Improper date marking"
+
+"012DAC8C-F601-1833-85FAF965A9614205","20130226","4-502.11(B)","Thermometers not provided & not accurate"
+
+"012DAC8C-F601-1833-85FAF965A9614205","20130226","4-601.11(B) and (C)","Equipment contaminated"
+
+"012DAC8C-F601-1833-85FAF965A9614205","20130226","5-205.11","Handwashing sink without soap and towels (dryer), or not accessible"
+
+"012DAC8C-F601-1833-85FAF965A9614205","20130226","5-501.17","Bathrooms not clean and/or supplied"
+
+"012DAC8C-F601-1833-85FAF965A9614205","20130226","6-201.13","Floors, walls and ceilings not cleaned and maintained"
+
+"012DAC8C-F601-1833-85FAF965A9614205","20130226","6-501.12","Floors, walls and ceilings not cleaned and maintained"
+
+"012DAC8C-F601-1833-85FAF965A9614205","20131031","2-102.12","Manager not present , or manager lacks required food safety training"
+
+"012DAC8C-F601-1833-85FAF965A9614205","20131031","2-201.11 (A), (B), (C), and (E)","No approved employee health policy to prevent sick employees from working"
+
+"012DAC8C-F601-1833-85FAF965A9614205","20131031","3-304.14","Wiping cloths: not properly used & stored"
+
+"012DAC8C-F601-1833-85FAF965A9614205","20131031","4-601.11 (A)","Food-contact surfaces:  not cleaned & sanitized"
+
+"01351F31-B3E9-348D-50CFFEE9ADAB2D18","20121127","2-201.11 (A)","No approved employee health policy to prevent sick employees from working"
+
+"01351F31-B3E9-348D-50CFFEE9ADAB2D18","20121127","3-302.11","Food not stored safely to prevent contamination"
+
+"01351F31-B3E9-348D-50CFFEE9ADAB2D18","20121127","3-304.13","Contamination not prevented during food preparation, storage & display"
+
+"01351F31-B3E9-348D-50CFFEE9ADAB2D18","20121127","3-501.17","Improper date marking"
+
+"01351F31-B3E9-348D-50CFFEE9ADAB2D18","20121127","3-603.11","Warning to consumers for raw or undercooked foods"
+
+"01351F31-B3E9-348D-50CFFEE9ADAB2D18","20131010","3-501.19","Food stored for too long without temperature control, and procedure"
+
+"01351F31-B3E9-348D-50CFFEE9ADAB2D18","20131010","4-502.11(A) and (C)","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"01351F31-B3E9-348D-50CFFEE9ADAB2D18","20131010","4-502.13","Disposable utensils no properly stored and used"
+
+"01351F31-B3E9-348D-50CFFEE9ADAB2D18","20131010","4-602.13","Equipment contaminated"
+
+"01351F31-B3E9-348D-50CFFEE9ADAB2D18","20131010","5-501.111","Trash bin area maintained"
+
+"01351F31-B3E9-348D-50CFFEE9ADAB2D18","20131010","5-501.114","Trash bin area maintained"
+
+"014B14FD-B51C-8ADB-46806034E1BB70BB","20130613","2-102.12","Manager not present , or manager lacks required food safety training"
+
+"014B14FD-B51C-8ADB-46806034E1BB70BB","20130613","2-303.11","Personal Hygiene issues"
+
+"014B14FD-B51C-8ADB-46806034E1BB70BB","20130613","3-304.14","Wiping cloths: not properly used & stored"
+
+"014B14FD-B51C-8ADB-46806034E1BB70BB","20130613","4-501.114","Food-contact surfaces:  not cleaned & sanitized"
+
+"014B14FD-B51C-8ADB-46806034E1BB70BB","20130613","4-901.11","Utensils, equipment & linens: not properly stored, dried, & handled"
+
+"014B14FD-B51C-8ADB-46806034E1BB70BB","20130613","4-903.11(A) and (C)","Disposable utensils no properly stored and used"
+
+"014B14FD-B51C-8ADB-46806034E1BB70BB","20130613","5-103.12","Hot & cold water unavailable; inadequate water pressure"
+
+"014B14FD-B51C-8ADB-46806034E1BB70BB","20130613","6-301.14","Handwashing sink without soap and towels (dryer), or not accessible"
+
+"014B14FD-B51C-8ADB-46806034E1BB70BB","20130613","6-501.12","Floors, walls and ceilings not cleaned and maintained"
+
+"014B14FD-B51C-8ADB-46806034E1BB70BB","20140114","2-102.11","Manager not present , or manager lacks required food safety training"
+
+"014B14FD-B51C-8ADB-46806034E1BB70BB","20140114","2-401.11","Improper eating, tasting, drinking, or tobacco use"
+
+"014B14FD-B51C-8ADB-46806034E1BB70BB","20140114","2-402.11","Personal Hygiene issues"
+
+"014B14FD-B51C-8ADB-46806034E1BB70BB","20140114","3-304.14","Wiping cloths: not properly used & stored"
+
+"014B14FD-B51C-8ADB-46806034E1BB70BB","20140114","4-501.11","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"014B14FD-B51C-8ADB-46806034E1BB70BB","20140114","4-501.12","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"014B14FD-B51C-8ADB-46806034E1BB70BB","20140114","4-601.11 (A)","Food-contact surfaces:  not cleaned & sanitized"
+
+"014B14FD-B51C-8ADB-46806034E1BB70BB","20140114","4-601.11(B) and (C)","Equipment contaminated"
+
+"014B14FD-B51C-8ADB-46806034E1BB70BB","20140114","4-903.11(A) and (C)","Disposable utensils no properly stored and used"
+
+"01852ACE-EDC8-958E-AFD055101633F2B3","20130923","3-501.16 (A)(2) and (B)","Improper cold holding temperatures"
+
+"01852ACE-EDC8-958E-AFD055101633F2B3","20130923","4-501.11","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"01F7A0CB-0C0D-0E4F-4EE88C06A8A77091","20131115","4-901.11","Utensils, equipment & linens: not properly stored, dried, & handled"
+
+"01F7A0CB-0C0D-0E4F-4EE88C06A8A77091","20131115","5-205.15 (A)(B)","Improper plumbing"
+
+"01F7A0CB-0C0D-0E4F-4EE88C06A8A77091","20131115","5-501.114","Trash bin area maintained"
+
+"01F7A0CB-0C0D-0E4F-4EE88C06A8A77091","20131115","6-202.11","Does not meet ventilation and lighting requirements"
+
+"01F7A0CB-0C0D-0E4F-4EE88C06A8A77091","20131115","6-301.12","Handwashing sink without soap and towels (dryer), or not accessible"
+
+"0220E23A-979D-5164-7BE7FC6D0623360A","20130703","2-103.11 (M)","No approved employee health policy to prevent sick employees from working"
+
+"0220E23A-979D-5164-7BE7FC6D0623360A","20130703","2-401.11","Improper eating, tasting, drinking, or tobacco use"
+
+"0220E23A-979D-5164-7BE7FC6D0623360A","20130703","3-304.14","Wiping cloths: not properly used & stored"
+
+"0220E23A-979D-5164-7BE7FC6D0623360A","20130703","3-305.11","Contamination not prevented during food preparation, storage & display"
+
+"0220E23A-979D-5164-7BE7FC6D0623360A","20130703","3-501.15","Proper cooling methods not used; adequate equipment for temperature control"
+
+"0220E23A-979D-5164-7BE7FC6D0623360A","20130703","3-501.16 (A)(2) and (B)","Improper cold holding temperatures"
+
+"0220E23A-979D-5164-7BE7FC6D0623360A","20130703","3-603.11","Warning to consumers for raw or undercooked foods"
+
+"0220E23A-979D-5164-7BE7FC6D0623360A","20130703","4-205.10","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"0220E23A-979D-5164-7BE7FC6D0623360A","20140109","2-201.11 (A), (B), (C), and (E)","No approved employee health policy to prevent sick employees from working"
+
+"0220E23A-979D-5164-7BE7FC6D0623360A","20140109","3-302.11","Food not stored safely to prevent contamination"
+
+"0220E23A-979D-5164-7BE7FC6D0623360A","20140109","3-501.16 (A)(2) and (B)","Improper cold holding temperatures"
+
+"0220E23A-979D-5164-7BE7FC6D0623360A","20140109","3-501.17","Improper date marking"
+
+"0220E23A-979D-5164-7BE7FC6D0623360A","20140109","4-203.11","Thermometers not provided & not accurate"
+
+"0220E23A-979D-5164-7BE7FC6D0623360A","20140109","5-501.16","Trash bin area maintained"
+
+"0220E23A-979D-5164-7BE7FC6D0623360A","20140109","6-202.110","Trash bin area maintained"
+
+"0220E23A-979D-5164-7BE7FC6D0623360A","20140109","7-201.11","Toxic substances not properly identified, stored, & used"
+
+"02AEBFE0-016D-48A0-929B27B0249E171D","20130219","2-102.12","Manager not present , or manager lacks required food safety training"
+
+"02AEBFE0-016D-48A0-929B27B0249E171D","20130219","2-103.11 (M)","No approved employee health policy to prevent sick employees from working"
+
+"02AEBFE0-016D-48A0-929B27B0249E171D","20130219","2-401.11","Improper eating, tasting, drinking, or tobacco use"
+
+"02AEBFE0-016D-48A0-929B27B0249E171D","20130219","3-304.12","In-use utensils: not properly stored"
+
+"02AEBFE0-016D-48A0-929B27B0249E171D","20130219","3-501.19","Food stored for too long without temperature control, and procedure"
+
+"03D0B869-9790-0CB6-E27EB9965164CF3C","20120927","5-205.11","Handwashing sink without soap and towels (dryer), or not accessible"
+
+"03D0B869-9790-0CB6-E27EB9965164CF3C","20120927","6-202.11","Does not meet ventilation and lighting requirements"
+
+"03D0B869-9790-0CB6-E27EB9965164CF3C","20120927","6-301.14","Handwashing sink without soap and towels (dryer), or not accessible"
+
+"03D0B869-9790-0CB6-E27EB9965164CF3C","20120927","6-303.11","Does not meet ventilation and lighting requirements"
+
+"03D0B869-9790-0CB6-E27EB9965164CF3C","20120927","6-501.14","Does not meet ventilation and lighting requirements"
+
+"03D0B869-9790-0CB6-E27EB9965164CF3C","20120927","7-102.11","Toxic substances not properly identified, stored, & used"
+
+"03D0B869-9790-0CB6-E27EB9965164CF3C","20130304","2-201.11 (A)","No approved employee health policy to prevent sick employees from working"
+
+"03D0B869-9790-0CB6-E27EB9965164CF3C","20130304","3-301.11","Bare hand contact with foods that are ready to eat (won't be cooked any more)"
+
+"03D0B869-9790-0CB6-E27EB9965164CF3C","20130304","3-302.11","Food not stored safely to prevent contamination"
+
+"03D0B869-9790-0CB6-E27EB9965164CF3C","20130304","3-304.12","In-use utensils: not properly stored"
+
+"03D0B869-9790-0CB6-E27EB9965164CF3C","20130304","3-304.14","Wiping cloths: not properly used & stored"
+
+"03D0B869-9790-0CB6-E27EB9965164CF3C","20130304","3-501.16 (A)(2) and (B)","Improper cold holding temperatures"
+
+"03D0B869-9790-0CB6-E27EB9965164CF3C","20130304","3-501.17","Improper date marking"
+
+"03D0B869-9790-0CB6-E27EB9965164CF3C","20130304","3-603.11","Warning to consumers for raw or undercooked foods"
+
+"03D0B869-9790-0CB6-E27EB9965164CF3C","20130304","4-301.14","Does not meet ventilation and lighting requirements"
+
+"03D0B869-9790-0CB6-E27EB9965164CF3C","20130304","4-501.11","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"03D0B869-9790-0CB6-E27EB9965164CF3C","20130304","4-601.11 (A)","Food-contact surfaces:  not cleaned & sanitized"
+
+"03D0B869-9790-0CB6-E27EB9965164CF3C","20130304","4-601.11(B) and (C)","Equipment contaminated"
+
+"03D0B869-9790-0CB6-E27EB9965164CF3C","20130304","4-901.11","Utensils, equipment & linens: not properly stored, dried, & handled"
+
+"03D0B869-9790-0CB6-E27EB9965164CF3C","20130304","4-903.11(A) and (B)","Utensils, equipment & linens: not properly stored, dried, & handled"
+
+"03D0B869-9790-0CB6-E27EB9965164CF3C","20130304","5-205.11","Handwashing sink without soap and towels (dryer), or not accessible"
+
+"03D0B869-9790-0CB6-E27EB9965164CF3C","20130304","5-501.111","Trash bin area maintained"
+
+"03D0B869-9790-0CB6-E27EB9965164CF3C","20130304","6-202.11","Does not meet ventilation and lighting requirements"
+
+"03D0B869-9790-0CB6-E27EB9965164CF3C","20130304","6-301.14","Handwashing sink without soap and towels (dryer), or not accessible"
+
+"03D0B869-9790-0CB6-E27EB9965164CF3C","20130304","6-303.11","Does not meet ventilation and lighting requirements"
+
+"495259","20140318","4-601.11 (A)","Food-contact surfaces:  not cleaned & sanitized"
+
+"2B513A43-E231-EBD6-6BE6DBC3BB795F6B","20140317","4-903.11(A) and (B)","Utensils, equipment & linens: not properly stored, dried, & handled"
+
+"495172","20140317","2-401.11","Improper eating, tasting, drinking, or tobacco use"
+
+"2B513A43-E231-EBD6-6BE6DBC3BB795F6B","20140317","3-302.12","Food not properly labelled; original container"
+
+"2B513A43-E231-EBD6-6BE6DBC3BB795F6B","20140317","4-101.11","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"495259","20140318","6-501.12","Floors, walls and ceilings not cleaned and maintained"
+
+"3087C586-CB60-71F0-95435699F654092E","20140317","4-502.13","Disposable utensils no properly stored and used"
+
+"2C982E49-ED53-0DD6-74B60CC60602984A","20140318","2-402.11","Personal Hygiene issues"
+
+"3AF38F4B-C01F-BBDE-BF8E0683045F8009","20140319","8-103.12","Noncompliance with specialized processing procedures or HACCP plan"
+
+"2B513A43-E231-EBD6-6BE6DBC3BB795F6B","20140317","2-103.11 (A) - (L)","Manager not present , or manager lacks required food safety training"
+
+"495259","20140318","4-901.11","Utensils, equipment & linens: not properly stored, dried, & handled"
+
+"3087C586-CB60-71F0-95435699F654092E","20140317","6-501.11","Floors, walls and ceilings not cleaned and maintained"
+
+"495259","20140318","4-602.13","Equipment contaminated"
+
+"495259","20140318","6-301.14","Handwashing sink without soap and towels (dryer), or not accessible"
+
+"3C601E09-1422-201B-199B4BBE1BF35CF8","20140318","2-103.11 (M)","No approved employee health policy to prevent sick employees from working"
+
+"495172","20140317","3-603.11","Warning to consumers for raw or undercooked foods"
+
+"2B513A43-E231-EBD6-6BE6DBC3BB795F6B","20140317","6-101.11","Floors, walls and ceilings not cleaned and maintained"
+
+"2433A9E0-C425-9878-8E5B8EE5BAABDEF4","20140318","7-201.11","Toxic substances not properly identified, stored, & used"
+
+"3C601E09-1422-201B-199B4BBE1BF35CF8","20140318","3-304.12","In-use utensils: not properly stored"
+
+"2B513A43-E231-EBD6-6BE6DBC3BB795F6B","20140317","3-501.15","Proper cooling methods not used; adequate equipment for temperature control"
+
+"2B513A43-E231-EBD6-6BE6DBC3BB795F6B","20140317","3-501.14","Improper cooling time & temperatures"
+
+"3C601E09-1422-201B-199B4BBE1BF35CF8","20140318","3-501.17","Improper date marking"
+
+"3AF38F4B-C01F-BBDE-BF8E0683045F8009","20140319","3-501.15","Proper cooling methods not used; adequate equipment for temperature control"
+
+"3087C586-CB60-71F0-95435699F654092E","20140317","2-103.11 (A) - (L)","Manager not present , or manager lacks required food safety training"
+
+"3C601E09-1422-201B-199B4BBE1BF35CF8","20140318","5-205.15 (A)","Improper plumbing"
+
+"3087C586-CB60-71F0-95435699F654092E","20140317","3-501.16 (A)(2) and (B)","Improper cold holding temperatures"
+
+"2433A9E0-C425-9878-8E5B8EE5BAABDEF4","20140318","6-501.111","Insects & rodents present; unauthorized animals"
+
+"2433A9E0-C425-9878-8E5B8EE5BAABDEF4","20140318","3-302.11","Food not stored safely to prevent contamination"
+
+"2B513A43-E231-EBD6-6BE6DBC3BB795F6B","20140317","6-202.14","Bathrooms not clean and/or supplied"
+
+"2B513A43-E231-EBD6-6BE6DBC3BB795F6B","20140317","4-502.11(A) and (C)","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"3087C586-CB60-71F0-95435699F654092E","20140317","3-603.11","Warning to consumers for raw or undercooked foods"
+
+"3087C586-CB60-71F0-95435699F654092E","20140317","4-204-112","Thermometers not provided & not accurate"
+
+"2B513A43-E231-EBD6-6BE6DBC3BB795F6B","20140317","3-501.17","Improper date marking"
+
+"3087C586-CB60-71F0-95435699F654092E","20140317","3-302.12","Food not properly labelled; original container"
+
+"2B513A43-E231-EBD6-6BE6DBC3BB795F6B","20140317","2-301.12","Hands not clean and properly washed"
+
+"2433A9E0-C425-9878-8E5B8EE5BAABDEF4","20140318","2-401.11","Improper eating, tasting, drinking, or tobacco use"
+
+"3087C586-CB60-71F0-95435699F654092E","20140317","3-304.14","Wiping cloths: not properly used & stored"
+
+"3087C586-CB60-71F0-95435699F654092E","20140317","2-303.11","Personal Hygiene issues"
+
+"2B513A43-E231-EBD6-6BE6DBC3BB795F6B","20140317","6-202.11","Does not meet ventilation and lighting requirements"
+
+"2C982E49-ED53-0DD6-74B60CC60602984A","20140318","4-501.114","Food-contact surfaces:  not cleaned & sanitized"
+
+"2B513A43-E231-EBD6-6BE6DBC3BB795F6B","20140317","3-301.11","Bare hand contact with foods that are ready to eat (won't be cooked any more)"
+
+"3C601E09-1422-201B-199B4BBE1BF35CF8","20140318","5-501.115","Trash bin area maintained"
+
+"3C601E09-1422-201B-199B4BBE1BF35CF8","20140318","6-201.18","Floors, walls and ceilings not cleaned and maintained"
+
+"2B513A43-E231-EBD6-6BE6DBC3BB795F6B","20140317","3-501.16 (A)(2) and (B)","Improper cold holding temperatures"
+
+"2433A9E0-C425-9878-8E5B8EE5BAABDEF4","20140318","4-302.14","Dishwashing facilities not used properly; sanitizer test strips not available"
+
+"2C982E49-ED53-0DD6-74B60CC60602984A","20140318","6-201.11","Floors, walls and ceilings not cleaned and maintained"
+
+"2C982E49-ED53-0DD6-74B60CC60602984A","20140318","4-903.11(A) and (C)","Disposable utensils no properly stored and used"
+
+"2B513A43-E231-EBD6-6BE6DBC3BB795F6B","20140317","4-703.11","Food-contact surfaces:  not cleaned & sanitized"
+
+"2433A9E0-C425-9878-8E5B8EE5BAABDEF4","20140318","2-102.12","Manager not present , or manager lacks required food safety training"
+
+"3C601E09-1422-201B-199B4BBE1BF35CF8","20140318","2-102.12","Manager not present , or manager lacks required food safety training"
+
+"2B513A43-E231-EBD6-6BE6DBC3BB795F6B","20140317","4-205.10","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"3C601E09-1422-201B-199B4BBE1BF35CF8","20140318","4-501.12","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"3087C586-CB60-71F0-95435699F654092E","20140317","3-501.18","Improper date marking"
+
+"3087C586-CB60-71F0-95435699F654092E","20140317","5-202.14","Improper plumbing"
+
+"495259","20140318","5-501.17","Bathrooms not clean and/or supplied"
+
+"3087C586-CB60-71F0-95435699F654092E","20140317","6-301.14","Handwashing sink without soap and towels (dryer), or not accessible"
+
+"496260","20140318","4-602.11","Food-contact surfaces:  not cleaned & sanitized"
+
+"496260","20140318","4-501.114","Food-contact surfaces:  not cleaned & sanitized"
+
+"497865","20140317","6-201.11","Floors, walls and ceilings not cleaned and maintained"
+
+"496260","20140318","6-202.11","Does not meet ventilation and lighting requirements"
+
+"496260","20140318","3-403.11","Improper reheating procedures"
+
+"496260","20140318","4-501.12","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"496260","20140318","3-603.11","Warning to consumers for raw or undercooked foods"
+
+"497865","20140317","5-203.13","Improper plumbing"
+
+"496260","20140318","4-101.19","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"497865","20140317","2-103.11 (M)","No approved employee health policy to prevent sick employees from working"
+
+"497865","20140317","5-202.12","Handwashing sink without soap and towels (dryer), or not accessible"
+
+"496260","20140318","3-501.16 (A)(2) and (B)","Improper cold holding temperatures"
+
+"497865","20140317","6-501.113","Floors, walls and ceilings not cleaned and maintained"
+
+"497865","20140317","4-501.11","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"496260","20140318","6-201.11","Floors, walls and ceilings not cleaned and maintained"
+
+"496260","20140318","6-303.11","Does not meet ventilation and lighting requirements"
+
+"497865","20140317","5-205.15 (A)(B)","Improper plumbing"
+
+"496260","20140318","4-204.11","Does not meet ventilation and lighting requirements"
+
+"497865","20140317","6-501.12","Floors, walls and ceilings not cleaned and maintained"
+
+"497865","20140317","5-203.14","Improper plumbing"
+
+"497865","20140317","4-204-112","Thermometers not provided & not accurate"
+
+"496260","20140318","5-205.15 (A)(B)","Improper plumbing"
+
+"497865","20140317","6-501.14","Does not meet ventilation and lighting requirements"
+
+"497865","20140317","3-501.17","Improper date marking"
+
+"500605","20140318","3-501.18","Improper date marking"
+
+"500605","20140318","4-602.13","Equipment contaminated"
+
+"499542","20140319","5-501.113","Trash bin area maintained"
+
+"499542","20140319","4-901.11","Utensils, equipment & linens: not properly stored, dried, & handled"
+
+"500534","20140318","6-501.114","Floors, walls and ceilings not cleaned and maintained"
+
+"500789","20140319","6-303.11","Does not meet ventilation and lighting requirements"
+
+"498863","20140318","3-304.12","In-use utensils: not properly stored"
+
+"499542","20140319","3-301.11","Bare hand contact with foods that are ready to eat (won't be cooked any more)"
+
+"4D4303DD-FB3C-BE36-DCB8808A05708ED9","20140318","6-201.11","Floors, walls and ceilings not cleaned and maintained"
+
+"498863","20140318","4-203.11","Thermometers not provided & not accurate"
+
+"500534","20140318","6-303.11","Does not meet ventilation and lighting requirements"
+
+"499542","20140319","6-201.11","Floors, walls and ceilings not cleaned and maintained"
+
+"500534","20140318","4-602.13","Equipment contaminated"
+
+"500534","20140318","5-501.115","Trash bin area maintained"
+
+"500605","20140318","3-304.14","Wiping cloths: not properly used & stored"
+
+"4D4303DD-FB3C-BE36-DCB8808A05708ED9","20140318","3-501.16(A)(1)","Improper hot holding temperatures"
+
+"499542","20140319","4-501.11","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"499542","20140319","3-304.12","In-use utensils: not properly stored"
+
+"499542","20140319","3-501.17","Improper date marking"
+
+"499542","20140319","5-203.14","Improper plumbing"
+
+"499542","20140319","5-501.111","Trash bin area maintained"
+
+"500605","20140318","3-501.17","Improper date marking"
+
+"500534","20140318","6-501.12","Floors, walls and ceilings not cleaned and maintained"
+
+"499542","20140319","7-102.11","Toxic substances not properly identified, stored, & used"
+
+"500534","20140318","4-501.11","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"500789","20140319","2-102.12","Manager not present , or manager lacks required food safety training"
+
+"499542","20140319","3-501.16(A)(1)","Improper hot holding temperatures"
+
+"500534","20140318","3-304.14","Wiping cloths: not properly used & stored"
+
+"500534","20140318","4-501.11","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"499542","20140319","4-601.11 (A)","Food-contact surfaces:  not cleaned & sanitized"
+
+"498863","20140318","4-903.11(A) and (C)","Disposable utensils no properly stored and used"
+
+"499542","20140319","2-401.11","Improper eating, tasting, drinking, or tobacco use"
+
+"500534","20140318","6-201.11","Floors, walls and ceilings not cleaned and maintained"
+
+"500534","20140318","6-303.11","Does not meet ventilation and lighting requirements"
+
+"500789","20140319","4-203.11","Thermometers not provided & not accurate"
+
+"500789","20140319","6-301.14","Handwashing sink without soap and towels (dryer), or not accessible"
+
+"499542","20140319","6-202.11","Does not meet ventilation and lighting requirements"
+
+"509015","20140317","6-403.11","Does not meet ventilation and lighting requirements"
+
+"527174","20140319","5-203.14","Improper plumbing"
+
+"509015","20140317","5-202.14","Improper plumbing"
+
+"509015","20140317","6-501.11","Floors, walls and ceilings not cleaned and maintained"
+
+"509015","20140317","6-501.12","Floors, walls and ceilings not cleaned and maintained"
+
+"509015","20140317","3-501.19","Food stored for too long without temperature control, and procedure"
+
+"509015","20140317","2-401.11","Improper eating, tasting, drinking, or tobacco use"
+
+"509015","20140317","2-402.11","Personal Hygiene issues"
+
+"509015","20140317","3-302.11","Food not stored safely to prevent contamination"
+
+"509015","20140317","4-501.11","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"509015","20140317","6-301.14","Handwashing sink without soap and towels (dryer), or not accessible"
+
+"527174","20140319","2-102.11","Manager not present , or manager lacks required food safety training"
+
+"527174","20140319","3-501.16 (A)(2) and (B)","Improper cold holding temperatures"
+
+"509015","20140317","3-304.14","Wiping cloths: not properly used & stored"
+
+"509015","20140317","7-204.11","Toxic substances not properly identified, stored, & used"
+
+"509015","20140317","4-703.11","Food-contact surfaces:  not cleaned & sanitized"
+
+"509015","20140317","6-501.14","Does not meet ventilation and lighting requirements"
+
+"527174","20140319","4-501.11","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"509015","20140317","6-501.18","Bathrooms not clean and/or supplied"
+
+"7CEBE9B3-1422-201B-19230D9C2A35046B","20140318","6-501.11","Floors, walls and ceilings not cleaned and maintained"
+
+"65F92364-BD97-951A-B471BD1A3FC7E1A4","20140318","2-103.11 (M)","No approved employee health policy to prevent sick employees from working"
+
+"85D1F1BA-E94D-FBF4-436ACBE890A4D817","20140319","5-501.115","Trash bin area maintained"
+
+"6C840031-3048-9838-FC9B0CAC46A9AC92","20140318","7-201.11","Toxic substances not properly identified, stored, & used"
+
+"6C840031-3048-9838-FC9B0CAC46A9AC92","20140318","6-501.12","Floors, walls and ceilings not cleaned and maintained"
+
+"65F92364-BD97-951A-B471BD1A3FC7E1A4","20140318","3-501.16(A)(1)","Improper hot holding temperatures"
+
+"6ABFDD5F-131F-1770-9961176B5EA12E58","20140317","6-501.11","Floors, walls and ceilings not cleaned and maintained"
+
+"6C840031-3048-9838-FC9B0CAC46A9AC92","20140318","4-501.12","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"7CEBE9B3-1422-201B-19230D9C2A35046B","20140318","5-203.14","Improper plumbing"
+
+"6ABFDD5F-131F-1770-9961176B5EA12E58","20140317","3-302.11","Food not stored safely to prevent contamination"
+
+"6ABFDD5F-131F-1770-9961176B5EA12E58","20140317","3-501.15","Proper cooling methods not used; adequate equipment for temperature control"
+
+"6ABFDD5F-131F-1770-9961176B5EA12E58","20140317","3-302.15","Not washing fruits & vegetables"
+
+"65F92364-BD97-951A-B471BD1A3FC7E1A4","20140318","4-101.19","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"6ABFDD5F-131F-1770-9961176B5EA12E58","20140317","6-202.15","Insects & rodents present; unauthorized animals"
+
+"535F091E-F392-B2C7-A85E71348F05B805","20140317","3-501.16 (A)(2) and (B)","Improper cold holding temperatures"
+
+"7CEBE9B3-1422-201B-19230D9C2A35046B","20140318","3-302.11","Food not stored safely to prevent contamination"
+
+"535F091E-F392-B2C7-A85E71348F05B805","20140317","5-103.11","Hot & cold water unavailable; inadequate water pressure"
+
+"535F091E-F392-B2C7-A85E71348F05B805","20140317","5-202.12","Handwashing sink without soap and towels (dryer), or not accessible"
+
+"535F091E-F392-B2C7-A85E71348F05B805","20140317","4-501.114","Food-contact surfaces:  not cleaned & sanitized"
+
+"7CEBE9B3-1422-201B-19230D9C2A35046B","20140318","3-501.16(A)(1)","Improper hot holding temperatures"
+
+"65F92364-BD97-951A-B471BD1A3FC7E1A4","20140318","3-501.17","Improper date marking"
+
+"535F091E-F392-B2C7-A85E71348F05B805","20140317","3-501.17","Improper date marking"
+
+"7CEBE9B3-1422-201B-19230D9C2A35046B","20140318","3-501.17","Improper date marking"
+
+"6ABFDD5F-131F-1770-9961176B5EA12E58","20140317","6-501.114","Floors, walls and ceilings not cleaned and maintained"
+
+"7CEBE9B3-1422-201B-19230D9C2A35046B","20140318","3-603.11","Warning to consumers for raw or undercooked foods"
+
+"6ABFDD5F-131F-1770-9961176B5EA12E58","20140317","3-501.17","Improper date marking"
+
+"65F92364-BD97-951A-B471BD1A3FC7E1A4","20140318","6-501.113","Floors, walls and ceilings not cleaned and maintained"
+
+"6ABFDD5F-131F-1770-9961176B5EA12E58","20140317","4-903.11(A) and (B)","Utensils, equipment & linens: not properly stored, dried, & handled"
+
+"535F091E-F392-B2C7-A85E71348F05B805","20140317","6-501.18","Bathrooms not clean and/or supplied"
+
+"5A2B9A2C-107A-11EB-317A904C2F2181A5","20140319","2-303.11","Personal Hygiene issues"
+
+"5A2B9A2C-107A-11EB-317A904C2F2181A5","20140319","6-501.14","Does not meet ventilation and lighting requirements"
+
+"7CEBE9B3-1422-201B-19230D9C2A35046B","20140318","6-301.11","Handwashing sink without soap and towels (dryer), or not accessible"
+
+"6ABFDD5F-131F-1770-9961176B5EA12E58","20140317","4-601.11(B) and (C)","Equipment contaminated"
+
+"7921C4AF-CF6C-9FFD-EDD3A31C45A9BBE0","20140319","6-301.14","Handwashing sink without soap and towels (dryer), or not accessible"
+
+"6ABFDD5F-131F-1770-9961176B5EA12E58","20140317","4-502.11(A) and (C)","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"7CEBE9B3-1422-201B-19230D9C2A35046B","20140318","4-204-112","Thermometers not provided & not accurate"
+
+"6C840031-3048-9838-FC9B0CAC46A9AC92","20140318","7-102.11","Toxic substances not properly identified, stored, & used"
+
+"6ABFDD5F-131F-1770-9961176B5EA12E58","20140317","3-302.12","Food not properly labelled; original container"
+
+"7CEBE9B3-1422-201B-19230D9C2A35046B","20140318","4-601.11(B) and (C)","Equipment contaminated"
+
+"6ABFDD5F-131F-1770-9961176B5EA12E58","20140317","7-102.11","Toxic substances not properly identified, stored, & used"
+
+"6ABFDD5F-131F-1770-9961176B5EA12E58","20140317","4-101.19","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"7CEBE9B3-1422-201B-19230D9C2A35046B","20140318","3-306.11","Contamination not prevented during food preparation, storage & display"
+
+"7CEBE9B3-1422-201B-19230D9C2A35046B","20140318","4-903.11(A) and (C)","Disposable utensils no properly stored and used"
+
+"6ABFDD5F-131F-1770-9961176B5EA12E58","20140317","3-304.12","In-use utensils: not properly stored"
+
+"6C840031-3048-9838-FC9B0CAC46A9AC92","20140318","3-302.12","Food not properly labelled; original container"
+
+"5A2B9A2C-107A-11EB-317A904C2F2181A5","20140319","5-501.113","Trash bin area maintained"
+
+"65F92364-BD97-951A-B471BD1A3FC7E1A4","20140318","3-501.13","Improper food thawing"
+
+"535F091E-F392-B2C7-A85E71348F05B805","20140317","3-501.16(A)(1)","Improper hot holding temperatures"
+
+"7CEBE9B3-1422-201B-19230D9C2A35046B","20140318","3-302.11","Food not stored safely to prevent contamination"
+
+"7CEBE9B3-1422-201B-19230D9C2A35046B","20140318","6-301.12","Handwashing sink without soap and towels (dryer), or not accessible"
+
+"6ABFDD5F-131F-1770-9961176B5EA12E58","20140317","4-102.11","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"6ABFDD5F-131F-1770-9961176B5EA12E58","20140317","6-501.12","Floors, walls and ceilings not cleaned and maintained"
+
+"535F091E-F392-B2C7-A85E71348F05B805","20140317","4-205.10","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"6ABFDD5F-131F-1770-9961176B5EA12E58","20140317","5-203.14","Improper plumbing"
+
+"85D1F1BA-E94D-FBF4-436ACBE890A4D817","20140319","2-103.11 (M)","No approved employee health policy to prevent sick employees from working"
+
+"65F92364-BD97-951A-B471BD1A3FC7E1A4","20140318","4-602.11","Food-contact surfaces:  not cleaned & sanitized"
+
+"5A2B9A2C-107A-11EB-317A904C2F2181A5","20140319","7-102.11","Toxic substances not properly identified, stored, & used"
+
+"535F091E-F392-B2C7-A85E71348F05B805","20140317","2-201.11 (A), (B), (C), and (E)","No approved employee health policy to prevent sick employees from working"
+
+"7CEBE9B3-1422-201B-19230D9C2A35046B","20140318","5-501.114","Trash bin area maintained"
+
+"5A2B9A2C-107A-11EB-317A904C2F2181A5","20140319","4-501.11","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"6ABFDD5F-131F-1770-9961176B5EA12E58","20140317","4-601.11 (A)","Food-contact surfaces:  not cleaned & sanitized"
+
+"5A2B9A2C-107A-11EB-317A904C2F2181A5","20140319","5-501.111","Trash bin area maintained"
+
+"6C840031-3048-9838-FC9B0CAC46A9AC92","20140318","4-601.11 (A)","Food-contact surfaces:  not cleaned & sanitized"
+
+"7CEBE9B3-1422-201B-19230D9C2A35046B","20140318","3-501.16 (A)(2) and (B)","Improper cold holding temperatures"
+
+"6C840031-3048-9838-FC9B0CAC46A9AC92","20140318","6-501.11","Floors, walls and ceilings not cleaned and maintained"
+
+"65F92364-BD97-951A-B471BD1A3FC7E1A4","20140318","5-203.15","Improper plumbing"
+
+"7CEBE9B3-1422-201B-19230D9C2A35046B","20140318","3-501.18","Improper date marking"
+
+"65F92364-BD97-951A-B471BD1A3FC7E1A4","20140318","6-501.16","Floors, walls and ceilings not cleaned and maintained"
+
+"6C840031-3048-9838-FC9B0CAC46A9AC92","20140318","4-903.11(A) and (C)","Disposable utensils no properly stored and used"
+
+"7921C4AF-CF6C-9FFD-EDD3A31C45A9BBE0","20140319","4-901.11","Utensils, equipment & linens: not properly stored, dried, & handled"
+
+"6ABFDD5F-131F-1770-9961176B5EA12E58","20140317","3-301.11","Bare hand contact with foods that are ready to eat (won't be cooked any more)"
+
+"6C840031-3048-9838-FC9B0CAC46A9AC92","20140318","4-501.12","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"7CEBE9B3-1422-201B-19230D9C2A35046B","20140318","7-102.11","Toxic substances not properly identified, stored, & used"
+
+"7CEBE9B3-1422-201B-19230D9C2A35046B","20140318","2-401.11","Improper eating, tasting, drinking, or tobacco use"
+
+"535F091E-F392-B2C7-A85E71348F05B805","20140317","3-304.12","In-use utensils: not properly stored"
+
+"7CEBE9B3-1422-201B-19230D9C2A35046B","20140318","4-903.11(A) and (B)","Utensils, equipment & linens: not properly stored, dried, & handled"
+
+"6ABFDD5F-131F-1770-9961176B5EA12E58","20140317","3-304.14","Wiping cloths: not properly used & stored"
+
+"5A2B9A2C-107A-11EB-317A904C2F2181A5","20140319","4-601.11 (A)","Food-contact surfaces:  not cleaned & sanitized"
+
+"5A2B9A2C-107A-11EB-317A904C2F2181A5","20140319","3-501.16 (A)(2) and (B)","Improper cold holding temperatures"
+
+"85D1F1BA-E94D-FBF4-436ACBE890A4D817","20140319","4-903.11(A) and (C)","Disposable utensils no properly stored and used"
+
+"535F091E-F392-B2C7-A85E71348F05B805","20140317","3-302.11","Food not stored safely to prevent contamination"
+
+"7CEBE9B3-1422-201B-19230D9C2A35046B","20140318","6-501.12","Floors, walls and ceilings not cleaned and maintained"
+
+"5A2B9A2C-107A-11EB-317A904C2F2181A5","20140319","2-301.14","Hands not clean and properly washed"
+
+"6ABFDD5F-131F-1770-9961176B5EA12E58","20140317","4-205.10","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"6C840031-3048-9838-FC9B0CAC46A9AC92","20140318","3-305.11","Contamination not prevented during food preparation, storage & display"
+
+"7CEBE9B3-1422-201B-19230D9C2A35046B","20140318","3-302.12","Food not properly labelled; original container"
+
+"B2D42C78-D61C-1CE8-AFFF54D3707CE126","20140319","4-602.13","Equipment contaminated"
+
+"B8C3607A-F4FB-0DB2-40C3FA8FC44169A4","20140318","2-102.12","Manager not present , or manager lacks required food safety training"
+
+"A8AF5F19-B90D-0374-C2BE6E031B2A5127","20140319","4-501.114","Food-contact surfaces:  not cleaned & sanitized"
+
+"A399E5A8-0DBC-17E5-89046DFC5908A8F3","20140319","3-501.19","Food stored for too long without temperature control, and procedure"
+
+"A8FC0700-DA4F-E6EA-2266E579FF2442B7","20140317","3-501.17","Improper date marking"
+
+"A8AF5F19-B90D-0374-C2BE6E031B2A5127","20140319","7-102.11","Toxic substances not properly identified, stored, & used"
+
+"A399E5A8-0DBC-17E5-89046DFC5908A8F3","20140319","4-501.11","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"A8AF5F19-B90D-0374-C2BE6E031B2A5127","20140319","4-903.11(A) and (B)","Utensils, equipment & linens: not properly stored, dried, & handled"
+
+"A399E5A8-0DBC-17E5-89046DFC5908A8F3","20140319","4-501.14","Dishwashing facilities not used properly; sanitizer test strips not available"
+
+"B8C3607A-F4FB-0DB2-40C3FA8FC44169A4","20140318","4-202.16","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"B5DA1649-3048-94EE-98A4ED10B4285F03","20140319","5-203.14","Improper plumbing"
+
+"B5DA1649-3048-94EE-98A4ED10B4285F03","20140319","6-202.11","Does not meet ventilation and lighting requirements"
+
+"A8AF5F19-B90D-0374-C2BE6E031B2A5127","20140319","2-102.11","Manager not present , or manager lacks required food safety training"
+
+"B5DA1649-3048-94EE-98A4ED10B4285F03","20140319","3-501.17","Improper date marking"
+
+"B5DA1649-3048-94EE-98A4ED10B4285F03","20140319","4-501.12","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"B5DA1649-3048-94EE-98A4ED10B4285F03","20140319","2-201.11 (A), (B), (C), and (E)","No approved employee health policy to prevent sick employees from working"
+
+"A399E5A8-0DBC-17E5-89046DFC5908A8F3","20140319","4-205.10","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"AE489067-0030-DBAF-E931C9B5080750D5","20140319","6-201.11","Floors, walls and ceilings not cleaned and maintained"
+
+"B8C3607A-F4FB-0DB2-40C3FA8FC44169A4","20140318","3-501.14","Improper cooling time & temperatures"
+
+"A399E5A8-0DBC-17E5-89046DFC5908A8F3","20140319","3-302.11","Food not stored safely to prevent contamination"
+
+"B8C3607A-F4FB-0DB2-40C3FA8FC44169A4","20140318","4-901.11","Utensils, equipment & linens: not properly stored, dried, & handled"
+
+"B5DA1649-3048-94EE-98A4ED10B4285F03","20140319","5-501.16","Trash bin area maintained"
+
+"B8C3607A-F4FB-0DB2-40C3FA8FC44169A4","20140318","4-501.11","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"B2D42C78-D61C-1CE8-AFFF54D3707CE126","20140319","3-402.11","Required records not available for shellfish and/or sushi, etc."
+
+"ACC3D7EF-3048-98E5-1A3840B68B7267C1","20140318","3-603.11","Warning to consumers for raw or undercooked foods"
+
+"A399E5A8-0DBC-17E5-89046DFC5908A8F3","20140319","2-103.11 (M)","No approved employee health policy to prevent sick employees from working"
+
+"A399E5A8-0DBC-17E5-89046DFC5908A8F3","20140319","5-205.15 (A)(B)","Improper plumbing"
+
+"ACC3D7EF-3048-98E5-1A3840B68B7267C1","20140318","6-201.11","Floors, walls and ceilings not cleaned and maintained"
+
+"A399E5A8-0DBC-17E5-89046DFC5908A8F3","20140319","3-501.13","Improper food thawing"
+
+"B8C3607A-F4FB-0DB2-40C3FA8FC44169A4","20140318","5-202.12","Handwashing sink without soap and towels (dryer), or not accessible"
+
+"B7169E1A-B98D-8E97-79A29CE6712D644F","20140318","4-903.11(A) and (C)","Disposable utensils no properly stored and used"
+
+"B7169E1A-B98D-8E97-79A29CE6712D644F","20140318","2-102.12","Manager not present , or manager lacks required food safety training"
+
+"ACC3D7EF-3048-98E5-1A3840B68B7267C1","20140318","4-501.11","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"A6CA4022-172E-C0F4-E72513EB6FF76963","20140318","5-501.15","Trash bin area maintained"
+
+"AE489067-0030-DBAF-E931C9B5080750D5","20140319","4-205.10","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"A399E5A8-0DBC-17E5-89046DFC5908A8F3","20140319","4-602.13","Equipment contaminated"
+
+"A399E5A8-0DBC-17E5-89046DFC5908A8F3","20140319","3-402.11","Required records not available for shellfish and/or sushi, etc."
+
+"AE489067-0030-DBAF-E931C9B5080750D5","20140319","4-601.11(B) and (C)","Equipment contaminated"
+
+"A399E5A8-0DBC-17E5-89046DFC5908A8F3","20140319","4-903.11(A) and (B)","Utensils, equipment & linens: not properly stored, dried, & handled"
+
+"AE489067-0030-DBAF-E931C9B5080750D5","20140319","4-901.11","Utensils, equipment & linens: not properly stored, dried, & handled"
+
+"A399E5A8-0DBC-17E5-89046DFC5908A8F3","20140319","7-203.11","Toxic substances not properly identified, stored, & used"
+
+"A399E5A8-0DBC-17E5-89046DFC5908A8F3","20140319","4-501.19","Dishwashing facilities not used properly; sanitizer test strips not available"
+
+"ACC3D7EF-3048-98E5-1A3840B68B7267C1","20140318","5-203.14","Improper plumbing"
+
+"B7169E1A-B98D-8E97-79A29CE6712D644F","20140318","2-103.11 (M)","No approved employee health policy to prevent sick employees from working"
+
+"ACC3D7EF-3048-98E5-1A3840B68B7267C1","20140318","2-102.12","Manager not present , or manager lacks required food safety training"
+
+"A8AF5F19-B90D-0374-C2BE6E031B2A5127","20140319","3-603.11","Warning to consumers for raw or undercooked foods"
+
+"B8C3607A-F4FB-0DB2-40C3FA8FC44169A4","20140318","3-501.16(A)(1)","Improper hot holding temperatures"
+
+"A399E5A8-0DBC-17E5-89046DFC5908A8F3","20140319","6-501.11","Floors, walls and ceilings not cleaned and maintained"
+
+"B7169E1A-B98D-8E97-79A29CE6712D644F","20140318","3-501.17","Improper date marking"
+
+"B8C3607A-F4FB-0DB2-40C3FA8FC44169A4","20140318","3-501.16 (A)(2) and (B)","Improper cold holding temperatures"
+
+"AE489067-0030-DBAF-E931C9B5080750D5","20140319","2-402.11","Personal Hygiene issues"
+
+"B5DA1649-3048-94EE-98A4ED10B4285F03","20140319","6-501.12","Floors, walls and ceilings not cleaned and maintained"
+
+"B2D42C78-D61C-1CE8-AFFF54D3707CE126","20140319","3-603.11","Warning to consumers for raw or undercooked foods"
+
+"AE489067-0030-DBAF-E931C9B5080750D5","20140319","3-302.11","Food not stored safely to prevent contamination"
+
+"B5DA1649-3048-94EE-98A4ED10B4285F03","20140319","3-501.15","Proper cooling methods not used; adequate equipment for temperature control"
+
+"A8AF5F19-B90D-0374-C2BE6E031B2A5127","20140319","6-301.11","Handwashing sink without soap and towels (dryer), or not accessible"
+
+"ACC3D7EF-3048-98E5-1A3840B68B7267C1","20140318","2-201.11 (A), (B), (C), and (E)","No approved employee health policy to prevent sick employees from working"
+
+"A8FC0700-DA4F-E6EA-2266E579FF2442B7","20140317","6-301.12","Handwashing sink without soap and towels (dryer), or not accessible"
+
+"B2D42C78-D61C-1CE8-AFFF54D3707CE126","20140319","6-201.11","Floors, walls and ceilings not cleaned and maintained"
+
+"A399E5A8-0DBC-17E5-89046DFC5908A8F3","20140319","4-501.114","Food-contact surfaces:  not cleaned & sanitized"
+
+"A8AF5F19-B90D-0374-C2BE6E031B2A5127","20140319","3-305.11","Contamination not prevented during food preparation, storage & display"
+
+"A399E5A8-0DBC-17E5-89046DFC5908A8F3","20140319","3-304.14","Wiping cloths: not properly used & stored"
+
+"AE489067-0030-DBAF-E931C9B5080750D5","20140319","6-501.14","Does not meet ventilation and lighting requirements"
+
+"B8C3607A-F4FB-0DB2-40C3FA8FC44169A4","20140318","4-602.13","Equipment contaminated"
+
+"B5DA1649-3048-94EE-98A4ED10B4285F03","20140319","4-501.11","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"B5DA1649-3048-94EE-98A4ED10B4285F03","20140319","3-501.16(A)(1)","Improper hot holding temperatures"
+
+"A8AF5F19-B90D-0374-C2BE6E031B2A5127","20140319","3-501.17","Improper date marking"
+
+"B5DA1649-3048-94EE-98A4ED10B4285F03","20140319","3-304.14","Wiping cloths: not properly used & stored"
+
+"ACC3D7EF-3048-98E5-1A3840B68B7267C1","20140318","3-501.17","Improper date marking"
+
+"A399E5A8-0DBC-17E5-89046DFC5908A8F3","20140319","3-501.17","Improper date marking"
+
+"B2D42C78-D61C-1CE8-AFFF54D3707CE126","20140319","3-304.14","Wiping cloths: not properly used & stored"
+
+"AE489067-0030-DBAF-E931C9B5080750D5","20140319","3-603.11","Warning to consumers for raw or undercooked foods"
+
+"B5DA1649-3048-94EE-98A4ED10B4285F03","20140319","4-903.11(A) and (C)","Disposable utensils no properly stored and used"
+
+"AE489067-0030-DBAF-E931C9B5080750D5","20140319","3-304.14","Wiping cloths: not properly used & stored"
+
+"AE489067-0030-DBAF-E931C9B5080750D5","20140319","3-501.16 (A)(2) and (B)","Improper cold holding temperatures"
+
+"A399E5A8-0DBC-17E5-89046DFC5908A8F3","20140319","3-302.12","Food not properly labelled; original container"
+
+"B2D42C78-D61C-1CE8-AFFF54D3707CE126","20140319","2-102.12","Manager not present , or manager lacks required food safety training"
+
+"A399E5A8-0DBC-17E5-89046DFC5908A8F3","20140319","6-501.12","Floors, walls and ceilings not cleaned and maintained"
+
+"B5DA1649-3048-94EE-98A4ED10B4285F03","20140319","4-601.11(B) and (C)","Equipment contaminated"
+
+"B5DA1649-3048-94EE-98A4ED10B4285F03","20140319","5-205.15 (A)(B)","Improper plumbing"
+
+"B7169E1A-B98D-8E97-79A29CE6712D644F","20140318","4-502.11(B)","Thermometers not provided & not accurate"
+
+"A6CA4022-172E-C0F4-E72513EB6FF76963","20140318","4-602.13","Equipment contaminated"
+
+"B5DA1649-3048-94EE-98A4ED10B4285F03","20140319","4-502.11(A) and (C)","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"A8FC0700-DA4F-E6EA-2266E579FF2442B7","20140317","4-202.11","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"A8AF5F19-B90D-0374-C2BE6E031B2A5127","20140319","3-501.16(A)(1)","Improper hot holding temperatures"
+
+"A399E5A8-0DBC-17E5-89046DFC5908A8F3","20140319","7-102.11","Toxic substances not properly identified, stored, & used"
+
+"A399E5A8-0DBC-17E5-89046DFC5908A8F3","20140319","3-603.11","Warning to consumers for raw or undercooked foods"
+
+"A399E5A8-0DBC-17E5-89046DFC5908A8F3","20140319","4-101.17","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"A8AF5F19-B90D-0374-C2BE6E031B2A5127","20140319","5-501.111","Trash bin area maintained"
+
+"A399E5A8-0DBC-17E5-89046DFC5908A8F3","20140319","5-203.15","Improper plumbing"
+
+"ACC3D7EF-3048-98E5-1A3840B68B7267C1","20140318","6-501.14","Does not meet ventilation and lighting requirements"
+
+"A399E5A8-0DBC-17E5-89046DFC5908A8F3","20140319","2-102.12","Manager not present , or manager lacks required food safety training"
+
+"B5DA1649-3048-94EE-98A4ED10B4285F03","20140319","3-305.11","Contamination not prevented during food preparation, storage & display"
+
+"EAE70E0B-9CBA-B697-8CA469BE81743C09","20140319","2-103.11 (M)","No approved employee health policy to prevent sick employees from working"
+
+"E07B2AA4-9DE7-9F10-42914769D7EB9641","20140317","4-402.11","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"E7F680FA-3048-98E5-1A5ABF35C0DF8905","20140319","6-501.11","Floors, walls and ceilings not cleaned and maintained"
+
+"E07B2AA4-9DE7-9F10-42914769D7EB9641","20140317","4-501.19","Dishwashing facilities not used properly; sanitizer test strips not available"
+
+"E7F680FA-3048-98E5-1A5ABF35C0DF8905","20140319","5-501.115","Trash bin area maintained"
+
+"E07B2AA4-9DE7-9F10-42914769D7EB9641","20140317","3-501.17","Improper date marking"
+
+"E7F680FA-3048-98E5-1A5ABF35C0DF8905","20140319","5-203.14","Improper plumbing"
+
+"E07B2AA4-9DE7-9F10-42914769D7EB9641","20140317","2-402.11","Personal Hygiene issues"
+
+"EAE70E0B-9CBA-B697-8CA469BE81743C09","20140319","3-304.12","In-use utensils: not properly stored"
+
+"EAE70E0B-9CBA-B697-8CA469BE81743C09","20140319","6-501.16","Floors, walls and ceilings not cleaned and maintained"
+
+"E07B2AA4-9DE7-9F10-42914769D7EB9641","20140317","5-501.17","Bathrooms not clean and/or supplied"
+
+"E7F680FA-3048-98E5-1A5ABF35C0DF8905","20140319","4-601.11 (A)","Food-contact surfaces:  not cleaned & sanitized"
+
+"E7F680FA-3048-98E5-1A5ABF35C0DF8905","20140319","3-501.17","Improper date marking"
+
+"E7F680FA-3048-98E5-1A5ABF35C0DF8905","20140319","3-304.14","Wiping cloths: not properly used & stored"
+
+"E07B2AA4-9DE7-9F10-42914769D7EB9641","20140317","5-501.16","Trash bin area maintained"
+
+"E7F680FA-3048-98E5-1A5ABF35C0DF8905","20140319","4-502.11(B)","Thermometers not provided & not accurate"
+
+"EAE70E0B-9CBA-B697-8CA469BE81743C09","20140319","3-304.14","Wiping cloths: not properly used & stored"
+
+"E7F680FA-3048-98E5-1A5ABF35C0DF8905","20140319","6-301.14","Handwashing sink without soap and towels (dryer), or not accessible"
+
+"EAE70E0B-9CBA-B697-8CA469BE81743C09","20140319","4-903.11(A) and (B)","Utensils, equipment & linens: not properly stored, dried, & handled"
+
+"EAE70E0B-9CBA-B697-8CA469BE81743C09","20140319","6-201.11","Floors, walls and ceilings not cleaned and maintained"
+
+"E07B2AA4-9DE7-9F10-42914769D7EB9641","20140317","3-302.12","Food not properly labelled; original container"
+
+"E7F680FA-3048-98E5-1A5ABF35C0DF8905","20140319","6-501.12","Floors, walls and ceilings not cleaned and maintained"
+
+"E7F680FA-3048-98E5-1A5ABF35C0DF8905","20140319","4-501.11","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"E07B2AA4-9DE7-9F10-42914769D7EB9641","20140317","5-202.12","Handwashing sink without soap and towels (dryer), or not accessible"
+
+"E7F680FA-3048-98E5-1A5ABF35C0DF8905","20140319","3-603.11","Warning to consumers for raw or undercooked foods"
+
+"E07B2AA4-9DE7-9F10-42914769D7EB9641","20140317","4-205.10","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"E7F680FA-3048-98E5-1A5ABF35C0DF8905","20140319","3-501.14","Improper cooling time & temperatures"
+
+"E07B2AA4-9DE7-9F10-42914769D7EB9641","20140317","6-303.11","Does not meet ventilation and lighting requirements"
+
+"E7F680FA-3048-98E5-1A5ABF35C0DF8905","20140319","4-501.11","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"E07B2AA4-9DE7-9F10-42914769D7EB9641","20140317","5-205.11","Handwashing sink without soap and towels (dryer), or not accessible"
+
+"E07B2AA4-9DE7-9F10-42914769D7EB9641","20140317","3-304.14","Wiping cloths: not properly used & stored"
+
+"E7F680FA-3048-98E5-1A5ABF35C0DF8905","20140319","3-501.15","Proper cooling methods not used; adequate equipment for temperature control"
+
+"EAE70E0B-9CBA-B697-8CA469BE81743C09","20140319","4-601.11 (A)","Food-contact surfaces:  not cleaned & sanitized"
+
+"E07B2AA4-9DE7-9F10-42914769D7EB9641","20140317","3-302.11","Food not stored safely to prevent contamination"
+
+"E7F680FA-3048-98E5-1A5ABF35C0DF8905","20140319","3-302.12","Food not properly labelled; original container"
+
+"E07B2AA4-9DE7-9F10-42914769D7EB9641","20140317","6-501.18","Bathrooms not clean and/or supplied"
+
+"E07B2AA4-9DE7-9F10-42914769D7EB9641","20140317","2-102.12","Manager not present , or manager lacks required food safety training"
+
+"EAE70E0B-9CBA-B697-8CA469BE81743C09","20140319","4-501.11","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"EAE70E0B-9CBA-B697-8CA469BE81743C09","20140319","6-501.14","Does not meet ventilation and lighting requirements"
+
+"E07B2AA4-9DE7-9F10-42914769D7EB9641","20140317","3-304.12","In-use utensils: not properly stored"
+
+"E7F680FA-3048-98E5-1A5ABF35C0DF8905","20140319","5-501.113","Trash bin area maintained"
+
+"E07B2AA4-9DE7-9F10-42914769D7EB9641","20140317","6-301.11","Handwashing sink without soap and towels (dryer), or not accessible"
+
+"E07B2AA4-9DE7-9F10-42914769D7EB9641","20140317","5-205.15 (A)(B)","Improper plumbing"
+
+"E07B2AA4-9DE7-9F10-42914769D7EB9641","20140317","7-201.11","Toxic substances not properly identified, stored, & used"
+
+"E07B2AA4-9DE7-9F10-42914769D7EB9641","20140317","2-401.11","Improper eating, tasting, drinking, or tobacco use"
+
+"E7F680FA-3048-98E5-1A5ABF35C0DF8905","20140319","4-601.11(B) and (C)","Equipment contaminated"
+
+"E07B2AA4-9DE7-9F10-42914769D7EB9641","20140317","4-601.11(B) and (C)","Equipment contaminated"
+
+"00365192-A8F6-87E1-4D85FECDC569C6AB","20140403","7-101.11","Toxic substances not properly identified, stored, & used"
+
+"00365192-A8F6-87E1-4D85FECDC569C6AB","20140403","6-501.113","Floors, walls and ceilings not cleaned and maintained"
+
+"08B080BE-95E8-63F4-3A3FB5E8F57CEE9F","20140404","4-901.11","Utensils, equipment & linens: not properly stored, dried, & handled"
+
+"0A45A024-1422-201B-19D5ABA79D67ACF5","20140403","2-303.11","Personal Hygiene issues"
+
+"00365192-A8F6-87E1-4D85FECDC569C6AB","20140403","2-201.11 (A), (B), (C), and (E)","No approved employee health policy to prevent sick employees from working"
+
+"1732DF51-A710-3EF5-A57DE6E7A24EEC95","20140404","3-304.12","In-use utensils: not properly stored"
+
+"06120DD7-0E13-3205-5876E4A445033F6F","20140403","5-501.110","Trash bin area maintained"
+
+"1261A27C-74C9-58B7-FB57ABED4608E338","20140402","2-103.11 (M)","No approved employee health policy to prevent sick employees from working"
+
+"1732DF51-A710-3EF5-A57DE6E7A24EEC95","20140404","6-303.11","Does not meet ventilation and lighting requirements"
+
+"130627C8-98E5-6336-EEE66A3339962132","20140402","5-203.12","Bathrooms not clean and/or supplied"
+
+"1732DF51-A710-3EF5-A57DE6E7A24EEC95","20140404","5-501.115","Trash bin area maintained"
+
+"1732DF51-A710-3EF5-A57DE6E7A24EEC95","20140404","6-501.12","Floors, walls and ceilings not cleaned and maintained"
+
+"00365192-A8F6-87E1-4D85FECDC569C6AB","20140403","4-501.114","Food-contact surfaces:  not cleaned & sanitized"
+
+"16C8B789-1276-11ED-C47A16AC59DD1301","20140402","4-203.11","Thermometers not provided & not accurate"
+
+"1732DF51-A710-3EF5-A57DE6E7A24EEC95","20140404","5-203.14","Improper plumbing"
+
+"1732DF51-A710-3EF5-A57DE6E7A24EEC95","20140404","7-102.11","Toxic substances not properly identified, stored, & used"
+
+"00365192-A8F6-87E1-4D85FECDC569C6AB","20140403","3-403.11","Improper reheating procedures"
+
+"1732DF51-A710-3EF5-A57DE6E7A24EEC95","20140404","2-102.12","Manager not present , or manager lacks required food safety training"
+
+"00365192-A8F6-87E1-4D85FECDC569C6AB","20140403","5-203.14","Improper plumbing"
+
+"1261A27C-74C9-58B7-FB57ABED4608E338","20140402","5-501.115","Trash bin area maintained"
+
+"00365192-A8F6-87E1-4D85FECDC569C6AB","20140403","3-501.15","Proper cooling methods not used; adequate equipment for temperature control"
+
+"00365192-A8F6-87E1-4D85FECDC569C6AB","20140403","3-501.17","Improper date marking"
+
+"13447CB9-173A-16EC-D4AA19A5846F4252","20140321","4-501.14","Dishwashing facilities not used properly; sanitizer test strips not available"
+
+"085BF69A-3048-983B-2641CA581B73E5BF","20140321","3-304.14","Wiping cloths: not properly used & stored"
+
+"13447CB9-173A-16EC-D4AA19A5846F4252","20140321","4-602.13","Equipment contaminated"
+
+"1355603A-14FD-8BF8-913CA2C79A0B279A","20140320","4-601.11 (A)","Food-contact surfaces:  not cleaned & sanitized"
+
+"13447CB9-173A-16EC-D4AA19A5846F4252","20140321","3-501.19","Food stored for too long without temperature control, and procedure"
+
+"085BF69A-3048-983B-2641CA581B73E5BF","20140321","3-501.17","Improper date marking"
+
+"085BF69A-3048-983B-2641CA581B73E5BF","20140321","4-903.11(A) and (C)","Disposable utensils no properly stored and used"
+
+"085BF69A-3048-983B-2641CA581B73E5BF","20140321","5-501.115","Trash bin area maintained"
+
+"13447CB9-173A-16EC-D4AA19A5846F4252","20140321","6-303.11","Does not meet ventilation and lighting requirements"
+
+"085BF69A-3048-983B-2641CA581B73E5BF","20140321","5-501.111","Trash bin area maintained"
+
+"085BF69A-3048-983B-2641CA581B73E5BF","20140321","5-202.14","Improper plumbing"
+
+"13447CB9-173A-16EC-D4AA19A5846F4252","20140321","3-501.15","Proper cooling methods not used; adequate equipment for temperature control"
+
+"1355603A-14FD-8BF8-913CA2C79A0B279A","20140320","4-501.19","Dishwashing facilities not used properly; sanitizer test strips not available"
+
+"1355603A-14FD-8BF8-913CA2C79A0B279A","20140320","3-501.16 (A)(2) and (B)","Improper cold holding temperatures"
+
+"085BF69A-3048-983B-2641CA581B73E5BF","20140321","3-304.15(B)-(D)","Gloves changed improperly"
+
+"1355603A-14FD-8BF8-913CA2C79A0B279A","20140320","6-501.111","Insects & rodents present; unauthorized animals"
+
+"1355603A-14FD-8BF8-913CA2C79A0B279A","20140320","3-304.14","Wiping cloths: not properly used & stored"
+
+"1355603A-14FD-8BF8-913CA2C79A0B279A","20140320","4-903.11(A) and (B)","Utensils, equipment & linens: not properly stored, dried, & handled"
+
+"085BF69A-3048-983B-2641CA581B73E5BF","20140321","4-502.11(A) and (C)","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"13447CB9-173A-16EC-D4AA19A5846F4252","20140321","5-501.116","Trash bin area maintained"
+
+"13447CB9-173A-16EC-D4AA19A5846F4252","20140321","3-501.14","Improper cooling time & temperatures"
+
+"085BF69A-3048-983B-2641CA581B73E5BF","20140321","5-203.14","Improper plumbing"
+
+"13447CB9-173A-16EC-D4AA19A5846F4252","20140321","3-304.14","Wiping cloths: not properly used & stored"
+
+"13447CB9-173A-16EC-D4AA19A5846F4252","20140321","4-903.11(A) and (B)","Utensils, equipment & linens: not properly stored, dried, & handled"
+
+"13447CB9-173A-16EC-D4AA19A5846F4252","20140321","4-501.11","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"085BF69A-3048-983B-2641CA581B73E5BF","20140321","4-501.11","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"13447CB9-173A-16EC-D4AA19A5846F4252","20140321","3-302.11","Food not stored safely to prevent contamination"
+
+"085BF69A-3048-983B-2641CA581B73E5BF","20140321","6-202.11","Does not meet ventilation and lighting requirements"
+
+"085BF69A-3048-983B-2641CA581B73E5BF","20140321","4-601.11(B) and (C)","Equipment contaminated"
+
+"1355603A-14FD-8BF8-913CA2C79A0B279A","20140320","4-502.11(B)","Thermometers not provided & not accurate"
+
+"13447CB9-173A-16EC-D4AA19A5846F4252","20140321","6-501.12","Floors, walls and ceilings not cleaned and maintained"
+
+"085BF69A-3048-983B-2641CA581B73E5BF","20140321","2-303.11","Personal Hygiene issues"
+
+"1355603A-14FD-8BF8-913CA2C79A0B279A","20140320","4-501.114","Food-contact surfaces:  not cleaned & sanitized"
+
+"13447CB9-173A-16EC-D4AA19A5846F4252","20140321","4-501.110","Dishwashing facilities not used properly; sanitizer test strips not available"
+
+"13447CB9-173A-16EC-D4AA19A5846F4252","20140321","7-101.11","Toxic substances not properly identified, stored, & used"
+
+"1355603A-14FD-8BF8-913CA2C79A0B279A","20140320","5-203.14","Improper plumbing"
+
+"13447CB9-173A-16EC-D4AA19A5846F4252","20140321","3-301.11","Bare hand contact with foods that are ready to eat (won't be cooked any more)"
+
+"085BF69A-3048-983B-2641CA581B73E5BF","20140321","3-501.16(A)(1)","Improper hot holding temperatures"
+
+"085BF69A-3048-983B-2641CA581B73E5BF","20140321","3-603.11","Warning to consumers for raw or undercooked foods"
+
+"1355603A-14FD-8BF8-913CA2C79A0B279A","20140320","4-601.11(B) and (C)","Equipment contaminated"
+
+"13447CB9-173A-16EC-D4AA19A5846F4252","20140321","6-201.11","Floors, walls and ceilings not cleaned and maintained"
+
+"1355603A-14FD-8BF8-913CA2C79A0B279A","20140320","6-501.12","Floors, walls and ceilings not cleaned and maintained"
+
+"085BF69A-3048-983B-2641CA581B73E5BF","20140321","3-501.15","Proper cooling methods not used; adequate equipment for temperature control"
+
+"085BF69A-3048-983B-2641CA581B73E5BF","20140321","5-501.113","Trash bin area maintained"
+
+"1355603A-14FD-8BF8-913CA2C79A0B279A","20140320","4-501.11","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"13447CB9-173A-16EC-D4AA19A5846F4252","20140321","4-601.11 (A)","Food-contact surfaces:  not cleaned & sanitized"
+
+"1355603A-14FD-8BF8-913CA2C79A0B279A","20140320","2-303.11","Personal Hygiene issues"
+
+"085BF69A-3048-983B-2641CA581B73E5BF","20140321","3-501.16 (A)(2) and (B)","Improper cold holding temperatures"
+
+"13447CB9-173A-16EC-D4AA19A5846F4252","20140321","5-501.113","Trash bin area maintained"
+
+"1355603A-14FD-8BF8-913CA2C79A0B279A","20140320","2-301.14","Hands not clean and properly washed"
+
+"13447CB9-173A-16EC-D4AA19A5846F4252","20140321","5-203.14","Improper plumbing"
+
+"13447CB9-173A-16EC-D4AA19A5846F4252","20140321","7-102.11","Toxic substances not properly identified, stored, & used"
+
+"13447CB9-173A-16EC-D4AA19A5846F4252","20140321","3-501.17","Improper date marking"
+
+"25F9D1A8-0345-8EDB-BE437A15AA4AB0B9","20140320","4-501.11","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"25F9D1A8-0345-8EDB-BE437A15AA4AB0B9","20140320","3-304.14","Wiping cloths: not properly used & stored"
+
+"25F9D1A8-0345-8EDB-BE437A15AA4AB0B9","20140320","4-903.11(A) and (C)","Disposable utensils no properly stored and used"
+
+"25F9D1A8-0345-8EDB-BE437A15AA4AB0B9","20140320","3-603.11","Warning to consumers for raw or undercooked foods"
+
+"25F9D1A8-0345-8EDB-BE437A15AA4AB0B9","20140320","6-202.11","Does not meet ventilation and lighting requirements"
+
+"25F9D1A8-0345-8EDB-BE437A15AA4AB0B9","20140320","6-301.12","Handwashing sink without soap and towels (dryer), or not accessible"
+
+"25F9D1A8-0345-8EDB-BE437A15AA4AB0B9","20140320","3-305.12","Contamination not prevented during food preparation, storage & display"
+
+"25F9D1A8-0345-8EDB-BE437A15AA4AB0B9","20140320","5-202.12","Handwashing sink without soap and towels (dryer), or not accessible"
+
+"25F9D1A8-0345-8EDB-BE437A15AA4AB0B9","20140320","4-601.11 (A)","Food-contact surfaces:  not cleaned & sanitized"
+
+"25F9D1A8-0345-8EDB-BE437A15AA4AB0B9","20140320","4-904.11","Utensils, equipment & linens: not properly stored, dried, & handled"
+
+"25F9D1A8-0345-8EDB-BE437A15AA4AB0B9","20140320","3-101.11","Food not safe"
+
+"25F9D1A8-0345-8EDB-BE437A15AA4AB0B9","20140320","4-601.11(B) and (C)","Equipment contaminated"
+
+"496653","20140321","3-302.11","Food not stored safely to prevent contamination"
+
+"495840","20140320","6-501.12","Floors, walls and ceilings not cleaned and maintained"
+
+"495840","20140320","4-602.13","Equipment contaminated"
+
+"495840","20140320","6-202.11","Does not meet ventilation and lighting requirements"
+
+"496653","20140321","4-204.11","Does not meet ventilation and lighting requirements"
+
+"495840","20140320","4-601.11 (A)","Food-contact surfaces:  not cleaned & sanitized"
+
+"495840","20140320","4-202.16","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"496653","20140321","3-501.18","Improper date marking"
+
+"496653","20140321","4-501.114","Food-contact surfaces:  not cleaned & sanitized"
+
+"4E8BC2B5-DBA4-E769-A10C72259BBDA23B","20140320","4-302.12","Thermometers not provided & not accurate"
+
+"499520","20140319","4-501.11","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"4E8BC2B5-DBA4-E769-A10C72259BBDA23B","20140320","4-901.11","Utensils, equipment & linens: not properly stored, dried, & handled"
+
+"498723","20140318","4-501.19","Dishwashing facilities not used properly; sanitizer test strips not available"
+
+"498723","20140318","3-501.19","Food stored for too long without temperature control, and procedure"
+
+"498723","20140318","6-501.12","Floors, walls and ceilings not cleaned and maintained"
+
+"498723","20140318","6-301.12","Handwashing sink without soap and towels (dryer), or not accessible"
+
+"498723","20140318","4-501.11","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"498723","20140318","6-303.11","Does not meet ventilation and lighting requirements"
+
+"4E8BC2B5-DBA4-E769-A10C72259BBDA23B","20140320","5-501.17","Bathrooms not clean and/or supplied"
+
+"498723","20140318","4-601.11 (A)","Food-contact surfaces:  not cleaned & sanitized"
+
+"498723","20140318","4-903.11(A) and (C)","Disposable utensils no properly stored and used"
+
+"4E8BC2B5-DBA4-E769-A10C72259BBDA23B","20140320","4-903.11(A) and (C)","Disposable utensils no properly stored and used"
+
+"4E8BC2B5-DBA4-E769-A10C72259BBDA23B","20140320","4-601.11 (A)","Food-contact surfaces:  not cleaned & sanitized"
+
+"4E8BC2B5-DBA4-E769-A10C72259BBDA23B","20140320","3-302.11","Food not stored safely to prevent contamination"
+
+"498723","20140318","7-201.11","Toxic substances not properly identified, stored, & used"
+
+"499520","20140319","4-501.11","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"4E8BC2B5-DBA4-E769-A10C72259BBDA23B","20140320","4-501.11","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"4E8BC2B5-DBA4-E769-A10C72259BBDA23B","20140320","4-601.11(B) and (C)","Equipment contaminated"
+
+"498723","20140318","2-102.12","Manager not present , or manager lacks required food safety training"
+
+"498723","20140318","3-302.12","Food not properly labelled; original container"
+
+"4E8BC2B5-DBA4-E769-A10C72259BBDA23B","20140320","6-501.114","Floors, walls and ceilings not cleaned and maintained"
+
+"4E8BC2B5-DBA4-E769-A10C72259BBDA23B","20140320","4-205.10","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"499520","20140319","2-401.11","Improper eating, tasting, drinking, or tobacco use"
+
+"498723","20140318","4-502.11(B)","Thermometers not provided & not accurate"
+
+"498723","20140318","6-501.11","Floors, walls and ceilings not cleaned and maintained"
+
+"4E8BC2B5-DBA4-E769-A10C72259BBDA23B","20140320","2-102.12","Manager not present , or manager lacks required food safety training"
+
+"4E8BC2B5-DBA4-E769-A10C72259BBDA23B","20140320","6-501.16","Floors, walls and ceilings not cleaned and maintained"
+
+"4E8BC2B5-DBA4-E769-A10C72259BBDA23B","20140320","3-304.14","Wiping cloths: not properly used & stored"
+
+"498723","20140318","4-601.11(B) and (C)","Equipment contaminated"
+
+"501895","20140320","6-202.11","Does not meet ventilation and lighting requirements"
+
+"501895","20140320","4-501.11","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"501895","20140320","2-401.11","Improper eating, tasting, drinking, or tobacco use"
+
+"501895","20140320","3-304.12","In-use utensils: not properly stored"
+
+"501895","20140320","2-402.11","Personal Hygiene issues"
+
+"501895","20140320","5-501.111","Trash bin area maintained"
+
+"501895","20140320","3-501.18","Improper date marking"
+
+"501895","20140320","5-202.13","Improper plumbing"
+
+"501895","20140320","3-302.11","Food not stored safely to prevent contamination"
+
+"501895","20140320","6-501.11","Floors, walls and ceilings not cleaned and maintained"
+
+"501895","20140320","3-501.15","Proper cooling methods not used; adequate equipment for temperature control"
+
+"501895","20140320","5-205.15 (A)(B)","Improper plumbing"
+
+"501895","20140320","3-501.17","Improper date marking"
+
+"501895","20140320","3-501.14","Improper cooling time & temperatures"
+
+"501895","20140320","4-502.11(B)","Thermometers not provided & not accurate"
+
+"527355","20140321","6-201.11","Floors, walls and ceilings not cleaned and maintained"
+
+"817E2F7B-5322-1469-E56F75490BB37BEF","20140321","4-601.11 (A)","Food-contact surfaces:  not cleaned & sanitized"
+
+"527355","20140321","4-501.11","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"817E2F7B-5322-1469-E56F75490BB37BEF","20140321","4-205.10","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"527355","20140321","6-501.11","Floors, walls and ceilings not cleaned and maintained"
+
+"6AD26AE2-C528-359F-99DFC1A413E0D8B7","20140321","2-401.11","Improper eating, tasting, drinking, or tobacco use"
+
+"817E2F7B-5322-1469-E56F75490BB37BEF","20140321","4-501.11","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"527355","20140321","4-601.11 (A)","Food-contact surfaces:  not cleaned & sanitized"
+
+"527355","20140321","4-601.11(B) and (C)","Equipment contaminated"
+
+"817E2F7B-5322-1469-E56F75490BB37BEF","20140321","6-201.11","Floors, walls and ceilings not cleaned and maintained"
+
+"527355","20140321","3-501.16 (A)(2) and (B)","Improper cold holding temperatures"
+
+"527355","20140321","6-501.12","Floors, walls and ceilings not cleaned and maintained"
+
+"817E2F7B-5322-1469-E56F75490BB37BEF","20140321","5-501.17","Bathrooms not clean and/or supplied"
+
+"817E2F7B-5322-1469-E56F75490BB37BEF","20140321","5-203.14","Improper plumbing"
+
+"817E2F7B-5322-1469-E56F75490BB37BEF","20140321","4-501.19","Dishwashing facilities not used properly; sanitizer test strips not available"
+
+"817E2F7B-5322-1469-E56F75490BB37BEF","20140321","3-501.17","Improper date marking"
+
+"527355","20140321","6-202.11","Does not meet ventilation and lighting requirements"
+
+"817E2F7B-5322-1469-E56F75490BB37BEF","20140321","4-501.12","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"817E2F7B-5322-1469-E56F75490BB37BEF","20140321","4-901.11","Utensils, equipment & linens: not properly stored, dried, & handled"
+
+"527355","20140321","4-901.11","Utensils, equipment & linens: not properly stored, dried, & handled"
+
+"817E2F7B-5322-1469-E56F75490BB37BEF","20140321","6-501.11","Floors, walls and ceilings not cleaned and maintained"
+
+"6AD26AE2-C528-359F-99DFC1A413E0D8B7","20140321","2-402.11","Personal Hygiene issues"
+
+"6AD26AE2-C528-359F-99DFC1A413E0D8B7","20140321","3-501.17","Improper date marking"
+
+"527355","20140321","3-501.16(A)(1)","Improper hot holding temperatures"
+
+"6AD26AE2-C528-359F-99DFC1A413E0D8B7","20140321","4-601.11 (A)","Food-contact surfaces:  not cleaned & sanitized"
+
+"B11D1262-16DD-AB5F-66C9138D7A197A2F","20140319","5-205.15 (A)(B)","Improper plumbing"
+
+"B11D1262-16DD-AB5F-66C9138D7A197A2F","20140319","5-501.115","Trash bin area maintained"
+
+"B11D1262-16DD-AB5F-66C9138D7A197A2F","20140319","3-501.16(A)(1)","Improper hot holding temperatures"
+
+"B11D1262-16DD-AB5F-66C9138D7A197A2F","20140319","3-501.17","Improper date marking"
+
+"B11D1262-16DD-AB5F-66C9138D7A197A2F","20140319","4-502.13","Disposable utensils no properly stored and used"
+
+"B11D1262-16DD-AB5F-66C9138D7A197A2F","20140319","4-101.11","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"B11D1262-16DD-AB5F-66C9138D7A197A2F","20140319","6-202.15","Insects & rodents present; unauthorized animals"
+
+"B11D1262-16DD-AB5F-66C9138D7A197A2F","20140319","5-501.17","Bathrooms not clean and/or supplied"
+
+"B11D1262-16DD-AB5F-66C9138D7A197A2F","20140319","4-502.11(A) and (C)","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"B11D1262-16DD-AB5F-66C9138D7A197A2F","20140319","2-201.11 (A), (B), (C), and (E)","No approved employee health policy to prevent sick employees from working"
+
+"B11D1262-16DD-AB5F-66C9138D7A197A2F","20140319","2-103.11 (A) - (L)","Manager not present , or manager lacks required food safety training"
+
+"B11D1262-16DD-AB5F-66C9138D7A197A2F","20140319","7-203.11","Toxic substances not properly identified, stored, & used"
+
+"B11D1262-16DD-AB5F-66C9138D7A197A2F","20140319","4-903.11(A) and (B)","Utensils, equipment & linens: not properly stored, dried, & handled"
+
+"B11D1262-16DD-AB5F-66C9138D7A197A2F","20140319","4-602.13","Equipment contaminated"
+
+"B11D1262-16DD-AB5F-66C9138D7A197A2F","20140319","3-304.14","Wiping cloths: not properly used & stored"
+
+"B11D1262-16DD-AB5F-66C9138D7A197A2F","20140319","4-601.11 (A)","Food-contact surfaces:  not cleaned & sanitized"
+
+"B11D1262-16DD-AB5F-66C9138D7A197A2F","20140319","6-202.11","Does not meet ventilation and lighting requirements"
+
+"B11D1262-16DD-AB5F-66C9138D7A197A2F","20140319","3-501.16 (A)(2) and (B)","Improper cold holding temperatures"
+
+"B11D1262-16DD-AB5F-66C9138D7A197A2F","20140319","4-703.11","Food-contact surfaces:  not cleaned & sanitized"
+
+"B11D1262-16DD-AB5F-66C9138D7A197A2F","20140319","6-101.11","Floors, walls and ceilings not cleaned and maintained"
+
+"B11D1262-16DD-AB5F-66C9138D7A197A2F","20140319","3-302.12","Food not properly labelled; original container"
+
+"B11D1262-16DD-AB5F-66C9138D7A197A2F","20140319","3-302.11","Food not stored safely to prevent contamination"
+
+"B11D1262-16DD-AB5F-66C9138D7A197A2F","20140319","2-402.11","Personal Hygiene issues"
+
+"B11D1262-16DD-AB5F-66C9138D7A197A2F","20140319","4-501.11","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"E8309E19-D9EF-F75D-D1B18B5C4E1092EB","20140320","3-501.17","Improper date marking"
+
+"E8309E19-D9EF-F75D-D1B18B5C4E1092EB","20140320","5-501.113","Trash bin area maintained"
+
+"DE427A2E-C0F0-DF22-D7E38FEA18ABD1B4","20140320","4-502.13","Disposable utensils no properly stored and used"
+
+"E8309E19-D9EF-F75D-D1B18B5C4E1092EB","20140320","3-603.11","Warning to consumers for raw or undercooked foods"
+
+"E8309E19-D9EF-F75D-D1B18B5C4E1092EB","20140320","6-301.12","Handwashing sink without soap and towels (dryer), or not accessible"
+
+"DE427A2E-C0F0-DF22-D7E38FEA18ABD1B4","20140320","5-501.17","Bathrooms not clean and/or supplied"
+
+"E8309E19-D9EF-F75D-D1B18B5C4E1092EB","20140320","4-903.11(A) and (B)","Utensils, equipment & linens: not properly stored, dried, & handled"
+
+"DE427A2E-C0F0-DF22-D7E38FEA18ABD1B4","20140320","6-303.11","Does not meet ventilation and lighting requirements"
+
+"DE427A2E-C0F0-DF22-D7E38FEA18ABD1B4","20140320","3-304.14","Wiping cloths: not properly used & stored"
+
+"E8309E19-D9EF-F75D-D1B18B5C4E1092EB","20140320","5-202.14","Improper plumbing"
+
+"E8309E19-D9EF-F75D-D1B18B5C4E1092EB","20140320","3-302.11","Food not stored safely to prevent contamination"
+
+"DE427A2E-C0F0-DF22-D7E38FEA18ABD1B4","20140320","4-302.12","Thermometers not provided & not accurate"
+
+"DE427A2E-C0F0-DF22-D7E38FEA18ABD1B4","20140320","2-102.12","Manager not present , or manager lacks required food safety training"
+
+"E8309E19-D9EF-F75D-D1B18B5C4E1092EB","20140320","4-502.13","Disposable utensils no properly stored and used"
+
+"DE427A2E-C0F0-DF22-D7E38FEA18ABD1B4","20140320","3-501.17","Improper date marking"
+
+"DE427A2E-C0F0-DF22-D7E38FEA18ABD1B4","20140320","4-205.10","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"E8309E19-D9EF-F75D-D1B18B5C4E1092EB","20140320","5-501.17","Bathrooms not clean and/or supplied"
+
+"E8309E19-D9EF-F75D-D1B18B5C4E1092EB","20140320","3-302.11","Food not stored safely to prevent contamination"
+
+"DE427A2E-C0F0-DF22-D7E38FEA18ABD1B4","20140320","4-501.11","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"DE427A2E-C0F0-DF22-D7E38FEA18ABD1B4","20140320","6-101.11","Floors, walls and ceilings not cleaned and maintained"
+
+"DE427A2E-C0F0-DF22-D7E38FEA18ABD1B4","20140320","4-602.13","Equipment contaminated"
+
+"E8309E19-D9EF-F75D-D1B18B5C4E1092EB","20140320","2-401.11","Improper eating, tasting, drinking, or tobacco use"
+
+"DE427A2E-C0F0-DF22-D7E38FEA18ABD1B4","20140320","3-302.12","Food not properly labelled; original container"
+
+"DE427A2E-C0F0-DF22-D7E38FEA18ABD1B4","20140320","3-501.16 (A)(2) and (B)","Improper cold holding temperatures"
+
+"DE427A2E-C0F0-DF22-D7E38FEA18ABD1B4","20140320","4-903.11(A) and (B)","Utensils, equipment & linens: not properly stored, dried, & handled"
+
+"DE427A2E-C0F0-DF22-D7E38FEA18ABD1B4","20140320","4-502.11(A) and (C)","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"DE427A2E-C0F0-DF22-D7E38FEA18ABD1B4","20140320","3-302.11","Food not stored safely to prevent contamination"
+
+"E8309E19-D9EF-F75D-D1B18B5C4E1092EB","20140320","4-903.11(A) and (C)","Disposable utensils no properly stored and used"
+
+"E8309E19-D9EF-F75D-D1B18B5C4E1092EB","20140320","6-202.11","Does not meet ventilation and lighting requirements"
+
+"E8309E19-D9EF-F75D-D1B18B5C4E1092EB","20140320","5-501.114","Trash bin area maintained"
+
+"17F1D385-BE09-6BD0-7A88C1624D7C3ABC","20140326","2-102.12","Manager not present , or manager lacks required food safety training"
+
+"0B4D3655-9183-E0D4-0A8CDF1A87CBBD98","20140326","4-204-112","Thermometers not provided & not accurate"
+
+"18176CF9-197D-1801-C784172943D00E5F","20140324","4-601.11 (A)","Food-contact surfaces:  not cleaned & sanitized"
+
+"10B95BE1-C6ED-6ED7-77651B9EDEF0A73C","20140326","3-304.12","In-use utensils: not properly stored"
+
+"09CD5F39-BB6A-3A29-5521E52514E45641","20140326","6-501.11","Floors, walls and ceilings not cleaned and maintained"
+
+"10D8C2DC-15E0-B1E5-8A51E3137020AC26","20140325","3-304.12","In-use utensils: not properly stored"
+
+"1842CBB0-19EF-10BD-2EB713106AD3E1A6","20140328","6-501.18","Bathrooms not clean and/or supplied"
+
+"09CD5F39-BB6A-3A29-5521E52514E45641","20140326","3-501.17","Improper date marking"
+
+"0A34A22A-1422-201B-19C3CA251CE423A7","20140326","3-305.11","Contamination not prevented during food preparation, storage & display"
+
+"1842CBB0-19EF-10BD-2EB713106AD3E1A6","20140328","6-501.14","Does not meet ventilation and lighting requirements"
+
+"0A34A22A-1422-201B-19C3CA251CE423A7","20140326","4-601.11 (A)","Food-contact surfaces:  not cleaned & sanitized"
+
+"1492B259-95E8-1E13-D9337D6CFF34879F","20140324","5-501.115","Trash bin area maintained"
+
+"11837200-AA38-6721-3BB117E0C1C4E631","20140324","2-301.12","Hands not clean and properly washed"
+
+"1842CBB0-19EF-10BD-2EB713106AD3E1A6","20140328","2-401.11","Improper eating, tasting, drinking, or tobacco use"
+
+"10AAB7A0-568B-ED86-1C7A14F3077A78C9","20140325","4-602.11","Food-contact surfaces:  not cleaned & sanitized"
+
+"09CD5F39-BB6A-3A29-5521E52514E45641","20140326","7-201.11","Toxic substances not properly identified, stored, & used"
+
+"188054C8-EA17-D7E4-283448B419D3106A","20140325","4-203.11","Thermometers not provided & not accurate"
+
+"10AAB7A0-568B-ED86-1C7A14F3077A78C9","20140325","3-501.16 (A)(2) and (B)","Improper cold holding temperatures"
+
+"10D8C2DC-15E0-B1E5-8A51E3137020AC26","20140325","4-501.11","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"0A34A22A-1422-201B-19C3CA251CE423A7","20140326","4-903.11(A) and (B)","Utensils, equipment & linens: not properly stored, dried, & handled"
+
+"1291FBA8-1805-186E-937613F25B65F04B","20140331","7-201.11","Toxic substances not properly identified, stored, & used"
+
+"11837200-AA38-6721-3BB117E0C1C4E631","20140324","4-602.13","Equipment contaminated"
+
+"09CD5F39-BB6A-3A29-5521E52514E45641","20140326","3-304.14","Wiping cloths: not properly used & stored"
+
+"18176CF9-197D-1801-C784172943D00E5F","20140324","7-201.11","Toxic substances not properly identified, stored, & used"
+
+"04F99854-009D-5139-7286AC66B1ED4DAF","20140326","3-302.11","Food not stored safely to prevent contamination"
+
+"10D8C2DC-15E0-B1E5-8A51E3137020AC26","20140325","3-501.17","Improper date marking"
+
+"09CD5F39-BB6A-3A29-5521E52514E45641","20140326","4-502.13","Disposable utensils no properly stored and used"
+
+"1291FBA8-1805-186E-937613F25B65F04B","20140331","4-501.11","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"12903B17-7644-F0F5-407914433970878E","20140328","3-304.14","Wiping cloths: not properly used & stored"
+
+"1291FBA8-1805-186E-937613F25B65F04B","20140331","4-903.11(A) and (B)","Utensils, equipment & linens: not properly stored, dried, & handled"
+
+"1842CBB0-19EF-10BD-2EB713106AD3E1A6","20140328","5-501.116","Trash bin area maintained"
+
+"0B4D3655-9183-E0D4-0A8CDF1A87CBBD98","20140326","2-301.12","Hands not clean and properly washed"
+
+"1492B259-95E8-1E13-D9337D6CFF34879F","20140324","3-501.16(A)(1)","Improper hot holding temperatures"
+
+"1842CBB0-19EF-10BD-2EB713106AD3E1A6","20140328","6-202.11","Does not meet ventilation and lighting requirements"
+
+"1842CBB0-19EF-10BD-2EB713106AD3E1A6","20140328","5-203.14","Improper plumbing"
+
+"1291FBA8-1805-186E-937613F25B65F04B","20140331","5-501.17","Bathrooms not clean and/or supplied"
+
+"1492B259-95E8-1E13-D9337D6CFF34879F","20140324","5-203.14","Improper plumbing"
+
+"10B95BE1-C6ED-6ED7-77651B9EDEF0A73C","20140326","3-501.19","Food stored for too long without temperature control, and procedure"
+
+"10AAB7A0-568B-ED86-1C7A14F3077A78C9","20140325","6-301.14","Handwashing sink without soap and towels (dryer), or not accessible"
+
+"0B4D3655-9183-E0D4-0A8CDF1A87CBBD98","20140326","2-303.11","Personal Hygiene issues"
+
+"1492B259-95E8-1E13-D9337D6CFF34879F","20140324","6-501.12","Floors, walls and ceilings not cleaned and maintained"
+
+"17F1D385-BE09-6BD0-7A88C1624D7C3ABC","20140326","3-501.19","Food stored for too long without temperature control, and procedure"
+
+"0A34A22A-1422-201B-19C3CA251CE423A7","20140326","6-501.12","Floors, walls and ceilings not cleaned and maintained"
+
+"0A34A22A-1422-201B-19C3CA251CE423A7","20140326","6-202.11","Does not meet ventilation and lighting requirements"
+
+"18176CF9-197D-1801-C784172943D00E5F","20140324","6-303.11","Does not meet ventilation and lighting requirements"
+
+"11837200-AA38-6721-3BB117E0C1C4E631","20140324","6-501.12","Floors, walls and ceilings not cleaned and maintained"
+
+"10AAB7A0-568B-ED86-1C7A14F3077A78C9","20140325","5-205.11","Handwashing sink without soap and towels (dryer), or not accessible"
+
+"1842CBB0-19EF-10BD-2EB713106AD3E1A6","20140328","4-601.11 (A)","Food-contact surfaces:  not cleaned & sanitized"
+
+"12903B17-7644-F0F5-407914433970878E","20140328","4-501.114","Food-contact surfaces:  not cleaned & sanitized"
+
+"0A34A22A-1422-201B-19C3CA251CE423A7","20140326","3-501.17","Improper date marking"
+
+"0A34A22A-1422-201B-19C3CA251CE423A7","20140326","6-501.11","Floors, walls and ceilings not cleaned and maintained"
+
+"0B4D3655-9183-E0D4-0A8CDF1A87CBBD98","20140326","4-901.11","Utensils, equipment & linens: not properly stored, dried, & handled"
+
+"1842CBB0-19EF-10BD-2EB713106AD3E1A6","20140328","4-501.14","Dishwashing facilities not used properly; sanitizer test strips not available"
+
+"1291FBA8-1805-186E-937613F25B65F04B","20140331","6-303.11","Does not meet ventilation and lighting requirements"
+
+"10D8C2DC-15E0-B1E5-8A51E3137020AC26","20140325","6-501.12","Floors, walls and ceilings not cleaned and maintained"
+
+"1291FBA8-1805-186E-937613F25B65F04B","20140331","4-602.13","Equipment contaminated"
+
+"1492B259-95E8-1E13-D9337D6CFF34879F","20140324","5-501.111","Trash bin area maintained"
+
+"1492B259-95E8-1E13-D9337D6CFF34879F","20140324","4-601.11(B) and (C)","Equipment contaminated"
+
+"1842CBB0-19EF-10BD-2EB713106AD3E1A6","20140328","6-501.12","Floors, walls and ceilings not cleaned and maintained"
+
+"1842CBB0-19EF-10BD-2EB713106AD3E1A6","20140328","2-201.11 (A), (B), (C), and (E)","No approved employee health policy to prevent sick employees from working"
+
+"12903B17-7644-F0F5-407914433970878E","20140328","4-601.11 (A)","Food-contact surfaces:  not cleaned & sanitized"
+
+"11837200-AA38-6721-3BB117E0C1C4E631","20140324","4-903.11(A) and (C)","Disposable utensils no properly stored and used"
+
+"10AAB7A0-568B-ED86-1C7A14F3077A78C9","20140325","4-501.11","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"10AAB7A0-568B-ED86-1C7A14F3077A78C9","20140325","6-301.12","Handwashing sink without soap and towels (dryer), or not accessible"
+
+"10B95BE1-C6ED-6ED7-77651B9EDEF0A73C","20140326","3-305.11","Contamination not prevented during food preparation, storage & display"
+
+"10D8C2DC-15E0-B1E5-8A51E3137020AC26","20140325","4-903.11(A) and (C)","Disposable utensils no properly stored and used"
+
+"11837200-AA38-6721-3BB117E0C1C4E631","20140324","6-301.12","Handwashing sink without soap and towels (dryer), or not accessible"
+
+"1291FBA8-1805-186E-937613F25B65F04B","20140331","3-501.17","Improper date marking"
+
+"10B95BE1-C6ED-6ED7-77651B9EDEF0A73C","20140326","3-501.16(A)(1)","Improper hot holding temperatures"
+
+"188054C8-EA17-D7E4-283448B419D3106A","20140325","4-903.11(A) and (B)","Utensils, equipment & linens: not properly stored, dried, & handled"
+
+"1842CBB0-19EF-10BD-2EB713106AD3E1A6","20140328","6-303.11","Does not meet ventilation and lighting requirements"
+
+"10D8C2DC-15E0-B1E5-8A51E3137020AC26","20140325","4-602.13","Equipment contaminated"
+
+"11837200-AA38-6721-3BB117E0C1C4E631","20140324","2-103.11 (A) - (L)","Manager not present , or manager lacks required food safety training"
+
+"0B4D3655-9183-E0D4-0A8CDF1A87CBBD98","20140326","4-601.11(B) and (C)","Equipment contaminated"
+
+"10D8C2DC-15E0-B1E5-8A51E3137020AC26","20140325","5-501.17","Bathrooms not clean and/or supplied"
+
+"09CD5F39-BB6A-3A29-5521E52514E45641","20140326","5-202.12","Handwashing sink without soap and towels (dryer), or not accessible"
+
+"0A34A22A-1422-201B-19C3CA251CE423A7","20140326","3-304.14","Wiping cloths: not properly used & stored"
+
+"10D8C2DC-15E0-B1E5-8A51E3137020AC26","20140325","5-202.12","Handwashing sink without soap and towels (dryer), or not accessible"
+
+"1842CBB0-19EF-10BD-2EB713106AD3E1A6","20140328","4-501.11","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"1492B259-95E8-1E13-D9337D6CFF34879F","20140324","6-501.11","Floors, walls and ceilings not cleaned and maintained"
+
+"1291FBA8-1805-186E-937613F25B65F04B","20140331","2-401.11","Improper eating, tasting, drinking, or tobacco use"
+
+"17F1D385-BE09-6BD0-7A88C1624D7C3ABC","20140326","3-304.14","Wiping cloths: not properly used & stored"
+
+"0B4D3655-9183-E0D4-0A8CDF1A87CBBD98","20140326","2-103.11 (M)","No approved employee health policy to prevent sick employees from working"
+
+"11837200-AA38-6721-3BB117E0C1C4E631","20140324","4-501.11","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"17F1D385-BE09-6BD0-7A88C1624D7C3ABC","20140326","3-302.11","Food not stored safely to prevent contamination"
+
+"0A34A22A-1422-201B-19C3CA251CE423A7","20140326","4-602.13","Equipment contaminated"
+
+"0A34A22A-1422-201B-19C3CA251CE423A7","20140326","5-205.11","Handwashing sink without soap and towels (dryer), or not accessible"
+
+"18176CF9-197D-1801-C784172943D00E5F","20140324","3-302.11","Food not stored safely to prevent contamination"
+
+"10B95BE1-C6ED-6ED7-77651B9EDEF0A73C","20140326","2-102.12","Manager not present , or manager lacks required food safety training"
+
+"10D8C2DC-15E0-B1E5-8A51E3137020AC26","20140325","3-501.15","Proper cooling methods not used; adequate equipment for temperature control"
+
+"09CD5F39-BB6A-3A29-5521E52514E45641","20140326","3-501.13","Improper food thawing"
+
+"12903B17-7644-F0F5-407914433970878E","20140328","6-501.12","Floors, walls and ceilings not cleaned and maintained"
+
+"18176CF9-197D-1801-C784172943D00E5F","20140324","4-501.11","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"12903B17-7644-F0F5-407914433970878E","20140328","4-602.13","Equipment contaminated"
+
+"0B4D3655-9183-E0D4-0A8CDF1A87CBBD98","20140326","4-501.11","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"10B95BE1-C6ED-6ED7-77651B9EDEF0A73C","20140326","3-306.11","Contamination not prevented during food preparation, storage & display"
+
+"1842CBB0-19EF-10BD-2EB713106AD3E1A6","20140328","4-501.114","Food-contact surfaces:  not cleaned & sanitized"
+
+"11837200-AA38-6721-3BB117E0C1C4E631","20140324","2-301.14","Hands not clean and properly washed"
+
+"1291FBA8-1805-186E-937613F25B65F04B","20140331","3-304.12","In-use utensils: not properly stored"
+
+"1492B259-95E8-1E13-D9337D6CFF34879F","20140324","4-901.11","Utensils, equipment & linens: not properly stored, dried, & handled"
+
+"11837200-AA38-6721-3BB117E0C1C4E631","20140324","3-302.11","Food not stored safely to prevent contamination"
+
+"1291FBA8-1805-186E-937613F25B65F04B","20140331","4-502.13","Disposable utensils no properly stored and used"
+
+"11837200-AA38-6721-3BB117E0C1C4E631","20140324","5-501.116","Trash bin area maintained"
+
+"10D8C2DC-15E0-B1E5-8A51E3137020AC26","20140325","4-903.11(A) and (B)","Utensils, equipment & linens: not properly stored, dried, & handled"
+
+"11837200-AA38-6721-3BB117E0C1C4E631","20140324","7-201.11","Toxic substances not properly identified, stored, & used"
+
+"18176CF9-197D-1801-C784172943D00E5F","20140324","3-302.11","Food not stored safely to prevent contamination"
+
+"11837200-AA38-6721-3BB117E0C1C4E631","20140324","5-203.14","Improper plumbing"
+
+"0A34A22A-1422-201B-19C3CA251CE423A7","20140326","4-501.14","Dishwashing facilities not used properly; sanitizer test strips not available"
+
+"1842CBB0-19EF-10BD-2EB713106AD3E1A6","20140328","3-302.11","Food not stored safely to prevent contamination"
+
+"1291FBA8-1805-186E-937613F25B65F04B","20140331","4-601.11 (A)","Food-contact surfaces:  not cleaned & sanitized"
+
+"1492B259-95E8-1E13-D9337D6CFF34879F","20140324","2-102.11","Manager not present , or manager lacks required food safety training"
+
+"1842CBB0-19EF-10BD-2EB713106AD3E1A6","20140328","4-602.13","Equipment contaminated"
+
+"10AAB7A0-568B-ED86-1C7A14F3077A78C9","20140325","5-501.17","Bathrooms not clean and/or supplied"
+
+"18176CF9-197D-1801-C784172943D00E5F","20140324","4-602.13","Equipment contaminated"
+
+"18176CF9-197D-1801-C784172943D00E5F","20140324","6-501.12","Floors, walls and ceilings not cleaned and maintained"
+
+"10B95BE1-C6ED-6ED7-77651B9EDEF0A73C","20140326","4-903.11(A) and (C)","Disposable utensils no properly stored and used"
+
+"1842CBB0-19EF-10BD-2EB713106AD3E1A6","20140328","3-501.17","Improper date marking"
+
+"17F1D385-BE09-6BD0-7A88C1624D7C3ABC","20140326","6-301.14","Handwashing sink without soap and towels (dryer), or not accessible"
+
+"10AAB7A0-568B-ED86-1C7A14F3077A78C9","20140325","4-502.11(A) and (C)","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"10B95BE1-C6ED-6ED7-77651B9EDEF0A73C","20140326","3-302.11","Food not stored safely to prevent contamination"
+
+"11837200-AA38-6721-3BB117E0C1C4E631","20140324","3-501.16 (A)(2) and (B)","Improper cold holding temperatures"
+
+"11837200-AA38-6721-3BB117E0C1C4E631","20140324","3-304.14","Wiping cloths: not properly used & stored"
+
+"0A34A22A-1422-201B-19C3CA251CE423A7","20140326","3-305.14","Contamination not prevented during food preparation, storage & display"
+
+"09CD5F39-BB6A-3A29-5521E52514E45641","20140326","6-501.12","Floors, walls and ceilings not cleaned and maintained"
+
+"0A34A22A-1422-201B-19C3CA251CE423A7","20140326","3-304.11","Food not stored safely to prevent contamination"
+
+"0A34A22A-1422-201B-19C3CA251CE423A7","20140326","5-203.12","Bathrooms not clean and/or supplied"
+
+"495160","20140327","3-501.17","Improper date marking"
+
+"273DB447-C86B-AA84-1B080AA333406F5D","20140325","5-202.14","Improper plumbing"
+
+"45067401-D5A3-7CF2-E359153BE218CEF9","20140326","3-603.11","Warning to consumers for raw or undercooked foods"
+
+"495160","20140327","3-501.16(A)(1)","Improper hot holding temperatures"
+
+"240B781D-A1CB-7EE6-963C97F304FDEDC4","20140325","2-401.11","Improper eating, tasting, drinking, or tobacco use"
+
+"45067401-D5A3-7CF2-E359153BE218CEF9","20140326","5-202.14","Improper plumbing"
+
+"240B781D-A1CB-7EE6-963C97F304FDEDC4","20140325","3-302.11","Food not stored safely to prevent contamination"
+
+"495160","20140327","5-203.14","Improper plumbing"
+
+"22FE4545-B59D-6633-A785A1BFD3E6ECBF","20140314","6-501.14","Does not meet ventilation and lighting requirements"
+
+"3B69E29D-94F4-B972-396E696B95BE9A80","20140331","6-301.11","Handwashing sink without soap and towels (dryer), or not accessible"
+
+"495160","20140327","6-501.12","Floors, walls and ceilings not cleaned and maintained"
+
+"1E61AB0D-C937-0077-106529422FECB55A","20140321","3-501.16(A)(1)","Improper hot holding temperatures"
+
+"48C1B576-D912-4CD0-8351748EE64D4677","20140321","6-501.11","Floors, walls and ceilings not cleaned and maintained"
+
+"1E61AB0D-C937-0077-106529422FECB55A","20140321","5-501.16","Trash bin area maintained"
+
+"3B69E29D-94F4-B972-396E696B95BE9A80","20140331","4-901.11","Utensils, equipment & linens: not properly stored, dried, & handled"
+
+"494791","20140328","4-602.13","Equipment contaminated"
+
+"240B781D-A1CB-7EE6-963C97F304FDEDC4","20140325","4-501.11","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"494791","20140328","4-501.11","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"494791","20140328","6-201.11","Floors, walls and ceilings not cleaned and maintained"
+
+"495160","20140327","3-302.11","Food not stored safely to prevent contamination"
+
+"22FE4545-B59D-6633-A785A1BFD3E6ECBF","20140314","4-901.11","Utensils, equipment & linens: not properly stored, dried, & handled"
+
+"46B21B45-1422-201B-191ECFDB0267ADA4","20140331","5-501.15","Trash bin area maintained"
+
+"48C1B576-D912-4CD0-8351748EE64D4677","20140321","4-501.11","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"1E61AB0D-C937-0077-106529422FECB55A","20140321","3-302.11","Food not stored safely to prevent contamination"
+
+"22FE4545-B59D-6633-A785A1BFD3E6ECBF","20140314","4-302.14","Dishwashing facilities not used properly; sanitizer test strips not available"
+
+"48C1B576-D912-4CD0-8351748EE64D4677","20140321","7-201.11","Toxic substances not properly identified, stored, & used"
+
+"495160","20140327","4-901.11","Utensils, equipment & linens: not properly stored, dried, & handled"
+
+"46B21B45-1422-201B-191ECFDB0267ADA4","20140331","6-501.12","Floors, walls and ceilings not cleaned and maintained"
+
+"1E61AB0D-C937-0077-106529422FECB55A","20140321","3-603.11","Warning to consumers for raw or undercooked foods"
+
+"273DB447-C86B-AA84-1B080AA333406F5D","20140325","3-304.14","Wiping cloths: not properly used & stored"
+
+"45067401-D5A3-7CF2-E359153BE218CEF9","20140326","6-501.12","Floors, walls and ceilings not cleaned and maintained"
+
+"48C1B576-D912-4CD0-8351748EE64D4677","20140321","6-501.114","Floors, walls and ceilings not cleaned and maintained"
+
+"494791","20140328","4-501.12","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"45067401-D5A3-7CF2-E359153BE218CEF9","20140326","4-601.11(B) and (C)","Equipment contaminated"
+
+"22FE4545-B59D-6633-A785A1BFD3E6ECBF","20140314","6-501.13","Floors, walls and ceilings not cleaned and maintained"
+
+"46B21B45-1422-201B-191ECFDB0267ADA4","20140331","7-101.11","Toxic substances not properly identified, stored, & used"
+
+"48C1B576-D912-4CD0-8351748EE64D4677","20140321","4-202.16","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"273DB447-C86B-AA84-1B080AA333406F5D","20140325","5-501.17","Bathrooms not clean and/or supplied"
+
+"46B21B45-1422-201B-191ECFDB0267ADA4","20140331","4-602.13","Equipment contaminated"
+
+"3B69E29D-94F4-B972-396E696B95BE9A80","20140331","3-302.11","Food not stored safely to prevent contamination"
+
+"495160","20140327","6-201.11","Floors, walls and ceilings not cleaned and maintained"
+
+"495160","20140327","6-501.14","Does not meet ventilation and lighting requirements"
+
+"240B781D-A1CB-7EE6-963C97F304FDEDC4","20140325","6-303.11","Does not meet ventilation and lighting requirements"
+
+"48C1B576-D912-4CD0-8351748EE64D4677","20140321","3-501.16(A)(1) ","Improper hot holding temperatures"
+
+"1E61AB0D-C937-0077-106529422FECB55A","20140321","3-306.11","Contamination not prevented during food preparation, storage & display"
+
+"48C1B576-D912-4CD0-8351748EE64D4677","20140321","3-603.11","Warning to consumers for raw or undercooked foods"
+
+"240B781D-A1CB-7EE6-963C97F304FDEDC4","20140325","3-501.17","Improper date marking"
+
+"48C1B576-D912-4CD0-8351748EE64D4677","20140321","4-501.12","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"3B69E29D-94F4-B972-396E696B95BE9A80","20140331","4-501.11","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"1E61AB0D-C937-0077-106529422FECB55A","20140321","4-202.16","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"240B781D-A1CB-7EE6-963C97F304FDEDC4","20140325","6-501.16","Floors, walls and ceilings not cleaned and maintained"
+
+"3B69E29D-94F4-B972-396E696B95BE9A80","20140331","6-303.11","Does not meet ventilation and lighting requirements"
+
+"495160","20140327","3-501.16 (A)(2) and (B)","Improper cold holding temperatures"
+
+"495160","20140327","4-501.114","Food-contact surfaces:  not cleaned & sanitized"
+
+"45067401-D5A3-7CF2-E359153BE218CEF9","20140326","3-501.18","Improper date marking"
+
+"1E61AB0D-C937-0077-106529422FECB55A","20140321","3-302.12","Food not properly labelled; original container"
+
+"1E61AB0D-C937-0077-106529422FECB55A","20140321","3-501.16 (A)(2) and (B)","Improper cold holding temperatures"
+
+"495160","20140327","4-601.11(B) and (C)","Equipment contaminated"
+
+"4897FC80-B9F8-1AB8-EC8EB737D319E394","20140331","4-202.11","Equipment, food & non-food-contact surfaces not cleanable and safe"
+
+"494791","20140328","3-501.19","Food stored for too long without temperature control, and procedure"
+
+"48C1B576-D912-4CD0-8351748EE64D4677","20140321","5-501.17","Bathrooms not clean and/or supplied"
+
+"3B69E29D-94F4-B972-396E696B95BE9A80","20140331","3-305.12","Contamination not prevented during food preparation, storage & display"
+
+"48C1B576-D912-4CD0-8351748EE64D4677","20140321","2-402.11","Personal Hygiene issues"
+
+"3B69E29D-94F4-B972-396E696B95BE9A80","20140331","4-302.12","Thermometers not provided & not accurate"
+
+"494791","20140328","3-304.14","Wiping cloths: not properly used & stored"
+
+"495160","20140327","2-102.12","Manager not present , or manager lacks required food safety training"
+
+"45067401-D5A3-7CF2-E359153BE218CEF9","20140326","5-205.15 (A)(B)","Improper plumbing"
+
+"273DB447-C86B-AA84-1B080AA333406F5D","20140325","4-602.13","Equipment contaminated"
+
+"46B21B45-1422-201B-191ECFDB0267ADA4","20140331","3-305.11","Contamination not prevented during food preparation, storage & display"
+
+"46B21B45-1422-201B-191ECFDB0267ADA4","20140331","6-202.11","Does not meet ventilation and lighting requirements"
+
+"48C1B576-D912-4CD0-8351748EE64D4677","20140321","4-501.114","Food-contact surfaces:  not cleaned & sanitized"
+
+"45067401-D5A3-7CF2-E359153BE218CEF9","20140326","4-903.11(A) and (C)","Disposable utensils no properly stored and used"
+
+"495160","20140327","6-501.16","Floors, walls and ceilings not cleaned and maintained"
+
+"1E61AB0D-C937-0077-106529422FECB55A","20140321","4-204.119","Dishwashing facilities not used properly; sanitizer test strips not available"
+
+"495160","20140327","3-304.14","Wiping cloths: not properly used & stored"
+
+"45067401-D5A3-7CF2-E359153BE218CEF9","20140326","4-903.11(A) and (B)","Utensils, equipment & linens: not properly stored, dried, & handled"
+
+"240B781D-A1CB-7EE6-963C97F304FDEDC4","20140325","6-501.14","Does not meet ventilation and lighting requirements"
+
+"48C1B576-D912-4CD0-8351748EE64D4677","20140321","4-602.13","Equipment contaminated"
+
+"240B781D-A1CB-7EE6-963C97F304FDEDC4","20140325","6-501.12","Floors, walls and ceilings not cleaned and maintained"
+
+"494791","20140328","6-501.111","Insects & rodents present; unauthorized animals"
+
+"240B781D-A1CB-7EE6-963C97F304FDEDC4","20140325","3-304.12","In-use utensils: not properly stored"
+
+"273DB447-C86B-AA84-1B080AA333406F5D","20140325","3-301.11","Bare hand contact with foods that are ready to eat (won't be cooked any more)"
+
+"494791","20140328","3-501.16 (A)(2) and (B)","Improper cold holding temperatures"
+
+"48C1B576-D912-4CD0-8351748EE64D4677","20140321","3-302.11","Food not stored safely to prevent contamination"
+
+"45067401-D5A3-7CF2-E359153BE218CEF9","20140326","4-901.11","Utensils, equipment & linens: not properly stored, dried, & handled"
+
+"495160","20140327","3-603.11","Warning to consumers for raw or undercooked foods"
+
+"1E61AB0D-C937-0077-106529422FECB55A","20140321","3-304.12","In-use utensils: not properly stored"

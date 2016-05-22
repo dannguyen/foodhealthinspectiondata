@@ -1,0 +1,1999 @@
+"business_id","date","code","description"
+
+"PR0000005","20160105","02E","Standard Not Met: Smoking, Eating, Drinking"
+
+"PR0000005","20160105","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000005","20160105","05D","Standard Not Met: Sewage Disposal"
+
+"PR0000005","20160105","08A","Standard Not Met: Properly Stored"
+
+"PR0000005","20160105","10B","Standard Not Met: Non-Food Contact Surfaces (Construction)"
+
+"PR0000005","20160105","12A","Standard Not Met: Food Contact Surfaces (Cleaning)"
+
+"PR0000005","20160105","14A","Standard Not Met: Plumbing, Installed, Maintained"
+
+"PR0000005","20160105","14C","Standard Not Met: Floors, Walls, Ceilings"
+
+"PR0000008","20150409","06C","Standard Not Met: Soap and Drying Devices"
+
+"PR0000010","20150320","02D","Standard Not Met: Hygienic Practices"
+
+"PR0000010","20150320","02E","Standard Not Met: Smoking, Eating, Drinking"
+
+"PR0000010","20150320","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000010","20150320","05B","Standard Not Met: Hot and Cold Water Under Pressure"
+
+"PR0000013","20140703","01F","Standard Not Met: Consumer Advisory"
+
+"PR0000013","20140703","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000013","20140703","03G","Standard Not Met: Adequate Equipment to Maintain Food Temperatures"
+
+"PR0000013","20140703","06B","Standard Not Met: Accessible"
+
+"PR0000014","20150424","01B","Standard Not Met: Wholesome, Free of Spoilage"
+
+"PR0000014","20150424","03A","Standard Not Met: Cooling Methods"
+
+"PR0000014","20150424","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000014","20150424","12B","Standard Not Met: Non-Food Contact Surfaces (Cleaning)"
+
+"PR0000014","20150424","13B","Standard Not Met: Single Service Articles Stored, Dispensed, Used"
+
+"PR0000014","20150424","14A","Standard Not Met: Plumbing, Installed, Maintained"
+
+"PR0000016","20141107","01F","Standard Not Met: Consumer Advisory"
+
+"PR0000016","20141107","02C","Standard Not Met: Hands Washed As Needed"
+
+"PR0000016","20141107","02F","Standard Not Met: Training Needed"
+
+"PR0000016","20141107","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000016","20141107","03G","Standard Not Met: Adequate Equipment to Maintain Food Temperatures"
+
+"PR0000016","20141107","05B","Standard Not Met: Hot and Cold Water Under Pressure"
+
+"PR0000019","20140618","08A","Standard Not Met: Properly Stored"
+
+"PR0000022","20150223","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000023","20160129","02C","Standard Not Met: Hands Washed As Needed"
+
+"PR0000023","20160129","05C","Standard Not Met: Backflow, Back Siphonage"
+
+"PR0000026","20141105","10B","Standard Not Met: Non-Food Contact Surfaces (Construction)"
+
+"PR0000026","20141105","14C","Standard Not Met: Floors, Walls, Ceilings"
+
+"PR0000031","20150210","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000031","20150210","03G","Standard Not Met: Adequate Equipment to Maintain Food Temperatures"
+
+"PR0000031","20150210","05B","Standard Not Met: Hot and Cold Water Under Pressure"
+
+"PR0000031","20150210","05C","Standard Not Met: Backflow, Back Siphonage"
+
+"PR0000033","20150409","04A","Standard Not Met: Manual"
+
+"PR0000033","20150629","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000033","20150629","09B","Standard Not Met: Food Protected from Contamination"
+
+"PR0000033","20150629","10A","Standard Not Met: Food-Contact Surfaces (Construction)"
+
+"PR0000036","20150202","02E","Standard Not Met: Smoking, Eating, Drinking"
+
+"PR0000036","20150202","05C","Standard Not Met: Backflow, Back Siphonage"
+
+"PR0000036","20150202","08B","Standard Not Met: Properly Labeled"
+
+"PR0000036","20150202","09B","Standard Not Met: Food Protected from Contamination"
+
+"PR0000036","20150202","10C","Standard Not Met: Dishwashing Facilities"
+
+"PR0000036","20150202","11C","Standard Not Met: Chemical Test Kits Provided, Accessible"
+
+"PR0000036","20150202","12B","Standard Not Met: Non-Food Contact Surfaces (Cleaning)"
+
+"PR0000036","20150202","13B","Standard Not Met: Single Service Articles Stored, Dispensed, Used"
+
+"PR0000036","20150202","14C","Standard Not Met: Floors, Walls, Ceilings"
+
+"PR0000036","20150202","14D","Standard Not Met: Lighting"
+
+"PR0000036","20150202","14G","Standard Not Met: Premises Maintained"
+
+"PR0000036","20160225","02E","Standard Not Met: Smoking, Eating, Drinking"
+
+"PR0000036","20160225","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000036","20160225","06C","Standard Not Met: Soap and Drying Devices"
+
+"PR0000036","20160225","09B","Standard Not Met: Food Protected from Contamination"
+
+"PR0000036","20160225","10A","Standard Not Met: Food-Contact Surfaces (Construction)"
+
+"PR0000036","20160225","14B","Standard Not Met: Garbage and Refuse"
+
+"PR0000036","20160225","14F","Standard Not Met: Locker Rooms"
+
+"PR0000041","20150902","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000041","20150902","03G","Standard Not Met: Adequate Equipment to Maintain Food Temperatures"
+
+"PR0000044","20140618","01B","Standard Not Met: Wholesome, Free of Spoilage"
+
+"PR0000044","20140618","02E","Standard Not Met: Smoking, Eating, Drinking"
+
+"PR0000048","20150224","02D","Standard Not Met: Hygienic Practices"
+
+"PR0000048","20150224","02F","Standard Not Met: Training Needed"
+
+"PR0000048","20150224","05B","Standard Not Met: Hot and Cold Water Under Pressure"
+
+"PR0000048","20150224","13A","Standard Not Met: Equipment/ Utensils Provided, Used, Stored"
+
+"PR0000049","20141106","05C","Standard Not Met: Backflow, Back Siphonage"
+
+"PR0000049","20141106","10A","Standard Not Met: Food-Contact Surfaces (Construction)"
+
+"PR0000049","20141106","10B","Standard Not Met: Non-Food Contact Surfaces (Construction)"
+
+"PR0000049","20141106","10C","Standard Not Met: Dishwashing Facilities"
+
+"PR0000049","20141106","12A","Standard Not Met: Food Contact Surfaces (Cleaning)"
+
+"PR0000049","20141106","12C","Standard Not Met: Dishwashing Operations"
+
+"PR0000049","20141106","14D","Standard Not Met: Lighting"
+
+"PR0000054","20150610","02F","Standard Not Met: Training Needed"
+
+"PR0000054","20150610","05C","Standard Not Met: Backflow, Back Siphonage"
+
+"PR0000057","20140528","05C","Standard Not Met: Backflow, Back Siphonage"
+
+"PR0000057","20150623","02D","Standard Not Met: Hygienic Practices"
+
+"PR0000057","20150623","04A","Standard Not Met: Manual"
+
+"PR0000057","20150623","05C","Standard Not Met: Backflow, Back Siphonage"
+
+"PR0000057","20150623","06C","Standard Not Met: Soap and Drying Devices"
+
+"PR0000059","20140725","02C","Standard Not Met: Hands Washed As Needed"
+
+"PR0000059","20140725","04B","Standard Not Met: Mechanical"
+
+"PR0000060","20150309","02E","Standard Not Met: Smoking, Eating, Drinking"
+
+"PR0000060","20150309","08B","Standard Not Met: Properly Labeled"
+
+"PR0000060","20150309","09A","Standard Not Met: Original Container, Properly Labeled"
+
+"PR0000060","20150309","11C","Standard Not Met: Chemical Test Kits Provided, Accessible"
+
+"PR0000070","20140911","14G","Standard Not Met: Premises Maintained"
+
+"PR0000070","20150930","06C","Standard Not Met: Soap and Drying Devices"
+
+"PR0000074","20160413","02C","Standard Not Met: Hands Washed As Needed"
+
+"PR0000074","20160413","02E","Standard Not Met: Smoking, Eating, Drinking"
+
+"PR0000074","20160413","02G","Standard Not Met: No Bare Hand Contact"
+
+"PR0000074","20160413","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000074","20160413","06C","Standard Not Met: Soap and Drying Devices"
+
+"PR0000074","20160413","08B","Standard Not Met: Properly Labeled"
+
+"PR0000076","20150813","01F","Standard Not Met: Consumer Advisory"
+
+"PR0000076","20150813","02D","Standard Not Met: Hygienic Practices"
+
+"PR0000076","20150813","02F","Standard Not Met: Training Needed"
+
+"PR0000076","20150813","03F","Standard Not Met: Food Thermometer"
+
+"PR0000076","20150813","05B","Standard Not Met: Hot and Cold Water Under Pressure"
+
+"PR0000076","20150813","09A","Standard Not Met: Original Container, Properly Labeled"
+
+"PR0000076","20150813","12B","Standard Not Met: Non-Food Contact Surfaces (Cleaning)"
+
+"PR0000078","20141021","14C","Standard Not Met: Floors, Walls, Ceilings"
+
+"PR0000085","20160420","05B","Standard Not Met: Hot and Cold Water Under Pressure"
+
+"PR0000085","20160420","06C","Standard Not Met: Soap and Drying Devices"
+
+"PR0000086","20150730","08A","Standard Not Met: Properly Stored"
+
+"PR0000086","20150730","09A","Standard Not Met: Original Container, Properly Labeled"
+
+"PR0000086","20150730","13A","Standard Not Met: Equipment/ Utensils Provided, Used, Stored"
+
+"PR0000087","20151019","02F","Standard Not Met: Training Needed"
+
+"PR0000090","20150716","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000090","20150716","06C","Standard Not Met: Soap and Drying Devices"
+
+"PR0000090","20150716","09B","Standard Not Met: Food Protected from Contamination"
+
+"PR0000092","20160414","01F","Standard Not Met: Consumer Advisory"
+
+"PR0000092","20160414","02C","Standard Not Met: Hands Washed As Needed"
+
+"PR0000092","20160414","03B","Standard Not Met: Rapidly Reheat to 165 Degrees or Greater"
+
+"PR0000092","20160414","06C","Standard Not Met: Soap and Drying Devices"
+
+"PR0000093","20140715","01F","Standard Not Met: Consumer Advisory"
+
+"PR0000093","20140715","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000093","20140715","03G","Standard Not Met: Adequate Equipment to Maintain Food Temperatures"
+
+"PR0000093","20140715","04B","Standard Not Met: Mechanical"
+
+"PR0000095","20140711","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000095","20140711","03F","Standard Not Met: Food Thermometer"
+
+"PR0000095","20140711","03G","Standard Not Met: Adequate Equipment to Maintain Food Temperatures"
+
+"PR0000095","20160519","01B","Standard Not Met: Wholesome, Free of Spoilage"
+
+"PR0000095","20160519","02E","Standard Not Met: Smoking, Eating, Drinking"
+
+"PR0000095","20160519","06B","Standard Not Met: Accessible"
+
+"PR0000095","20160519","07A","Standard Not Met: Evidence of Insects or Rodents"
+
+"PR0000102","20140602","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000111","20141215","06C","Standard Not Met: Soap and Drying Devices"
+
+"PR0000111","20141215","14G","Standard Not Met: Premises Maintained"
+
+"PR0000112","20141107","05C","Standard Not Met: Backflow, Back Siphonage"
+
+"PR0000112","20141107","07A","Standard Not Met: Evidence of Insects or Rodents"
+
+"PR0000112","20141107","10B","Standard Not Met: Non-Food Contact Surfaces (Construction)"
+
+"PR0000112","20141107","14A","Standard Not Met: Plumbing, Installed, Maintained"
+
+"PR0000112","20141107","14C","Standard Not Met: Floors, Walls, Ceilings"
+
+"PR0000112","20141107","14E","Standard Not Met: Ventilation"
+
+"PR0000112","20141107","14G","Standard Not Met: Premises Maintained"
+
+"PR0000115","20160407","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000115","20160407","08B","Standard Not Met: Properly Labeled"
+
+"PR0000119","20160120","01B","Standard Not Met: Wholesome, Free of Spoilage"
+
+"PR0000119","20160120","03F","Standard Not Met: Food Thermometer"
+
+"PR0000119","20160120","06C","Standard Not Met: Soap and Drying Devices"
+
+"PR0000119","20160120","09B","Standard Not Met: Food Protected from Contamination"
+
+"PR0000119","20160120","11A","Standard Not Met: Refrigeration Units With Accurate Thermometers"
+
+"PR0000119","20160120","11C","Standard Not Met: Chemical Test Kits Provided, Accessible"
+
+"PR0000119","20160120","14A","Standard Not Met: Plumbing, Installed, Maintained"
+
+"PR0000119","20160120","14G","Standard Not Met: Premises Maintained"
+
+"PR0000122","20140710","03F","Standard Not Met: Food Thermometer"
+
+"PR0000123","20150309","02B","Standard Not Met: Wounds Properly Covered"
+
+"PR0000123","20150309","02C","Standard Not Met: Hands Washed As Needed"
+
+"PR0000123","20150309","02E","Standard Not Met: Smoking, Eating, Drinking"
+
+"PR0000123","20150309","02F","Standard Not Met: Training Needed"
+
+"PR0000123","20150309","02G","Standard Not Met: No Bare Hand Contact"
+
+"PR0000123","20150309","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000123","20150309","03G","Standard Not Met: Adequate Equipment to Maintain Food Temperatures"
+
+"PR0000123","20150309","09B","Standard Not Met: Food Protected from Contamination"
+
+"PR0000123","20160121","08B","Standard Not Met: Properly Labeled"
+
+"PR0000123","20160121","13C","Standard Not Met: No Reuse of Single-Service Articles"
+
+"PR0000126","20150901","05B","Standard Not Met: Hot and Cold Water Under Pressure"
+
+"PR0000126","20150901","07A","Standard Not Met: Evidence of Insects or Rodents"
+
+"PR0000126","20150901","09B","Standard Not Met: Food Protected from Contamination"
+
+"PR0000129","20140617","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000129","20140617","05B","Standard Not Met: Hot and Cold Water Under Pressure"
+
+"PR0000129","20140617","08B","Standard Not Met: Properly Labeled"
+
+"PR0000131","20150504","01F","Standard Not Met: Consumer Advisory"
+
+"PR0000131","20150504","02D","Standard Not Met: Hygienic Practices"
+
+"PR0000133","20140620","01B","Standard Not Met: Wholesome, Free of Spoilage"
+
+"PR0000138","20150706","02D","Standard Not Met: Hygienic Practices"
+
+"PR0000138","20150706","02E","Standard Not Met: Smoking, Eating, Drinking"
+
+"PR0000138","20150706","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000138","20150706","06C","Standard Not Met: Soap and Drying Devices"
+
+"PR0000138","20150706","09A","Standard Not Met: Original Container, Properly Labeled"
+
+"PR0000138","20150706","09B","Standard Not Met: Food Protected from Contamination"
+
+"PR0000138","20150706","10B","Standard Not Met: Non-Food Contact Surfaces (Construction)"
+
+"PR0000138","20150706","14A","Standard Not Met: Plumbing, Installed, Maintained"
+
+"PR0000138","20150706","14C","Standard Not Met: Floors, Walls, Ceilings"
+
+"PR0000138","20150706","14D","Standard Not Met: Lighting"
+
+"PR0000138","20150706","14G","Standard Not Met: Premises Maintained"
+
+"PR0000141","20150701","01B","Standard Not Met: Wholesome, Free of Spoilage"
+
+"PR0000146","20140820","02E","Standard Not Met: Smoking, Eating, Drinking"
+
+"PR0000146","20140820","07A","Standard Not Met: Evidence of Insects or Rodents"
+
+"PR0000149","20150423","06A","Standard Not Met: Adequate Number, Location, Design"
+
+"PR0000150","20141204","02E","Standard Not Met: Smoking, Eating, Drinking"
+
+"PR0000150","20141204","02F","Standard Not Met: Training Needed"
+
+"PR0000150","20141204","05B","Standard Not Met: Hot and Cold Water Under Pressure"
+
+"PR0000150","20160122","01B","Standard Not Met: Wholesome, Free of Spoilage"
+
+"PR0000150","20160122","04B","Standard Not Met: Mechanical"
+
+"PR0000151","20150724","02F","Standard Not Met: Training Needed"
+
+"PR0000151","20150724","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000154","20140909","01F","Standard Not Met: Consumer Advisory"
+
+"PR0000154","20140909","07C","Standard Not Met: Animals Prohibited"
+
+"PR0000156","20150715","02C","Standard Not Met: Hands Washed As Needed"
+
+"PR0000156","20150715","02D","Standard Not Met: Hygienic Practices"
+
+"PR0000156","20150715","06C","Standard Not Met: Soap and Drying Devices"
+
+"PR0000156","20150715","08A","Standard Not Met: Properly Stored"
+
+"PR0000156","20150715","09B","Standard Not Met: Food Protected from Contamination"
+
+"PR0000156","20150715","12D","Standard Not Met: Wiping Cloths"
+
+"PR0000158","20151026","04B","Standard Not Met: Mechanical"
+
+"PR0000158","20151026","05B","Standard Not Met: Hot and Cold Water Under Pressure"
+
+"PR0000158","20151026","14C","Standard Not Met: Floors, Walls, Ceilings"
+
+"PR0000163","20160412","01C","Standard Not Met: Cross-Contamination"
+
+"PR0000163","20160412","01F","Standard Not Met: Consumer Advisory"
+
+"PR0000163","20160412","05B","Standard Not Met: Hot and Cold Water Under Pressure"
+
+"PR0000164","20150914","02E","Standard Not Met: Smoking, Eating, Drinking"
+
+"PR0000164","20150914","03C","Standard Not Met: Hot Hold at 135 Degrees Farenheit or Greater"
+
+"PR0000164","20150914","04B","Standard Not Met: Mechanical"
+
+"PR0000164","20150914","06C","Standard Not Met: Soap and Drying Devices"
+
+"PR0000164","20150914","12D","Standard Not Met: Wiping Cloths"
+
+"PR0000168","20150902","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000168","20150902","06C","Standard Not Met: Soap and Drying Devices"
+
+"PR0000169","20160201","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000170","20160303","02C","Standard Not Met: Hands Washed As Needed"
+
+"PR0000170","20160303","02D","Standard Not Met: Hygienic Practices"
+
+"PR0000170","20160303","02F","Standard Not Met: Training Needed"
+
+"PR0000170","20160303","04A","Standard Not Met: Manual"
+
+"PR0000170","20160303","08A","Standard Not Met: Properly Stored"
+
+"PR0000171","20150121","11C","Standard Not Met: Chemical Test Kits Provided, Accessible"
+
+"PR0000171","20150121","13B","Standard Not Met: Single Service Articles Stored, Dispensed, Used"
+
+"PR0000172","20140911","07A","Standard Not Met: Evidence of Insects or Rodents"
+
+"PR0000172","20151019","07A","Standard Not Met: Evidence of Insects or Rodents"
+
+"PR0000173","20141204","05C","Standard Not Met: Backflow, Back Siphonage"
+
+"PR0000173","20141204","06A","Standard Not Met: Adequate Number, Location, Design"
+
+"PR0000173","20141204","10B","Standard Not Met: Non-Food Contact Surfaces (Construction)"
+
+"PR0000173","20141204","14A","Standard Not Met: Plumbing, Installed, Maintained"
+
+"PR0000173","20141204","14C","Standard Not Met: Floors, Walls, Ceilings"
+
+"PR0000173","20141204","14D","Standard Not Met: Lighting"
+
+"PR0000176","20150219","02E","Standard Not Met: Smoking, Eating, Drinking"
+
+"PR0000176","20150219","05C","Standard Not Met: Backflow, Back Siphonage"
+
+"PR0000176","20160314","01B","Standard Not Met: Wholesome, Free of Spoilage"
+
+"PR0000176","20160314","07B","Standard Not Met: Pesticide Application"
+
+"PR0000177","20160401","01F","Standard Not Met: Consumer Advisory"
+
+"PR0000177","20160401","02C","Standard Not Met: Hands Washed As Needed"
+
+"PR0000177","20160401","06C","Standard Not Met: Soap and Drying Devices"
+
+"PR0000179","20140603","02D","Standard Not Met: Hygienic Practices"
+
+"PR0000179","20140603","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000179","20140603","03G","Standard Not Met: Adequate Equipment to Maintain Food Temperatures"
+
+"PR0000179","20140603","08B","Standard Not Met: Properly Labeled"
+
+"PR0000179","20160503","01B","Standard Not Met: Wholesome, Free of Spoilage"
+
+"PR0000179","20160503","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000179","20160503","07B","Standard Not Met: Pesticide Application"
+
+"PR0000179","20160503","08A","Standard Not Met: Properly Stored"
+
+"PR0000180","20160330","02C","Standard Not Met: Hands Washed As Needed"
+
+"PR0000180","20160330","06B","Standard Not Met: Accessible"
+
+"PR0000180","20160330","08B","Standard Not Met: Properly Labeled"
+
+"PR0000181","20141208","01C","Standard Not Met: Cross-Contamination"
+
+"PR0000181","20141208","02C","Standard Not Met: Hands Washed As Needed"
+
+"PR0000181","20141208","02F","Standard Not Met: Training Needed"
+
+"PR0000181","20141208","03C","Standard Not Met: Hot Hold at 135 Degrees Farenheit or Greater"
+
+"PR0000181","20141208","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000181","20141208","03G","Standard Not Met: Adequate Equipment to Maintain Food Temperatures"
+
+"PR0000181","20141208","05B","Standard Not Met: Hot and Cold Water Under Pressure"
+
+"PR0000181","20141208","06C","Standard Not Met: Soap and Drying Devices"
+
+"PR0000181","20141208","09B","Standard Not Met: Food Protected from Contamination"
+
+"PR0000181","20141208","10A","Standard Not Met: Food-Contact Surfaces (Construction)"
+
+"PR0000181","20141208","10B","Standard Not Met: Non-Food Contact Surfaces (Construction)"
+
+"PR0000181","20141208","11A","Standard Not Met: Refrigeration Units With Accurate Thermometers"
+
+"PR0000181","20141208","11C","Standard Not Met: Chemical Test Kits Provided, Accessible"
+
+"PR0000181","20141208","14D","Standard Not Met: Lighting"
+
+"PR0000181","20141208","14E","Standard Not Met: Ventilation"
+
+"PR0000181","20141208","14I","Standard Not Met: Physical Facilities: Adequate Toliet Facilities"
+
+"PR0000182","20150904","02E","Standard Not Met: Smoking, Eating, Drinking"
+
+"PR0000182","20150904","09B","Standard Not Met: Food Protected from Contamination"
+
+"PR0000182","20150904","10A","Standard Not Met: Food-Contact Surfaces (Construction)"
+
+"PR0000182","20150904","10B","Standard Not Met: Non-Food Contact Surfaces (Construction)"
+
+"PR0000182","20150904","13C","Standard Not Met: No Reuse of Single-Service Articles"
+
+"PR0000182","20150904","14C","Standard Not Met: Floors, Walls, Ceilings"
+
+"PR0000182","20150904","14E","Standard Not Met: Ventilation"
+
+"PR0000182","20150904","14G","Standard Not Met: Premises Maintained"
+
+"PR0000183","20141029","05B","Standard Not Met: Hot and Cold Water Under Pressure"
+
+"PR0000184","20160512","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000184","20160512","09B","Standard Not Met: Food Protected from Contamination"
+
+"PR0000184","20160512","14D","Standard Not Met: Lighting"
+
+"PR0000186","20141205","09B","Standard Not Met: Food Protected from Contamination"
+
+"PR0000186","20141205","10B","Standard Not Met: Non-Food Contact Surfaces (Construction)"
+
+"PR0000186","20141205","14C","Standard Not Met: Floors, Walls, Ceilings"
+
+"PR0000189","20160112","01B","Standard Not Met: Wholesome, Free of Spoilage"
+
+"PR0000189","20160112","01F","Standard Not Met: Consumer Advisory"
+
+"PR0000189","20160112","15A","Standard Not Met: Personnel: Clean Clothes, Hair Restraints, Authoriz"
+
+"PR0000190","20141028","05B","Standard Not Met: Hot and Cold Water Under Pressure"
+
+"PR0000190","20141028","07A","Standard Not Met: Evidence of Insects or Rodents"
+
+"PR0000190","20141028","08B","Standard Not Met: Properly Labeled"
+
+"PR0000190","20141028","09B","Standard Not Met: Food Protected from Contamination"
+
+"PR0000190","20141028","14G","Standard Not Met: Premises Maintained"
+
+"PR0000191","20150717","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000191","20150717","03G","Standard Not Met: Adequate Equipment to Maintain Food Temperatures"
+
+"PR0000195","20140822","02D","Standard Not Met: Hygienic Practices"
+
+"PR0000195","20140822","14A","Standard Not Met: Plumbing, Installed, Maintained"
+
+"PR0000196","20141202","07A","Standard Not Met: Evidence of Insects or Rodents"
+
+"PR0000196","20141202","10A","Standard Not Met: Food-Contact Surfaces (Construction)"
+
+"PR0000196","20141202","14G","Standard Not Met: Premises Maintained"
+
+"PR0000196","20151120","07A","Standard Not Met: Evidence of Insects or Rodents"
+
+"PR0000199","20140729","01F","Standard Not Met: Consumer Advisory"
+
+"PR0000199","20140729","02G","Standard Not Met: No Bare Hand Contact"
+
+"PR0000199","20140729","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000199","20140729","03G","Standard Not Met: Adequate Equipment to Maintain Food Temperatures"
+
+"PR0000201","20150320","05B","Standard Not Met: Hot and Cold Water Under Pressure"
+
+"PR0000201","20150320","06B","Standard Not Met: Accessible"
+
+"PR0000201","20150320","08A","Standard Not Met: Properly Stored"
+
+"PR0000202","20150224","01F","Standard Not Met: Consumer Advisory"
+
+"PR0000202","20150224","02D","Standard Not Met: Hygienic Practices"
+
+"PR0000203","20141208","05C","Standard Not Met: Backflow, Back Siphonage"
+
+"PR0000203","20141208","06A","Standard Not Met: Adequate Number, Location, Design"
+
+"PR0000203","20141208","10A","Standard Not Met: Food-Contact Surfaces (Construction)"
+
+"PR0000203","20141208","10B","Standard Not Met: Non-Food Contact Surfaces (Construction)"
+
+"PR0000203","20141208","14A","Standard Not Met: Plumbing, Installed, Maintained"
+
+"PR0000203","20141208","14C","Standard Not Met: Floors, Walls, Ceilings"
+
+"PR0000211","20141021","02E","Standard Not Met: Smoking, Eating, Drinking"
+
+"PR0000211","20141021","02F","Standard Not Met: Training Needed"
+
+"PR0000211","20141021","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000211","20141021","05C","Standard Not Met: Backflow, Back Siphonage"
+
+"PR0000211","20141021","06B","Standard Not Met: Accessible"
+
+"PR0000211","20141021","06C","Standard Not Met: Soap and Drying Devices"
+
+"PR0000211","20141021","08B","Standard Not Met: Properly Labeled"
+
+"PR0000211","20160314","02F","Standard Not Met: Training Needed"
+
+"PR0000211","20160314","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000211","20160314","06C","Standard Not Met: Soap and Drying Devices"
+
+"PR0000211","20160314","11C","Standard Not Met: Chemical Test Kits Provided, Accessible"
+
+"PR0000215","20150529","09B","Standard Not Met: Food Protected from Contamination"
+
+"PR0000216","20150529","09B","Standard Not Met: Food Protected from Contamination"
+
+"PR0000219","20140815","02D","Standard Not Met: Hygienic Practices"
+
+"PR0000219","20140815","06C","Standard Not Met: Soap and Drying Devices"
+
+"PR0000225","20160330","01F","Standard Not Met: Consumer Advisory"
+
+"PR0000225","20160330","05B","Standard Not Met: Hot and Cold Water Under Pressure"
+
+"PR0000225","20160330","06C","Standard Not Met: Soap and Drying Devices"
+
+"PR0000225","20160330","08B","Standard Not Met: Properly Labeled"
+
+"PR0000229","20160425","08B","Standard Not Met: Properly Labeled"
+
+"PR0000230","20150717","02B","Standard Not Met: Wounds Properly Covered"
+
+"PR0000230","20150717","02D","Standard Not Met: Hygienic Practices"
+
+"PR0000230","20150717","06C","Standard Not Met: Soap and Drying Devices"
+
+"PR0000230","20150717","08C","Standard Not Met: Properly Used"
+
+"PR0000231","20150331","11C","Standard Not Met: Chemical Test Kits Provided, Accessible"
+
+"PR0000233","20160108","02C","Standard Not Met: Hands Washed As Needed"
+
+"PR0000233","20160108","02E","Standard Not Met: Smoking, Eating, Drinking"
+
+"PR0000233","20160108","02G","Standard Not Met: No Bare Hand Contact"
+
+"PR0000233","20160108","03C","Standard Not Met: Hot Hold at 135 Degrees Farenheit or Greater"
+
+"PR0000233","20160108","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000233","20160108","03F","Standard Not Met: Food Thermometer"
+
+"PR0000233","20160108","03G","Standard Not Met: Adequate Equipment to Maintain Food Temperatures"
+
+"PR0000233","20160108","09B","Standard Not Met: Food Protected from Contamination"
+
+"PR0000233","20160108","10A","Standard Not Met: Food-Contact Surfaces (Construction)"
+
+"PR0000233","20160108","14A","Standard Not Met: Plumbing, Installed, Maintained"
+
+"PR0000233","20160108","14C","Standard Not Met: Floors, Walls, Ceilings"
+
+"PR0000233","20160108","14I","Standard Not Met: Physical Facilities: Adequate Toliet Facilities"
+
+"PR0000234","20141202","01C","Standard Not Met: Cross-Contamination"
+
+"PR0000234","20141202","07B","Standard Not Met: Pesticide Application"
+
+"PR0000234","20141202","08A","Standard Not Met: Properly Stored"
+
+"PR0000234","20160516","01C","Standard Not Met: Cross-Contamination"
+
+"PR0000234","20160516","07B","Standard Not Met: Pesticide Application"
+
+"PR0000237","20160203","02F","Standard Not Met: Training Needed"
+
+"PR0000237","20160203","03A","Standard Not Met: Cooling Methods"
+
+"PR0000237","20160203","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000237","20160203","08B","Standard Not Met: Properly Labeled"
+
+"PR0000237","20160203","10A","Standard Not Met: Food-Contact Surfaces (Construction)"
+
+"PR0000237","20160203","11C","Standard Not Met: Chemical Test Kits Provided, Accessible"
+
+"PR0000237","20160203","13A","Standard Not Met: Equipment/ Utensils Provided, Used, Stored"
+
+"PR0000237","20160203","14C","Standard Not Met: Floors, Walls, Ceilings"
+
+"PR0000237","20160203","14D","Standard Not Met: Lighting"
+
+"PR0000237","20160203","14G","Standard Not Met: Premises Maintained"
+
+"PR0000238","20141006","05C","Standard Not Met: Backflow, Back Siphonage"
+
+"PR0000238","20141006","06B","Standard Not Met: Accessible"
+
+"PR0000238","20150909","03A","Standard Not Met: Cooling Methods"
+
+"PR0000238","20150909","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000238","20150909","08B","Standard Not Met: Properly Labeled"
+
+"PR0000238","20150909","13A","Standard Not Met: Equipment/ Utensils Provided, Used, Stored"
+
+"PR0000239","20160106","05B","Standard Not Met: Hot and Cold Water Under Pressure"
+
+"PR0000242","20160304","02E","Standard Not Met: Smoking, Eating, Drinking"
+
+"PR0000242","20160304","03C","Standard Not Met: Hot Hold at 135 Degrees Farenheit or Greater"
+
+"PR0000242","20160304","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000244","20140804","01B","Standard Not Met: Wholesome, Free of Spoilage"
+
+"PR0000244","20140804","02D","Standard Not Met: Hygienic Practices"
+
+"PR0000244","20140804","02E","Standard Not Met: Smoking, Eating, Drinking"
+
+"PR0000244","20140804","03C","Standard Not Met: Hot Hold at 135 Degrees Farenheit or Greater"
+
+"PR0000244","20140804","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000244","20140804","03G","Standard Not Met: Adequate Equipment to Maintain Food Temperatures"
+
+"PR0000244","20140804","06B","Standard Not Met: Accessible"
+
+"PR0000244","20140804","08A","Standard Not Met: Properly Stored"
+
+"PR0000244","20140804","09B","Standard Not Met: Food Protected from Contamination"
+
+"PR0000244","20140804","10A","Standard Not Met: Food-Contact Surfaces (Construction)"
+
+"PR0000244","20140804","10B","Standard Not Met: Non-Food Contact Surfaces (Construction)"
+
+"PR0000244","20140804","11C","Standard Not Met: Chemical Test Kits Provided, Accessible"
+
+"PR0000244","20140804","14E","Standard Not Met: Ventilation"
+
+"PR0000244","20150722","06C","Standard Not Met: Soap and Drying Devices"
+
+"PR0000244","20150722","07A","Standard Not Met: Evidence of Insects or Rodents"
+
+"PR0000244","20150722","12A","Standard Not Met: Food Contact Surfaces (Cleaning)"
+
+"PR0000244","20150722","12D","Standard Not Met: Wiping Cloths"
+
+"PR0000245","20140627","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000245","20140627","03F","Standard Not Met: Food Thermometer"
+
+"PR0000245","20140627","03G","Standard Not Met: Adequate Equipment to Maintain Food Temperatures"
+
+"PR0000248","20160315","05C","Standard Not Met: Backflow, Back Siphonage"
+
+"PR0000251","20141114","05C","Standard Not Met: Backflow, Back Siphonage"
+
+"PR0000251","20141114","10B","Standard Not Met: Non-Food Contact Surfaces (Construction)"
+
+"PR0000251","20141114","14C","Standard Not Met: Floors, Walls, Ceilings"
+
+"PR0000253","20160328","05B","Standard Not Met: Hot and Cold Water Under Pressure"
+
+"PR0000253","20160328","06C","Standard Not Met: Soap and Drying Devices"
+
+"PR0000254","20140918","02F","Standard Not Met: Training Needed"
+
+"PR0000254","20140918","08B","Standard Not Met: Properly Labeled"
+
+"PR0000258","20151006","02C","Standard Not Met: Hands Washed As Needed"
+
+"PR0000258","20151006","02D","Standard Not Met: Hygienic Practices"
+
+"PR0000258","20151006","02G","Standard Not Met: No Bare Hand Contact"
+
+"PR0000258","20151006","04B","Standard Not Met: Mechanical"
+
+"PR0000258","20151006","08B","Standard Not Met: Properly Labeled"
+
+"PR0000258","20151006","10B","Standard Not Met: Non-Food Contact Surfaces (Construction)"
+
+"PR0000259","20140521","02D","Standard Not Met: Hygienic Practices"
+
+"PR0000259","20140521","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000259","20140521","03F","Standard Not Met: Food Thermometer"
+
+"PR0000259","20140521","03G","Standard Not Met: Adequate Equipment to Maintain Food Temperatures"
+
+"PR0000267","20141113","01B","Standard Not Met: Wholesome, Free of Spoilage"
+
+"PR0000267","20141113","02F","Standard Not Met: Training Needed"
+
+"PR0000267","20141113","03F","Standard Not Met: Food Thermometer"
+
+"PR0000267","20141113","05B","Standard Not Met: Hot and Cold Water Under Pressure"
+
+"PR0000267","20141113","06A","Standard Not Met: Adequate Number, Location, Design"
+
+"PR0000267","20141113","06C","Standard Not Met: Soap and Drying Devices"
+
+"PR0000267","20141113","08B","Standard Not Met: Properly Labeled"
+
+"PR0000267","20141113","09B","Standard Not Met: Food Protected from Contamination"
+
+"PR0000267","20141113","10A","Standard Not Met: Food-Contact Surfaces (Construction)"
+
+"PR0000267","20141113","11C","Standard Not Met: Chemical Test Kits Provided, Accessible"
+
+"PR0000267","20141113","12A","Standard Not Met: Food Contact Surfaces (Cleaning)"
+
+"PR0000267","20141113","12B","Standard Not Met: Non-Food Contact Surfaces (Cleaning)"
+
+"PR0000267","20141113","14C","Standard Not Met: Floors, Walls, Ceilings"
+
+"PR0000267","20160316","02C","Standard Not Met: Hands Washed As Needed"
+
+"PR0000267","20160316","06B","Standard Not Met: Accessible"
+
+"PR0000267","20160316","08B","Standard Not Met: Properly Labeled"
+
+"PR0000278","20151112","01F","Standard Not Met: Consumer Advisory"
+
+"PR0000280","20140722","02E","Standard Not Met: Smoking, Eating, Drinking"
+
+"PR0000280","20140722","12C","Standard Not Met: Dishwashing Operations"
+
+"PR0000280","20140722","13A","Standard Not Met: Equipment/ Utensils Provided, Used, Stored"
+
+"PR0000280","20140722","14C","Standard Not Met: Floors, Walls, Ceilings"
+
+"PR0000280","20160203","02C","Standard Not Met: Hands Washed As Needed"
+
+"PR0000282","20150522","02D","Standard Not Met: Hygienic Practices"
+
+"PR0000282","20150522","03A","Standard Not Met: Cooling Methods"
+
+"PR0000282","20150522","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000282","20150522","13A","Standard Not Met: Equipment/ Utensils Provided, Used, Stored"
+
+"PR0000282","20151015","02D","Standard Not Met: Hygienic Practices"
+
+"PR0000282","20151015","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000282","20151015","06B","Standard Not Met: Accessible"
+
+"PR0000282","20151015","08A","Standard Not Met: Properly Stored"
+
+"PR0000282","20151015","12A","Standard Not Met: Food Contact Surfaces (Cleaning)"
+
+"PR0000283","20160303","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000284","20140610","05C","Standard Not Met: Backflow, Back Siphonage"
+
+"PR0000284","20140610","06C","Standard Not Met: Soap and Drying Devices"
+
+"PR0000286","20150420","03F","Standard Not Met: Food Thermometer"
+
+"PR0000286","20150420","06C","Standard Not Met: Soap and Drying Devices"
+
+"PR0000286","20150420","14D","Standard Not Met: Lighting"
+
+"PR0000287","20141110","02F","Standard Not Met: Training Needed"
+
+"PR0000287","20141110","06A","Standard Not Met: Adequate Number, Location, Design"
+
+"PR0000290","20160229","02E","Standard Not Met: Smoking, Eating, Drinking"
+
+"PR0000290","20160229","05B","Standard Not Met: Hot and Cold Water Under Pressure"
+
+"PR0000290","20160229","06A","Standard Not Met: Adequate Number, Location, Design"
+
+"PR0000292","20160408","01D","Standard Not Met: HAACP Plan"
+
+"PR0000292","20160408","01F","Standard Not Met: Consumer Advisory"
+
+"PR0000293","20140619","03B","Standard Not Met: Rapidly Reheat to 165 Degrees or Greater"
+
+"PR0000293","20140619","12D","Standard Not Met: Wiping Cloths"
+
+"PR0000293","20140619","14C","Standard Not Met: Floors, Walls, Ceilings"
+
+"PR0000295","20140522","01C","Standard Not Met: Cross-Contamination"
+
+"PR0000296","20150206","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000296","20150206","06C","Standard Not Met: Soap and Drying Devices"
+
+"PR0000296","20150206","09A","Standard Not Met: Original Container, Properly Labeled"
+
+"PR0000297","20140716","02E","Standard Not Met: Smoking, Eating, Drinking"
+
+"PR0000297","20140716","04A","Standard Not Met: Manual"
+
+"PR0000304","20150212","06C","Standard Not Met: Soap and Drying Devices"
+
+"PR0000305","20160229","04B","Standard Not Met: Mechanical"
+
+"PR0000305","20160229","05C","Standard Not Met: Backflow, Back Siphonage"
+
+"PR0000308","20141205","02E","Standard Not Met: Smoking, Eating, Drinking"
+
+"PR0000308","20141205","09B","Standard Not Met: Food Protected from Contamination"
+
+"PR0000308","20141205","10B","Standard Not Met: Non-Food Contact Surfaces (Construction)"
+
+"PR0000308","20141205","12B","Standard Not Met: Non-Food Contact Surfaces (Cleaning)"
+
+"PR0000308","20141205","14A","Standard Not Met: Plumbing, Installed, Maintained"
+
+"PR0000308","20141205","14E","Standard Not Met: Ventilation"
+
+"PR0000309","20150902","05B","Standard Not Met: Hot and Cold Water Under Pressure"
+
+"PR0000309","20150902","05C","Standard Not Met: Backflow, Back Siphonage"
+
+"PR0000315","20150410","01B","Standard Not Met: Wholesome, Free of Spoilage"
+
+"PR0000315","20150410","01F","Standard Not Met: Consumer Advisory"
+
+"PR0000315","20150410","02E","Standard Not Met: Smoking, Eating, Drinking"
+
+"PR0000315","20150410","05C","Standard Not Met: Backflow, Back Siphonage"
+
+"PR0000315","20150410","08A","Standard Not Met: Properly Stored"
+
+"PR0000315","20150410","08B","Standard Not Met: Properly Labeled"
+
+"PR0000315","20150410","10A","Standard Not Met: Food-Contact Surfaces (Construction)"
+
+"PR0000315","20150410","10B","Standard Not Met: Non-Food Contact Surfaces (Construction)"
+
+"PR0000315","20150410","11A","Standard Not Met: Refrigeration Units With Accurate Thermometers"
+
+"PR0000315","20150410","11C","Standard Not Met: Chemical Test Kits Provided, Accessible"
+
+"PR0000315","20150410","12D","Standard Not Met: Wiping Cloths"
+
+"PR0000315","20150410","14A","Standard Not Met: Plumbing, Installed, Maintained"
+
+"PR0000315","20150410","14C","Standard Not Met: Floors, Walls, Ceilings"
+
+"PR0000316","20150120","05B","Standard Not Met: Hot and Cold Water Under Pressure"
+
+"PR0000323","20141202","02E","Standard Not Met: Smoking, Eating, Drinking"
+
+"PR0000323","20160201","02C","Standard Not Met: Hands Washed As Needed"
+
+"PR0000326","20150126","10A","Standard Not Met: Food-Contact Surfaces (Construction)"
+
+"PR0000326","20150126","10B","Standard Not Met: Non-Food Contact Surfaces (Construction)"
+
+"PR0000326","20150126","14C","Standard Not Met: Floors, Walls, Ceilings"
+
+"PR0000327","20140723","02E","Standard Not Met: Smoking, Eating, Drinking"
+
+"PR0000328","20140626","02E","Standard Not Met: Smoking, Eating, Drinking"
+
+"PR0000328","20140626","05C","Standard Not Met: Backflow, Back Siphonage"
+
+"PR0000328","20140626","06A","Standard Not Met: Adequate Number, Location, Design"
+
+"PR0000328","20140626","07B","Standard Not Met: Pesticide Application"
+
+"PR0000331","20140626","06B","Standard Not Met: Accessible"
+
+"PR0000332","20140626","04B","Standard Not Met: Mechanical"
+
+"PR0000332","20140626","06A","Standard Not Met: Adequate Number, Location, Design"
+
+"PR0000333","20150129","01B","Standard Not Met: Wholesome, Free of Spoilage"
+
+"PR0000333","20150129","02E","Standard Not Met: Smoking, Eating, Drinking"
+
+"PR0000333","20150129","06B","Standard Not Met: Accessible"
+
+"PR0000333","20150129","06C","Standard Not Met: Soap and Drying Devices"
+
+"PR0000333","20150129","08A","Standard Not Met: Properly Stored"
+
+"PR0000333","20150129","08B","Standard Not Met: Properly Labeled"
+
+"PR0000333","20150626","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000333","20150626","05B","Standard Not Met: Hot and Cold Water Under Pressure"
+
+"PR0000333","20150626","06C","Standard Not Met: Soap and Drying Devices"
+
+"PR0000333","20150626","09A","Standard Not Met: Original Container, Properly Labeled"
+
+"PR0000333","20150626","09B","Standard Not Met: Food Protected from Contamination"
+
+"PR0000333","20150626","10B","Standard Not Met: Non-Food Contact Surfaces (Construction)"
+
+"PR0000333","20150626","14C","Standard Not Met: Floors, Walls, Ceilings"
+
+"PR0000333","20150626","14D","Standard Not Met: Lighting"
+
+"PR0000333","20160504","01C","Standard Not Met: Cross-Contamination"
+
+"PR0000333","20160504","02D","Standard Not Met: Hygienic Practices"
+
+"PR0000333","20160504","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000333","20160504","04B","Standard Not Met: Mechanical"
+
+"PR0000333","20160504","07A","Standard Not Met: Evidence of Insects or Rodents"
+
+"PR0000334","20140624","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000334","20140624","03G","Standard Not Met: Adequate Equipment to Maintain Food Temperatures"
+
+"PR0000335","20150512","04A","Standard Not Met: Manual"
+
+"PR0000335","20150512","09B","Standard Not Met: Food Protected from Contamination"
+
+"PR0000337","20150811","06C","Standard Not Met: Soap and Drying Devices"
+
+"PR0000338","20151110","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000338","20151110","03F","Standard Not Met: Food Thermometer"
+
+"PR0000338","20151110","03G","Standard Not Met: Adequate Equipment to Maintain Food Temperatures"
+
+"PR0000338","20151110","04B","Standard Not Met: Mechanical"
+
+"PR0000338","20151110","05C","Standard Not Met: Backflow, Back Siphonage"
+
+"PR0000338","20151110","06A","Standard Not Met: Adequate Number, Location, Design"
+
+"PR0000338","20151110","06B","Standard Not Met: Accessible"
+
+"PR0000338","20151110","06C","Standard Not Met: Soap and Drying Devices"
+
+"PR0000338","20151110","08B","Standard Not Met: Properly Labeled"
+
+"PR0000340","20150427","01F","Standard Not Met: Consumer Advisory"
+
+"PR0000340","20150427","10A","Standard Not Met: Food-Contact Surfaces (Construction)"
+
+"PR0000341","20160415","02C","Standard Not Met: Hands Washed As Needed"
+
+"PR0000342","20150410","09A","Standard Not Met: Original Container, Properly Labeled"
+
+"PR0000342","20150410","11C","Standard Not Met: Chemical Test Kits Provided, Accessible"
+
+"PR0000344","20160111","02D","Standard Not Met: Hygienic Practices"
+
+"PR0000344","20160111","02E","Standard Not Met: Smoking, Eating, Drinking"
+
+"PR0000344","20160111","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000344","20160111","05C","Standard Not Met: Backflow, Back Siphonage"
+
+"PR0000344","20160111","09B","Standard Not Met: Food Protected from Contamination"
+
+"PR0000344","20160111","10A","Standard Not Met: Food-Contact Surfaces (Construction)"
+
+"PR0000344","20160111","14D","Standard Not Met: Lighting"
+
+"PR0000344","20160111","14G","Standard Not Met: Premises Maintained"
+
+"PR0000345","20141110","05B","Standard Not Met: Hot and Cold Water Under Pressure"
+
+"PR0000345","20141110","06C","Standard Not Met: Soap and Drying Devices"
+
+"PR0000347","20141113","06A","Standard Not Met: Adequate Number, Location, Design"
+
+"PR0000347","20141113","09B","Standard Not Met: Food Protected from Contamination"
+
+"PR0000347","20141113","10B","Standard Not Met: Non-Food Contact Surfaces (Construction)"
+
+"PR0000347","20141113","14A","Standard Not Met: Plumbing, Installed, Maintained"
+
+"PR0000347","20141113","14C","Standard Not Met: Floors, Walls, Ceilings"
+
+"PR0000347","20141113","14E","Standard Not Met: Ventilation"
+
+"PR0000347","20141113","14G","Standard Not Met: Premises Maintained"
+
+"PR0000347","20151105","04B","Standard Not Met: Mechanical"
+
+"PR0000349","20140602","02D","Standard Not Met: Hygienic Practices"
+
+"PR0000349","20140602","03F","Standard Not Met: Food Thermometer"
+
+"PR0000349","20150803","09B","Standard Not Met: Food Protected from Contamination"
+
+"PR0000349","20150803","11C","Standard Not Met: Chemical Test Kits Provided, Accessible"
+
+"PR0000349","20150803","12B","Standard Not Met: Non-Food Contact Surfaces (Cleaning)"
+
+"PR0000350","20150518","02D","Standard Not Met: Hygienic Practices"
+
+"PR0000350","20150518","02E","Standard Not Met: Smoking, Eating, Drinking"
+
+"PR0000350","20150518","04A","Standard Not Met: Manual"
+
+"PR0000350","20150518","06C","Standard Not Met: Soap and Drying Devices"
+
+"PR0000350","20150518","09B","Standard Not Met: Food Protected from Contamination"
+
+"PR0000350","20150518","14C","Standard Not Met: Floors, Walls, Ceilings"
+
+"PR0000352","20150518","02E","Standard Not Met: Smoking, Eating, Drinking"
+
+"PR0000352","20150518","04B","Standard Not Met: Mechanical"
+
+"PR0000352","20150518","05C","Standard Not Met: Backflow, Back Siphonage"
+
+"PR0000352","20150518","08B","Standard Not Met: Properly Labeled"
+
+"PR0000353","20160112","02C","Standard Not Met: Hands Washed As Needed"
+
+"PR0000353","20160112","05C","Standard Not Met: Backflow, Back Siphonage"
+
+"PR0000353","20160112","08B","Standard Not Met: Properly Labeled"
+
+"PR0000353","20160112","14C","Standard Not Met: Floors, Walls, Ceilings"
+
+"PR0000356","20160328","02E","Standard Not Met: Smoking, Eating, Drinking"
+
+"PR0000356","20160328","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000356","20160328","08A","Standard Not Met: Properly Stored"
+
+"PR0000357","20150323","02E","Standard Not Met: Smoking, Eating, Drinking"
+
+"PR0000357","20150323","02G","Standard Not Met: No Bare Hand Contact"
+
+"PR0000357","20150323","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000357","20150323","06B","Standard Not Met: Accessible"
+
+"PR0000357","20150323","06C","Standard Not Met: Soap and Drying Devices"
+
+"PR0000358","20160303","03C","Standard Not Met: Hot Hold at 135 Degrees Farenheit or Greater"
+
+"PR0000358","20160303","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000361","20160506","01C","Standard Not Met: Cross-Contamination"
+
+"PR0000361","20160506","03A","Standard Not Met: Cooling Methods"
+
+"PR0000361","20160506","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000361","20160506","05B","Standard Not Met: Hot and Cold Water Under Pressure"
+
+"PR0000366","20150311","02D","Standard Not Met: Hygienic Practices"
+
+"PR0000366","20150311","08B","Standard Not Met: Properly Labeled"
+
+"PR0000366","20160203","01B","Standard Not Met: Wholesome, Free of Spoilage"
+
+"PR0000366","20160203","08B","Standard Not Met: Properly Labeled"
+
+"PR0000368","20160302","02F","Standard Not Met: Training Needed"
+
+"PR0000368","20160302","03A","Standard Not Met: Cooling Methods"
+
+"PR0000368","20160302","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000368","20160302","06C","Standard Not Met: Soap and Drying Devices"
+
+"PR0000368","20160302","08B","Standard Not Met: Properly Labeled"
+
+"PR0000368","20160302","10B","Standard Not Met: Non-Food Contact Surfaces (Construction)"
+
+"PR0000368","20160302","11A","Standard Not Met: Refrigeration Units With Accurate Thermometers"
+
+"PR0000368","20160302","14G","Standard Not Met: Premises Maintained"
+
+"PR0000373","20160426","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000373","20160426","06C","Standard Not Met: Soap and Drying Devices"
+
+"PR0000373","20160426","07A","Standard Not Met: Evidence of Insects or Rodents"
+
+"PR0000375","20150303","01B","Standard Not Met: Wholesome, Free of Spoilage"
+
+"PR0000377","20150129","02C","Standard Not Met: Hands Washed As Needed"
+
+"PR0000377","20150129","02F","Standard Not Met: Training Needed"
+
+"PR0000380","20150710","02F","Standard Not Met: Training Needed"
+
+"PR0000380","20150710","03C","Standard Not Met: Hot Hold at 135 Degrees Farenheit or Greater"
+
+"PR0000381","20150501","02D","Standard Not Met: Hygienic Practices"
+
+"PR0000381","20150501","02F","Standard Not Met: Training Needed"
+
+"PR0000381","20150501","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000381","20150501","05C","Standard Not Met: Backflow, Back Siphonage"
+
+"PR0000381","20150501","06C","Standard Not Met: Soap and Drying Devices"
+
+"PR0000381","20150501","09B","Standard Not Met: Food Protected from Contamination"
+
+"PR0000381","20150501","10A","Standard Not Met: Food-Contact Surfaces (Construction)"
+
+"PR0000381","20150501","12A","Standard Not Met: Food Contact Surfaces (Cleaning)"
+
+"PR0000381","20150501","12B","Standard Not Met: Non-Food Contact Surfaces (Cleaning)"
+
+"PR0000381","20150501","14C","Standard Not Met: Floors, Walls, Ceilings"
+
+"PR0000381","20150501","14D","Standard Not Met: Lighting"
+
+"PR0000381","20150501","14G","Standard Not Met: Premises Maintained"
+
+"PR0000383","20150330","02D","Standard Not Met: Hygienic Practices"
+
+"PR0000383","20150330","02E","Standard Not Met: Smoking, Eating, Drinking"
+
+"PR0000383","20150330","02F","Standard Not Met: Training Needed"
+
+"PR0000383","20150330","03F","Standard Not Met: Food Thermometer"
+
+"PR0000383","20150330","04A","Standard Not Met: Manual"
+
+"PR0000383","20150330","05C","Standard Not Met: Backflow, Back Siphonage"
+
+"PR0000383","20150813","06B","Standard Not Met: Accessible"
+
+"PR0000387","20141113","05C","Standard Not Met: Backflow, Back Siphonage"
+
+"PR0000387","20141113","06A","Standard Not Met: Adequate Number, Location, Design"
+
+"PR0000387","20141113","10B","Standard Not Met: Non-Food Contact Surfaces (Construction)"
+
+"PR0000387","20141113","14C","Standard Not Met: Floors, Walls, Ceilings"
+
+"PR0000387","20141113","14E","Standard Not Met: Ventilation"
+
+"PR0000389","20141211","02E","Standard Not Met: Smoking, Eating, Drinking"
+
+"PR0000389","20141211","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000389","20141211","03G","Standard Not Met: Adequate Equipment to Maintain Food Temperatures"
+
+"PR0000389","20141211","09B","Standard Not Met: Food Protected from Contamination"
+
+"PR0000389","20141211","10B","Standard Not Met: Non-Food Contact Surfaces (Construction)"
+
+"PR0000389","20141211","14C","Standard Not Met: Floors, Walls, Ceilings"
+
+"PR0000389","20141211","14D","Standard Not Met: Lighting"
+
+"PR0000389","20150429","02E","Standard Not Met: Smoking, Eating, Drinking"
+
+"PR0000390","20141202","10B","Standard Not Met: Non-Food Contact Surfaces (Construction)"
+
+"PR0000390","20141202","14A","Standard Not Met: Plumbing, Installed, Maintained"
+
+"PR0000390","20141202","14C","Standard Not Met: Floors, Walls, Ceilings"
+
+"PR0000390","20151103","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000393","20160226","02E","Standard Not Met: Smoking, Eating, Drinking"
+
+"PR0000393","20160226","09B","Standard Not Met: Food Protected from Contamination"
+
+"PR0000393","20160226","12B","Standard Not Met: Non-Food Contact Surfaces (Cleaning)"
+
+"PR0000393","20160226","14F","Standard Not Met: Locker Rooms"
+
+"PR0000394","20160222","02D","Standard Not Met: Hygienic Practices"
+
+"PR0000395","20140527","01A","Standard Not Met: Approved Source"
+
+"PR0000395","20140527","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000395","20140527","03F","Standard Not Met: Food Thermometer"
+
+"PR0000395","20140527","03G","Standard Not Met: Adequate Equipment to Maintain Food Temperatures"
+
+"PR0000395","20140527","06C","Standard Not Met: Soap and Drying Devices"
+
+"PR0000398","20150217","01C","Standard Not Met: Cross-Contamination"
+
+"PR0000398","20150217","02E","Standard Not Met: Smoking, Eating, Drinking"
+
+"PR0000398","20150217","09B","Standard Not Met: Food Protected from Contamination"
+
+"PR0000398","20150217","10A","Standard Not Met: Food-Contact Surfaces (Construction)"
+
+"PR0000398","20150217","14C","Standard Not Met: Floors, Walls, Ceilings"
+
+"PR0000401","20140711","01C","Standard Not Met: Cross-Contamination"
+
+"PR0000401","20140711","01F","Standard Not Met: Consumer Advisory"
+
+"PR0000401","20140711","04B","Standard Not Met: Mechanical"
+
+"PR0000403","20150108","01F","Standard Not Met: Consumer Advisory"
+
+"PR0000403","20150108","09A","Standard Not Met: Original Container, Properly Labeled"
+
+"PR0000403","20150108","09B","Standard Not Met: Food Protected from Contamination"
+
+"PR0000403","20150108","10B","Standard Not Met: Non-Food Contact Surfaces (Construction)"
+
+"PR0000403","20150108","11C","Standard Not Met: Chemical Test Kits Provided, Accessible"
+
+"PR0000403","20150108","14C","Standard Not Met: Floors, Walls, Ceilings"
+
+"PR0000404","20140529","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000404","20140529","03G","Standard Not Met: Adequate Equipment to Maintain Food Temperatures"
+
+"PR0000409","20140624","02D","Standard Not Met: Hygienic Practices"
+
+"PR0000409","20140624","06C","Standard Not Met: Soap and Drying Devices"
+
+"PR0000409","20160519","01D","Standard Not Met: HAACP Plan"
+
+"PR0000413","20150817","01B","Standard Not Met: Wholesome, Free of Spoilage"
+
+"PR0000413","20150817","01F","Standard Not Met: Consumer Advisory"
+
+"PR0000413","20150817","02D","Standard Not Met: Hygienic Practices"
+
+"PR0000413","20150817","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000413","20150817","08B","Standard Not Met: Properly Labeled"
+
+"PR0000418","20160229","01B","Standard Not Met: Wholesome, Free of Spoilage"
+
+"PR0000418","20160229","01C","Standard Not Met: Cross-Contamination"
+
+"PR0000418","20160229","02E","Standard Not Met: Smoking, Eating, Drinking"
+
+"PR0000418","20160229","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000418","20160229","05B","Standard Not Met: Hot and Cold Water Under Pressure"
+
+"PR0000418","20160229","06B","Standard Not Met: Accessible"
+
+"PR0000421","20140709","01E","Standard Not Met: Date Marking"
+
+"PR0000424","20150508","08A","Standard Not Met: Properly Stored"
+
+"PR0000424","20150508","10A","Standard Not Met: Food-Contact Surfaces (Construction)"
+
+"PR0000424","20150508","10B","Standard Not Met: Non-Food Contact Surfaces (Construction)"
+
+"PR0000425","20160318","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000425","20160318","05C","Standard Not Met: Backflow, Back Siphonage"
+
+"PR0000427","20150901","14A","Standard Not Met: Plumbing, Installed, Maintained"
+
+"PR0000428","20140903","06A","Standard Not Met: Adequate Number, Location, Design"
+
+"PR0000428","20140903","14C","Standard Not Met: Floors, Walls, Ceilings"
+
+"PR0000434","20160210","01C","Standard Not Met: Cross-Contamination"
+
+"PR0000434","20160210","04B","Standard Not Met: Mechanical"
+
+"PR0000436","20140523","03C","Standard Not Met: Hot Hold at 135 Degrees Farenheit or Greater"
+
+"PR0000436","20140523","03F","Standard Not Met: Food Thermometer"
+
+"PR0000439","20150223","05B","Standard Not Met: Hot and Cold Water Under Pressure"
+
+"PR0000439","20160229","01B","Standard Not Met: Wholesome, Free of Spoilage"
+
+"PR0000444","20150224","01B","Standard Not Met: Wholesome, Free of Spoilage"
+
+"PR0000444","20150224","09A","Standard Not Met: Original Container, Properly Labeled"
+
+"PR0000444","20150224","14G","Standard Not Met: Premises Maintained"
+
+"PR0000445","20160303","01A","Standard Not Met: Approved Source"
+
+"PR0000445","20160303","02E","Standard Not Met: Smoking, Eating, Drinking"
+
+"PR0000445","20160303","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000445","20160303","03F","Standard Not Met: Food Thermometer"
+
+"PR0000453","20140731","03A","Standard Not Met: Cooling Methods"
+
+"PR0000453","20140731","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000453","20150116","02E","Standard Not Met: Smoking, Eating, Drinking"
+
+"PR0000456","20151116","02D","Standard Not Met: Hygienic Practices"
+
+"PR0000456","20151116","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000456","20151116","05B","Standard Not Met: Hot and Cold Water Under Pressure"
+
+"PR0000456","20151116","06C","Standard Not Met: Soap and Drying Devices"
+
+"PR0000457","20160217","02D","Standard Not Met: Hygienic Practices"
+
+"PR0000457","20160217","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000457","20160217","07A","Standard Not Met: Evidence of Insects or Rodents"
+
+"PR0000457","20160217","08B","Standard Not Met: Properly Labeled"
+
+"PR0000457","20160217","09B","Standard Not Met: Food Protected from Contamination"
+
+"PR0000457","20160217","14G","Standard Not Met: Premises Maintained"
+
+"PR0000458","20150618","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000458","20150618","09A","Standard Not Met: Original Container, Properly Labeled"
+
+"PR0000458","20150618","09B","Standard Not Met: Food Protected from Contamination"
+
+"PR0000458","20150618","14C","Standard Not Met: Floors, Walls, Ceilings"
+
+"PR0000459","20140818","03C","Standard Not Met: Hot Hold at 135 Degrees Farenheit or Greater"
+
+"PR0000460","20141211","01C","Standard Not Met: Cross-Contamination"
+
+"PR0000460","20141211","02C","Standard Not Met: Hands Washed As Needed"
+
+"PR0000460","20141211","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000460","20141211","03F","Standard Not Met: Food Thermometer"
+
+"PR0000460","20141211","03G","Standard Not Met: Adequate Equipment to Maintain Food Temperatures"
+
+"PR0000460","20141211","04A","Standard Not Met: Manual"
+
+"PR0000460","20141211","06C","Standard Not Met: Soap and Drying Devices"
+
+"PR0000462","20150219","02F","Standard Not Met: Training Needed"
+
+"PR0000462","20150219","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000462","20150219","03F","Standard Not Met: Food Thermometer"
+
+"PR0000462","20150219","04B","Standard Not Met: Mechanical"
+
+"PR0000462","20150219","05C","Standard Not Met: Backflow, Back Siphonage"
+
+"PR0000462","20150219","06C","Standard Not Met: Soap and Drying Devices"
+
+"PR0000462","20150219","11C","Standard Not Met: Chemical Test Kits Provided, Accessible"
+
+"PR0000462","20150506","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000462","20150506","05C","Standard Not Met: Backflow, Back Siphonage"
+
+"PR0000463","20141006","05C","Standard Not Met: Backflow, Back Siphonage"
+
+"PR0000463","20141006","06A","Standard Not Met: Adequate Number, Location, Design"
+
+"PR0000463","20141006","14C","Standard Not Met: Floors, Walls, Ceilings"
+
+"PR0000463","20141006","14E","Standard Not Met: Ventilation"
+
+"PR0000464","20150617","04B","Standard Not Met: Mechanical"
+
+"PR0000464","20150617","05B","Standard Not Met: Hot and Cold Water Under Pressure"
+
+"PR0000464","20150617","10B","Standard Not Met: Non-Food Contact Surfaces (Construction)"
+
+"PR0000465","20150512","02E","Standard Not Met: Smoking, Eating, Drinking"
+
+"PR0000465","20150512","05C","Standard Not Met: Backflow, Back Siphonage"
+
+"PR0000472","20160301","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000472","20160301","03G","Standard Not Met: Adequate Equipment to Maintain Food Temperatures"
+
+"PR0000473","20140812","02F","Standard Not Met: Training Needed"
+
+"PR0000473","20140812","05C","Standard Not Met: Backflow, Back Siphonage"
+
+"PR0000473","20140812","09B","Standard Not Met: Food Protected from Contamination"
+
+"PR0000473","20140812","10B","Standard Not Met: Non-Food Contact Surfaces (Construction)"
+
+"PR0000473","20140812","14C","Standard Not Met: Floors, Walls, Ceilings"
+
+"PR0000475","20150401","02E","Standard Not Met: Smoking, Eating, Drinking"
+
+"PR0000475","20150401","06B","Standard Not Met: Accessible"
+
+"PR0000475","20150401","08A","Standard Not Met: Properly Stored"
+
+"PR0000477","20150313","01B","Standard Not Met: Wholesome, Free of Spoilage"
+
+"PR0000477","20150313","01F","Standard Not Met: Consumer Advisory"
+
+"PR0000477","20150313","02C","Standard Not Met: Hands Washed As Needed"
+
+"PR0000477","20150313","02G","Standard Not Met: No Bare Hand Contact"
+
+"PR0000477","20150313","07A","Standard Not Met: Evidence of Insects or Rodents"
+
+"PR0000477","20150313","08B","Standard Not Met: Properly Labeled"
+
+"PR0000480","20150710","01F","Standard Not Met: Consumer Advisory"
+
+"PR0000480","20150710","04B","Standard Not Met: Mechanical"
+
+"PR0000480","20150710","05B","Standard Not Met: Hot and Cold Water Under Pressure"
+
+"PR0000481","20141028","05B","Standard Not Met: Hot and Cold Water Under Pressure"
+
+"PR0000481","20141028","10C","Standard Not Met: Dishwashing Facilities"
+
+"PR0000481","20141028","14C","Standard Not Met: Floors, Walls, Ceilings"
+
+"PR0000481","20150930","05B","Standard Not Met: Hot and Cold Water Under Pressure"
+
+"PR0000482","20140814","01C","Standard Not Met: Cross-Contamination"
+
+"PR0000482","20140814","02E","Standard Not Met: Smoking, Eating, Drinking"
+
+"PR0000483","20141010","06A","Standard Not Met: Adequate Number, Location, Design"
+
+"PR0000483","20141010","07A","Standard Not Met: Evidence of Insects or Rodents"
+
+"PR0000483","20141010","10A","Standard Not Met: Food-Contact Surfaces (Construction)"
+
+"PR0000483","20141010","10B","Standard Not Met: Non-Food Contact Surfaces (Construction)"
+
+"PR0000483","20141010","11B","Standard Not Met: Dishmachine With Accurate Thermometer & Gauge Cock"
+
+"PR0000483","20141010","13A","Standard Not Met: Equipment/ Utensils Provided, Used, Stored"
+
+"PR0000483","20141010","14A","Standard Not Met: Plumbing, Installed, Maintained"
+
+"PR0000483","20141010","14C","Standard Not Met: Floors, Walls, Ceilings"
+
+"PR0000483","20141010","14G","Standard Not Met: Premises Maintained"
+
+"PR0000483","20151020","07A","Standard Not Met: Evidence of Insects or Rodents"
+
+"PR0000484","20150403","01F","Standard Not Met: Consumer Advisory"
+
+"PR0000484","20150403","02D","Standard Not Met: Hygienic Practices"
+
+"PR0000484","20150403","02E","Standard Not Met: Smoking, Eating, Drinking"
+
+"PR0000484","20150403","02F","Standard Not Met: Training Needed"
+
+"PR0000484","20150403","02G","Standard Not Met: No Bare Hand Contact"
+
+"PR0000484","20150403","09B","Standard Not Met: Food Protected from Contamination"
+
+"PR0000484","20150403","14A","Standard Not Met: Plumbing, Installed, Maintained"
+
+"PR0000484","20150403","14C","Standard Not Met: Floors, Walls, Ceilings"
+
+"PR0000484","20150403","14D","Standard Not Met: Lighting"
+
+"PR0000484","20150403","14G","Standard Not Met: Premises Maintained"
+
+"PR0000489","20160504","02D","Standard Not Met: Hygienic Practices"
+
+"PR0000489","20160504","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000489","20160504","05C","Standard Not Met: Backflow, Back Siphonage"
+
+"PR0000491","20160129","02C","Standard Not Met: Hands Washed As Needed"
+
+"PR0000491","20160129","02D","Standard Not Met: Hygienic Practices"
+
+"PR0000491","20160129","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000491","20160129","05B","Standard Not Met: Hot and Cold Water Under Pressure"
+
+"PR0000494","20140617","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000494","20140617","12B","Standard Not Met: Non-Food Contact Surfaces (Cleaning)"
+
+"PR0000494","20140617","14A","Standard Not Met: Plumbing, Installed, Maintained"
+
+"PR0000497","20160506","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000500","20140730","01F","Standard Not Met: Consumer Advisory"
+
+"PR0000500","20140730","02C","Standard Not Met: Hands Washed As Needed"
+
+"PR0000500","20140730","02D","Standard Not Met: Hygienic Practices"
+
+"PR0000500","20140730","03C","Standard Not Met: Hot Hold at 135 Degrees Farenheit or Greater"
+
+"PR0000500","20140730","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000500","20140730","08A","Standard Not Met: Properly Stored"
+
+"PR0000500","20160404","07A","Standard Not Met: Evidence of Insects or Rodents"
+
+"PR0000503","20150203","02D","Standard Not Met: Hygienic Practices"
+
+"PR0000503","20150203","05C","Standard Not Met: Backflow, Back Siphonage"
+
+"PR0000503","20160311","05C","Standard Not Met: Backflow, Back Siphonage"
+
+"PR0000506","20151217","01B","Standard Not Met: Wholesome, Free of Spoilage"
+
+"PR0000508","20160301","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000508","20160301","10A","Standard Not Met: Food-Contact Surfaces (Construction)"
+
+"PR0000508","20160301","12A","Standard Not Met: Food Contact Surfaces (Cleaning)"
+
+"PR0000509","20150729","02D","Standard Not Met: Hygienic Practices"
+
+"PR0000509","20150729","02F","Standard Not Met: Training Needed"
+
+"PR0000511","20150217","05C","Standard Not Met: Backflow, Back Siphonage"
+
+"PR0000513","20150626","01F","Standard Not Met: Consumer Advisory"
+
+"PR0000513","20150626","02C","Standard Not Met: Hands Washed As Needed"
+
+"PR0000513","20150626","02E","Standard Not Met: Smoking, Eating, Drinking"
+
+"PR0000513","20150626","02G","Standard Not Met: No Bare Hand Contact"
+
+"PR0000513","20150626","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000513","20150626","03G","Standard Not Met: Adequate Equipment to Maintain Food Temperatures"
+
+"PR0000513","20150626","08B","Standard Not Met: Properly Labeled"
+
+"PR0000513","20150626","09B","Standard Not Met: Food Protected from Contamination"
+
+"PR0000513","20150626","10A","Standard Not Met: Food-Contact Surfaces (Construction)"
+
+"PR0000513","20150626","10B","Standard Not Met: Non-Food Contact Surfaces (Construction)"
+
+"PR0000517","20150702","02F","Standard Not Met: Training Needed"
+
+"PR0000517","20150702","05B","Standard Not Met: Hot and Cold Water Under Pressure"
+
+"PR0000518","20150327","02F","Standard Not Met: Training Needed"
+
+"PR0000518","20150327","05B","Standard Not Met: Hot and Cold Water Under Pressure"
+
+"PR0000522","20140528","02E","Standard Not Met: Smoking, Eating, Drinking"
+
+"PR0000523","20140731","01B","Standard Not Met: Wholesome, Free of Spoilage"
+
+"PR0000523","20140731","02E","Standard Not Met: Smoking, Eating, Drinking"
+
+"PR0000525","20140528","02E","Standard Not Met: Smoking, Eating, Drinking"
+
+"PR0000525","20140528","05C","Standard Not Met: Backflow, Back Siphonage"
+
+"PR0000525","20140528","09B","Standard Not Met: Food Protected from Contamination"
+
+"PR0000525","20140528","11C","Standard Not Met: Chemical Test Kits Provided, Accessible"
+
+"PR0000526","20141118","06A","Standard Not Met: Adequate Number, Location, Design"
+
+"PR0000526","20141118","10A","Standard Not Met: Food-Contact Surfaces (Construction)"
+
+"PR0000526","20141118","10B","Standard Not Met: Non-Food Contact Surfaces (Construction)"
+
+"PR0000526","20141118","11B","Standard Not Met: Dishmachine With Accurate Thermometer & Gauge Cock"
+
+"PR0000526","20141118","12B","Standard Not Met: Non-Food Contact Surfaces (Cleaning)"
+
+"PR0000526","20141118","14A","Standard Not Met: Plumbing, Installed, Maintained"
+
+"PR0000526","20141118","14C","Standard Not Met: Floors, Walls, Ceilings"
+
+"PR0000526","20141118","14D","Standard Not Met: Lighting"
+
+"PR0000528","20140813","01B","Standard Not Met: Wholesome, Free of Spoilage"
+
+"PR0000529","20160114","05C","Standard Not Met: Backflow, Back Siphonage"
+
+"PR0000533","20140710","02F","Standard Not Met: Training Needed"
+
+"PR0000533","20140710","07A","Standard Not Met: Evidence of Insects or Rodents"
+
+"PR0000533","20140710","07B","Standard Not Met: Pesticide Application"
+
+"PR0000533","20141029","01C","Standard Not Met: Cross-Contamination"
+
+"PR0000533","20141029","01F","Standard Not Met: Consumer Advisory"
+
+"PR0000533","20141029","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000533","20141029","08A","Standard Not Met: Properly Stored"
+
+"PR0000533","20141029","09B","Standard Not Met: Food Protected from Contamination"
+
+"PR0000533","20141029","10A","Standard Not Met: Food-Contact Surfaces (Construction)"
+
+"PR0000533","20141029","12D","Standard Not Met: Wiping Cloths"
+
+"PR0000533","20141029","14B","Standard Not Met: Garbage and Refuse"
+
+"PR0000533","20141029","14C","Standard Not Met: Floors, Walls, Ceilings"
+
+"PR0000534","20150223","02D","Standard Not Met: Hygienic Practices"
+
+"PR0000534","20150223","06B","Standard Not Met: Accessible"
+
+"PR0000534","20150223","10A","Standard Not Met: Food-Contact Surfaces (Construction)"
+
+"PR0000536","20150331","02D","Standard Not Met: Hygienic Practices"
+
+"PR0000536","20150331","12D","Standard Not Met: Wiping Cloths"
+
+"PR0000537","20140611","02E","Standard Not Met: Smoking, Eating, Drinking"
+
+"PR0000539","20140626","02F","Standard Not Met: Training Needed"
+
+"PR0000539","20140626","05B","Standard Not Met: Hot and Cold Water Under Pressure"
+
+"PR0000539","20140626","06C","Standard Not Met: Soap and Drying Devices"
+
+"PR0000539","20150701","04B","Standard Not Met: Mechanical"
+
+"PR0000539","20150701","05A","Standard Not Met: Safe Water Source"
+
+"PR0000539","20150701","06C","Standard Not Met: Soap and Drying Devices"
+
+"PR0000544","20140619","02D","Standard Not Met: Hygienic Practices"
+
+"PR0000544","20140619","07A","Standard Not Met: Evidence of Insects or Rodents"
+
+"PR0000544","20160504","02D","Standard Not Met: Hygienic Practices"
+
+"PR0000544","20160504","05C","Standard Not Met: Backflow, Back Siphonage"
+
+"PR0000544","20160504","06B","Standard Not Met: Accessible"
+
+"PR0000546","20140819","02F","Standard Not Met: Training Needed"
+
+"PR0000546","20140819","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000546","20140819","03F","Standard Not Met: Food Thermometer"
+
+"PR0000546","20140819","03G","Standard Not Met: Adequate Equipment to Maintain Food Temperatures"
+
+"PR0000546","20140819","08B","Standard Not Met: Properly Labeled"
+
+"PR0000546","20140819","12A","Standard Not Met: Food Contact Surfaces (Cleaning)"
+
+"PR0000546","20140819","12B","Standard Not Met: Non-Food Contact Surfaces (Cleaning)"
+
+"PR0000547","20140929","05C","Standard Not Met: Backflow, Back Siphonage"
+
+"PR0000547","20140929","09B","Standard Not Met: Food Protected from Contamination"
+
+"PR0000547","20140929","10B","Standard Not Met: Non-Food Contact Surfaces (Construction)"
+
+"PR0000547","20140929","14C","Standard Not Met: Floors, Walls, Ceilings"
+
+"PR0000550","20140929","07A","Standard Not Met: Evidence of Insects or Rodents"
+
+"PR0000550","20140929","10B","Standard Not Met: Non-Food Contact Surfaces (Construction)"
+
+"PR0000553","20150818","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000553","20150818","03G","Standard Not Met: Adequate Equipment to Maintain Food Temperatures"
+
+"PR0000553","20150818","04B","Standard Not Met: Mechanical"
+
+"PR0000554","20140915","02E","Standard Not Met: Smoking, Eating, Drinking"
+
+"PR0000554","20140915","04B","Standard Not Met: Mechanical"
+
+"PR0000554","20140915","05B","Standard Not Met: Hot and Cold Water Under Pressure"
+
+"PR0000554","20160114","05C","Standard Not Met: Backflow, Back Siphonage"
+
+"PR0000555","20160224","03F","Standard Not Met: Food Thermometer"
+
+"PR0000556","20160129","01C","Standard Not Met: Cross-Contamination"
+
+"PR0000556","20160129","02C","Standard Not Met: Hands Washed As Needed"
+
+"PR0000556","20160129","03D","Standard Not Met: Required Cooking Temperature"
+
+"PR0000558","20150414","08C","Standard Not Met: Properly Used"
+
+"PR0000559","20150323","03F","Standard Not Met: Food Thermometer"
+
+"PR0000559","20150323","05B","Standard Not Met: Hot and Cold Water Under Pressure"
+
+"PR0000564","20140715","04B","Standard Not Met: Mechanical"
+
+"PR0000564","20140715","08C","Standard Not Met: Properly Used"
+
+"PR0000565","20140828","06C","Standard Not Met: Soap and Drying Devices"
+
+"PR0000567","20140828","06A","Standard Not Met: Adequate Number, Location, Design"
+
+"PR0000567","20151110","07A","Standard Not Met: Evidence of Insects or Rodents"
+
+"PR0000570","20160111","01C","Standard Not Met: Cross-Contamination"
+
+"PR0000570","20160111","08B","Standard Not Met: Properly Labeled"
+
+"PR0000570","20160111","09B","Standard Not Met: Food Protected from Contamination"
+
+"PR0000570","20160111","12B","Standard Not Met: Non-Food Contact Surfaces (Cleaning)"
+
+"PR0000573","20150112","10A","Standard Not Met: Food-Contact Surfaces (Construction)"
+
+"PR0000574","20150303","05C","Standard Not Met: Backflow, Back Siphonage"
+
+"PR0000575","20150303","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000576","20140729","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000576","20140729","14A","Standard Not Met: Plumbing, Installed, Maintained"
+
+"PR0000576","20160208","08A","Standard Not Met: Properly Stored"
+
+"PR0000577","20160506","02D","Standard Not Met: Hygienic Practices"
+
+"PR0000577","20160506","02E","Standard Not Met: Smoking, Eating, Drinking"
+
+"PR0000580","20141015","02F","Standard Not Met: Training Needed"
+
+"PR0000580","20141015","06C","Standard Not Met: Soap and Drying Devices"
+
+"PR0000580","20141015","07A","Standard Not Met: Evidence of Insects or Rodents"
+
+"PR0000580","20160428","01D","Standard Not Met: HAACP Plan"
+
+"PR0000580","20160428","02C","Standard Not Met: Hands Washed As Needed"
+
+"PR0000580","20160428","02D","Standard Not Met: Hygienic Practices"
+
+"PR0000580","20160428","02G","Standard Not Met: No Bare Hand Contact"
+
+"PR0000580","20160428","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000580","20160428","05C","Standard Not Met: Backflow, Back Siphonage"
+
+"PR0000580","20160428","09B","Standard Not Met: Food Protected from Contamination"
+
+"PR0000580","20160428","10B","Standard Not Met: Non-Food Contact Surfaces (Construction)"
+
+"PR0000580","20160428","14C","Standard Not Met: Floors, Walls, Ceilings"
+
+"PR0000584","20150611","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000584","20150611","06C","Standard Not Met: Soap and Drying Devices"
+
+"PR0000584","20150611","07A","Standard Not Met: Evidence of Insects or Rodents"
+
+"PR0000584","20150611","09A","Standard Not Met: Original Container, Properly Labeled"
+
+"PR0000584","20150611","09B","Standard Not Met: Food Protected from Contamination"
+
+"PR0000584","20150611","13C","Standard Not Met: No Reuse of Single-Service Articles"
+
+"PR0000584","20150611","14C","Standard Not Met: Floors, Walls, Ceilings"
+
+"PR0000587","20140609","02D","Standard Not Met: Hygienic Practices"
+
+"PR0000587","20140609","02E","Standard Not Met: Smoking, Eating, Drinking"
+
+"PR0000587","20140609","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000587","20150428","02E","Standard Not Met: Smoking, Eating, Drinking"
+
+"PR0000587","20150428","02F","Standard Not Met: Training Needed"
+
+"PR0000587","20150428","03A","Standard Not Met: Cooling Methods"
+
+"PR0000587","20150428","04B","Standard Not Met: Mechanical"
+
+"PR0000587","20150428","08A","Standard Not Met: Properly Stored"
+
+"PR0000587","20150428","11C","Standard Not Met: Chemical Test Kits Provided, Accessible"
+
+"PR0000587","20150428","12D","Standard Not Met: Wiping Cloths"
+
+"PR0000587","20150728","02C","Standard Not Met: Hands Washed As Needed"
+
+"PR0000587","20150728","02E","Standard Not Met: Smoking, Eating, Drinking"
+
+"PR0000588","20150729","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000590","20141121","01B","Standard Not Met: Wholesome, Free of Spoilage"
+
+"PR0000590","20141121","05C","Standard Not Met: Backflow, Back Siphonage"
+
+"PR0000590","20160308","05C","Standard Not Met: Backflow, Back Siphonage"
+
+"PR0000591","20160229","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000591","20160229","06C","Standard Not Met: Soap and Drying Devices"
+
+"PR0000596","20150813","02E","Standard Not Met: Smoking, Eating, Drinking"
+
+"PR0000596","20150813","06A","Standard Not Met: Adequate Number, Location, Design"
+
+"PR0000600","20151130","02F","Standard Not Met: Training Needed"
+
+"PR0000600","20151130","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000600","20151130","03G","Standard Not Met: Adequate Equipment to Maintain Food Temperatures"
+
+"PR0000600","20151130","05C","Standard Not Met: Backflow, Back Siphonage"
+
+"PR0000600","20151130","06C","Standard Not Met: Soap and Drying Devices"
+
+"PR0000601","20160513","01C","Standard Not Met: Cross-Contamination"
+
+"PR0000604","20150210","14A","Standard Not Met: Plumbing, Installed, Maintained"
+
+"PR0000604","20150210","14C","Standard Not Met: Floors, Walls, Ceilings"
+
+"PR0000606","20140801","02F","Standard Not Met: Training Needed"
+
+"PR0000608","20150409","03A","Standard Not Met: Cooling Methods"
+
+"PR0000608","20150409","03F","Standard Not Met: Food Thermometer"
+
+"PR0000608","20150409","06C","Standard Not Met: Soap and Drying Devices"
+
+"PR0000608","20150409","08B","Standard Not Met: Properly Labeled"
+
+"PR0000608","20150409","08C","Standard Not Met: Properly Used"
+
+"PR0000608","20150409","09B","Standard Not Met: Food Protected from Contamination"
+
+"PR0000608","20150409","12A","Standard Not Met: Food Contact Surfaces (Cleaning)"
+
+"PR0000608","20150409","14C","Standard Not Met: Floors, Walls, Ceilings"
+
+"PR0000610","20140611","01C","Standard Not Met: Cross-Contamination"
+
+"PR0000610","20140611","02E","Standard Not Met: Smoking, Eating, Drinking"
+
+"PR0000610","20140611","02G","Standard Not Met: No Bare Hand Contact"
+
+"PR0000611","20150324","02E","Standard Not Met: Smoking, Eating, Drinking"
+
+"PR0000611","20150324","05C","Standard Not Met: Backflow, Back Siphonage"
+
+"PR0000611","20150324","09A","Standard Not Met: Original Container, Properly Labeled"
+
+"PR0000611","20150324","09B","Standard Not Met: Food Protected from Contamination"
+
+"PR0000611","20160315","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"
+
+"PR0000611","20160315","13B","Standard Not Met: Single Service Articles Stored, Dispensed, Used"
+
+"PR0000613","20160513","01B","Standard Not Met: Wholesome, Free of Spoilage"
+
+"PR0000613","20160513","02C","Standard Not Met: Hands Washed As Needed"
+
+"PR0000613","20160513","02E","Standard Not Met: Smoking, Eating, Drinking"
+
+"PR0000613","20160513","02G","Standard Not Met: No Bare Hand Contact"
+
+"PR0000613","20160513","05B","Standard Not Met: Hot and Cold Water Under Pressure"
+
+"PR0000621","20160406","01F","Standard Not Met: Consumer Advisory"
+
+"PR0000621","20160406","02C","Standard Not Met: Hands Washed As Needed"
+
+"PR0000621","20160406","03E","Standard Not Met: Cold Hold at 41 Degrees or Less"

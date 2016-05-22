@@ -1,0 +1,1999 @@
+business_id,date,code,description
+
+PR0001965,20160113,0006,"Standard not met: Adequate Handwashing Facilities Supplied & Accessible"
+
+PR0001965,20160113,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0001965,20160113,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0001965,20160113,0037,"Standard not met: Equipment And Utensils: Storage And Use"
+
+PR0001965,20160113,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0001965,20160113,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0001967,20151228,0033,"Standard not met: Food Properly Labeled & Honestly Presented, Adequate Storage"
+
+PR0001968,20151106,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0001968,20151106,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0001968,20160223,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0001968,20151106,0049,"Standard not met: Food Handler Certificates Available, Current, Complete"
+
+PR0001970,20151218,0006,"Standard not met: Adequate Handwashing Facilities Supplied & Accessible"
+
+PR0001970,20151218,0024,"Standard not met: Vermin Proofing, Air Curtains, Self Closing Doors"
+
+PR0001970,20151218,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0001970,20151218,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0001970,20151218,0049,"Standard not met: Food Handler Certificates Available, Current, Complete"
+
+PR0001971,20150728,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0001971,20150728,0023,"Standard not met: No Rodents, Insects, Birds Or Animals"
+
+PR0001971,20160325,0023,"Standard not met: No Rodents, Insects, Birds Or Animals"
+
+PR0001971,20160325,0024,"Standard not met: Vermin Proofing, Air Curtains, Self Closing Doors"
+
+PR0001971,20160325,0028,"Standard not met: Food Separated And Protected From Contamination"
+
+PR0001971,20150728,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0001971,20160325,0037,"Standard not met: Equipment And Utensils: Storage And Use"
+
+PR0001971,20160325,0038,"Standard not met: Adequate Ventilation & Lighting: Designated Areas; Use"
+
+PR0001971,20150728,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0001971,20150728,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0001971,20160325,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0001971,20160325,0049,"Standard not met: Food Handler Certificates Available, Current, Complete"
+
+PR0001971,20160325,0052,"Standard not met: Permit Available And Current"
+
+PR0001972,20151201,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0001972,20151201,0041,"Standard not met: Plumbing: Properly Installed, Good Repair, Waste Water Disposal"
+
+PR0001972,20151201,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0001972,20151201,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0001972,20151201,0049,"Standard not met: Food Handler Certificates Available, Current, Complete"
+
+PR0001974,20160112,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0001975,20150717,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0001975,20160315,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0001975,20150717,0014,"Standard not met: Food Contact Surfaces; Clean And Sanitized"
+
+PR0001975,20151104,0024,"Standard not met: Vermin Proofing, Air Curtains, Self Closing Doors"
+
+PR0001975,20150717,0028,"Standard not met: Food Separated And Protected From Contamination"
+
+PR0001975,20160315,0033,"Standard not met: Food Properly Labeled & Honestly Presented, Adequate Storage"
+
+PR0001975,20151104,0034,"Standard not met: Utensils And Equipment Approved, Good Repair"
+
+PR0001975,20151104,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0001975,20160315,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0001975,20160315,0041,"Standard not met: Plumbing: Properly Installed, Good Repair, Waste Water Disposal"
+
+PR0001975,20151104,0041,"Standard not met: Plumbing: Properly Installed, Good Repair, Waste Water Disposal"
+
+PR0001975,20151104,0042,"Standard not met: Refuse Properly Disposed: Facilities Maintained"
+
+PR0001975,20150717,0042,"Standard not met: Refuse Properly Disposed: Facilities Maintained"
+
+PR0001975,20150717,0044,"Standard not met: Personal Item Storage And Cleaning Items Storage"
+
+PR0001975,20151104,0044,"Standard not met: Personal Item Storage And Cleaning Items Storage"
+
+PR0001975,20151104,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0001975,20160315,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0001975,20150717,0049,"Standard not met: Food Handler Certificates Available, Current, Complete"
+
+PR0001977,20160223,0040,"Standard not met: Linens And Wiping Cloths: Properly Used And Stored"
+
+PR0001979,20160112,0006,"Standard not met: Adequate Handwashing Facilities Supplied & Accessible"
+
+PR0001979,20160112,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0001981,20160304,0006,"Standard not met: Adequate Handwashing Facilities Supplied & Accessible"
+
+PR0001981,20150929,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0001981,20160304,0024,"Standard not met: Vermin Proofing, Air Curtains, Self Closing Doors"
+
+PR0001981,20160304,0033,"Standard not met: Food Properly Labeled & Honestly Presented, Adequate Storage"
+
+PR0001981,20150929,0033,"Standard not met: Food Properly Labeled & Honestly Presented, Adequate Storage"
+
+PR0001981,20150929,0034,"Standard not met: Utensils And Equipment Approved, Good Repair"
+
+PR0001981,20150929,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0001981,20150929,0044,"Standard not met: Personal Item Storage And Cleaning Items Storage"
+
+PR0001981,20160304,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0001981,20150929,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0001983,20150825,0005,"Standard not met: Hands Clean & Properly Washed; Gloves Used Properly"
+
+PR0001983,20150825,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0001983,20160311,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0001983,20150617,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0001983,20150617,0009,"Standard not met: Proper Cooling Methods"
+
+PR0001983,20160311,0011,"Standard not met: Proper Reheating Procedures For Hot Holding"
+
+PR0001983,20160311,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0001983,20150825,0037,"Standard not met: Equipment And Utensils: Storage And Use"
+
+PR0001983,20150825,0042,"Standard not met: Refuse Properly Disposed: Facilities Maintained"
+
+PR0001983,20150825,0044,"Standard not met: Personal Item Storage And Cleaning Items Storage"
+
+PR0001983,20160311,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0001983,20150617,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0001983,20150617,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0001983,20160311,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0001983,20150825,0049,"Standard not met: Food Handler Certificates Available, Current, Complete"
+
+PR0001987,20160426,0006,"Standard not met: Adequate Handwashing Facilities Supplied & Accessible"
+
+PR0001987,20160426,0024,"Standard not met: Vermin Proofing, Air Curtains, Self Closing Doors"
+
+PR0001987,20160426,0033,"Standard not met: Food Properly Labeled & Honestly Presented, Adequate Storage"
+
+PR0001987,20160426,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0001987,20160426,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0001987,20160426,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0001988,20150729,0024,"Standard not met: Vermin Proofing, Air Curtains, Self Closing Doors"
+
+PR0001988,20160304,0034,"Standard not met: Utensils And Equipment Approved, Good Repair"
+
+PR0001988,20160304,0040,"Standard not met: Linens And Wiping Cloths: Properly Used And Stored"
+
+PR0001988,20160304,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0001988,20150729,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0001988,20160304,0052,"Standard not met: Permit Available And Current"
+
+PR0001989,20150522,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0001989,20151218,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0001989,20150522,0038,"Standard not met: Adequate Ventilation & Lighting: Designated Areas; Use"
+
+PR0001989,20150522,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0001989,20151218,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0001989,20151218,0049,"Standard not met: Food Handler Certificates Available, Current, Complete"
+
+PR0001989,20150522,0049,"Standard not met: Food Handler Certificates Available, Current, Complete"
+
+PR0001990,20150820,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0001990,20150820,0041,"Standard not met: Plumbing: Properly Installed, Good Repair, Waste Water Disposal"
+
+PR0001991,20150909,0006,"Standard not met: Adequate Handwashing Facilities Supplied & Accessible"
+
+PR0001991,20150909,0034,"Standard not met: Utensils And Equipment Approved, Good Repair"
+
+PR0001991,20160309,0037,"Standard not met: Equipment And Utensils: Storage And Use"
+
+PR0001991,20150909,0043,"Standard not met: Toilet Facilities: Properly Constructed, Supplied, Cleaned"
+
+PR0001991,20160309,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0001991,20150909,0049,"Standard not met: Food Handler Certificates Available, Current, Complete"
+
+PR0001993,20160113,0024,"Standard not met: Vermin Proofing, Air Curtains, Self Closing Doors"
+
+PR0001993,20160113,0049,"Standard not met: Food Handler Certificates Available, Current, Complete"
+
+PR0001999,20160407,0005,"Standard not met: Hands Clean & Properly Washed; Gloves Used Properly"
+
+PR0001999,20160407,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0001999,20160407,0033,"Standard not met: Food Properly Labeled & Honestly Presented, Adequate Storage"
+
+PR0001999,20160126,0033,"Standard not met: Food Properly Labeled & Honestly Presented, Adequate Storage"
+
+PR0001999,20160126,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0001999,20160407,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0001999,20160407,0041,"Standard not met: Plumbing: Properly Installed, Good Repair, Waste Water Disposal"
+
+PR0001999,20160407,0042,"Standard not met: Refuse Properly Disposed: Facilities Maintained"
+
+PR0001999,20160126,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002000,20150929,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0002000,20150929,0023,"Standard not met: No Rodents, Insects, Birds Or Animals"
+
+PR0002000,20150929,0024,"Standard not met: Vermin Proofing, Air Curtains, Self Closing Doors"
+
+PR0002000,20160304,0028,"Standard not met: Food Separated And Protected From Contamination"
+
+PR0002000,20160304,0033,"Standard not met: Food Properly Labeled & Honestly Presented, Adequate Storage"
+
+PR0002000,20150929,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002000,20160304,0038,"Standard not met: Adequate Ventilation & Lighting: Designated Areas; Use"
+
+PR0002000,20150929,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002000,20150929,0049,"Standard not met: Food Handler Certificates Available, Current, Complete"
+
+PR0002003,20160428,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0002003,20160428,0035,"Standard not met: Warewashng: Installed, Maintained, Proper Use, Test Materials"
+
+PR0002003,20160428,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002003,20151008,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002004,20160127,0006,"Standard not met: Adequate Handwashing Facilities Supplied & Accessible"
+
+PR0002004,20150717,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0002004,20150717,0023,"Standard not met: No Rodents, Insects, Birds Or Animals"
+
+PR0002004,20150717,0033,"Standard not met: Food Properly Labeled & Honestly Presented, Adequate Storage"
+
+PR0002004,20150717,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002004,20160127,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002004,20160127,0040,"Standard not met: Linens And Wiping Cloths: Properly Used And Stored"
+
+PR0002004,20150717,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002009,20150611,0006,"Standard not met: Adequate Handwashing Facilities Supplied & Accessible"
+
+PR0002011,20160504,0014,"Standard not met: Food Contact Surfaces; Clean And Sanitized"
+
+PR0002013,20150721,0006,"Standard not met: Adequate Handwashing Facilities Supplied & Accessible"
+
+PR0002017,20160504,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002017,20151015,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002018,20160428,0024,"Standard not met: Vermin Proofing, Air Curtains, Self Closing Doors"
+
+PR0002018,20151013,0024,"Standard not met: Vermin Proofing, Air Curtains, Self Closing Doors"
+
+PR0002018,20151013,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002020,20160210,0001,"Standard not met: Food Safety Certification"
+
+PR0002020,20160210,0006,"Standard not met: Adequate Handwashing Facilities Supplied & Accessible"
+
+PR0002020,20151022,0006,"Standard not met: Adequate Handwashing Facilities Supplied & Accessible"
+
+PR0002020,20160210,0033,"Standard not met: Food Properly Labeled & Honestly Presented, Adequate Storage"
+
+PR0002020,20151022,0049,"Standard not met: Food Handler Certificates Available, Current, Complete"
+
+PR0002025,20151103,0006,"Standard not met: Adequate Handwashing Facilities Supplied & Accessible"
+
+PR0002025,20151103,0023,"Standard not met: No Rodents, Insects, Birds Or Animals"
+
+PR0002025,20151103,0024,"Standard not met: Vermin Proofing, Air Curtains, Self Closing Doors"
+
+PR0002025,20151103,0028,"Standard not met: Food Separated And Protected From Contamination"
+
+PR0002025,20151103,0044,"Standard not met: Personal Item Storage And Cleaning Items Storage"
+
+PR0002025,20151103,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002025,20151103,0049,"Standard not met: Food Handler Certificates Available, Current, Complete"
+
+PR0002026,20160114,0034,"Standard not met: Utensils And Equipment Approved, Good Repair"
+
+PR0002028,20150720,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0002028,20160204,0024,"Standard not met: Vermin Proofing, Air Curtains, Self Closing Doors"
+
+PR0002028,20160204,0030,"Standard not met: Toxic Substances Properly Identified, Stored, Used"
+
+PR0002028,20160204,0034,"Standard not met: Utensils And Equipment Approved, Good Repair"
+
+PR0002028,20150720,0034,"Standard not met: Utensils And Equipment Approved, Good Repair"
+
+PR0002028,20150720,0044,"Standard not met: Personal Item Storage And Cleaning Items Storage"
+
+PR0002028,20160204,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002028,20150720,0049,"Standard not met: Food Handler Certificates Available, Current, Complete"
+
+PR0002030,20160309,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0002030,20150930,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0002030,20150930,0014,"Standard not met: Food Contact Surfaces; Clean And Sanitized"
+
+PR0002030,20160309,0014,"Standard not met: Food Contact Surfaces; Clean And Sanitized"
+
+PR0002030,20160309,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002030,20150930,0043,"Standard not met: Toilet Facilities: Properly Constructed, Supplied, Cleaned"
+
+PR0002030,20150930,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002030,20160309,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002030,20160309,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002030,20150930,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002031,20150728,0024,"Standard not met: Vermin Proofing, Air Curtains, Self Closing Doors"
+
+PR0002031,20150728,0028,"Standard not met: Food Separated And Protected From Contamination"
+
+PR0002031,20150728,0040,"Standard not met: Linens And Wiping Cloths: Properly Used And Stored"
+
+PR0002031,20150728,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002031,20160203,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002031,20160203,0049,"Standard not met: Food Handler Certificates Available, Current, Complete"
+
+PR0002032,20160303,0006,"Standard not met: Adequate Handwashing Facilities Supplied & Accessible"
+
+PR0002032,20160303,0023,"Standard not met: No Rodents, Insects, Birds Or Animals"
+
+PR0002032,20160303,0027,"Standard not met: Approved Thawing Methods Used, Frozen Food Storage"
+
+PR0002032,20160303,0035,"Standard not met: Warewashng: Installed, Maintained, Proper Use, Test Materials"
+
+PR0002032,20150924,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002032,20150924,0042,"Standard not met: Refuse Properly Disposed: Facilities Maintained"
+
+PR0002032,20160303,0042,"Standard not met: Refuse Properly Disposed: Facilities Maintained"
+
+PR0002032,20160303,0044,"Standard not met: Personal Item Storage And Cleaning Items Storage"
+
+PR0002032,20160303,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002032,20150924,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002032,20150924,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002032,20150924,0049,"Standard not met: Food Handler Certificates Available, Current, Complete"
+
+PR0002032,20150924,0052,"Standard not met: Permit Available And Current"
+
+PR0002036,20160204,0021,"Standard not met: Hot And Cold Water Available"
+
+PR0002036,20160204,0024,"Standard not met: Vermin Proofing, Air Curtains, Self Closing Doors"
+
+PR0002036,20150708,0024,"Standard not met: Vermin Proofing, Air Curtains, Self Closing Doors"
+
+PR0002036,20150617,0024,"Standard not met: Vermin Proofing, Air Curtains, Self Closing Doors"
+
+PR0002036,20150617,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002036,20150708,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002036,20160204,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002036,20160204,0038,"Standard not met: Adequate Ventilation & Lighting: Designated Areas; Use"
+
+PR0002036,20150708,0038,"Standard not met: Adequate Ventilation & Lighting: Designated Areas; Use"
+
+PR0002036,20150617,0038,"Standard not met: Adequate Ventilation & Lighting: Designated Areas; Use"
+
+PR0002036,20150617,0041,"Standard not met: Plumbing: Properly Installed, Good Repair, Waste Water Disposal"
+
+PR0002036,20150708,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002036,20160204,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002036,20150708,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002036,20150617,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002037,20150709,0006,"Standard not met: Adequate Handwashing Facilities Supplied & Accessible"
+
+PR0002037,20160309,0006,"Standard not met: Adequate Handwashing Facilities Supplied & Accessible"
+
+PR0002037,20150709,0030,"Standard not met: Toxic Substances Properly Identified, Stored, Used"
+
+PR0002037,20150709,0033,"Standard not met: Food Properly Labeled & Honestly Presented, Adequate Storage"
+
+PR0002037,20150709,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002037,20160309,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002037,20160309,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002037,20150709,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002037,20150709,0052,"Standard not met: Permit Available And Current"
+
+PR0002038,20151007,0006,"Standard not met: Adequate Handwashing Facilities Supplied & Accessible"
+
+PR0002038,20151007,0028,"Standard not met: Food Separated And Protected From Contamination"
+
+PR0002038,20151007,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002038,20151007,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002039,20150601,0001,"Standard not met: Food Safety Certification"
+
+PR0002039,20160329,0024,"Standard not met: Vermin Proofing, Air Curtains, Self Closing Doors"
+
+PR0002039,20150715,0025,"Standard not met: Person In Charge Present And Perform Duties; Demonstration of Knowledge"
+
+PR0002039,20150715,0028,"Standard not met: Food Separated And Protected From Contamination"
+
+PR0002039,20150601,0028,"Standard not met: Food Separated And Protected From Contamination"
+
+PR0002039,20160329,0030,"Standard not met: Toxic Substances Properly Identified, Stored, Used"
+
+PR0002039,20160329,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002039,20150601,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002039,20150715,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002039,20160329,0040,"Standard not met: Linens And Wiping Cloths: Properly Used And Stored"
+
+PR0002039,20160329,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002040,20150730,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0002040,20150730,0009,"Standard not met: Proper Cooling Methods"
+
+PR0002040,20150730,0028,"Standard not met: Food Separated And Protected From Contamination"
+
+PR0002040,20160203,0028,"Standard not met: Food Separated And Protected From Contamination"
+
+PR0002040,20160203,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002040,20150730,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002040,20150730,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002040,20160203,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002043,20150728,0001,"Standard not met: Food Safety Certification"
+
+PR0002043,20150728,0024,"Standard not met: Vermin Proofing, Air Curtains, Self Closing Doors"
+
+PR0002043,20150728,0028,"Standard not met: Food Separated And Protected From Contamination"
+
+PR0002043,20160309,0028,"Standard not met: Food Separated And Protected From Contamination"
+
+PR0002043,20150728,0030,"Standard not met: Toxic Substances Properly Identified, Stored, Used"
+
+PR0002043,20160309,0034,"Standard not met: Utensils And Equipment Approved, Good Repair"
+
+PR0002043,20160309,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002043,20150728,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002043,20150728,0042,"Standard not met: Refuse Properly Disposed: Facilities Maintained"
+
+PR0002043,20160309,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002043,20150728,0049,"Standard not met: Food Handler Certificates Available, Current, Complete"
+
+PR0002046,20150605,0006,"Standard not met: Adequate Handwashing Facilities Supplied & Accessible"
+
+PR0002046,20150605,0024,"Standard not met: Vermin Proofing, Air Curtains, Self Closing Doors"
+
+PR0002046,20150605,0033,"Standard not met: Food Properly Labeled & Honestly Presented, Adequate Storage"
+
+PR0002046,20150605,0041,"Standard not met: Plumbing: Properly Installed, Good Repair, Waste Water Disposal"
+
+PR0002046,20150605,0043,"Standard not met: Toilet Facilities: Properly Constructed, Supplied, Cleaned"
+
+PR0002046,20150605,0048,"Standard not met: Last Inspection Report Available"
+
+PR0002047,20160126,0001,"Standard not met: Food Safety Certification"
+
+PR0002047,20160126,0006,"Standard not met: Adequate Handwashing Facilities Supplied & Accessible"
+
+PR0002047,20150624,0006,"Standard not met: Adequate Handwashing Facilities Supplied & Accessible"
+
+PR0002047,20150624,0028,"Standard not met: Food Separated And Protected From Contamination"
+
+PR0002047,20150624,0034,"Standard not met: Utensils And Equipment Approved, Good Repair"
+
+PR0002047,20160126,0035,"Standard not met: Warewashng: Installed, Maintained, Proper Use, Test Materials"
+
+PR0002047,20160126,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002047,20160126,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002049,20160504,0044,"Standard not met: Personal Item Storage And Cleaning Items Storage"
+
+PR0002049,20160504,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002049,20151215,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002049,20151215,0049,"Standard not met: Food Handler Certificates Available, Current, Complete"
+
+PR0002053,20150624,0009,"Standard not met: Proper Cooling Methods"
+
+PR0002053,20150930,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002053,20160308,0037,"Standard not met: Equipment And Utensils: Storage And Use"
+
+PR0002053,20160308,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002055,20151203,0025,"Standard not met: Person In Charge Present And Perform Duties; Demonstration of Knowledge"
+
+PR0002055,20151203,0033,"Standard not met: Food Properly Labeled & Honestly Presented, Adequate Storage"
+
+PR0002055,20160331,0033,"Standard not met: Food Properly Labeled & Honestly Presented, Adequate Storage"
+
+PR0002055,20160331,0034,"Standard not met: Utensils And Equipment Approved, Good Repair"
+
+PR0002055,20151203,0034,"Standard not met: Utensils And Equipment Approved, Good Repair"
+
+PR0002055,20160331,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002055,20160331,0052,"Standard not met: Permit Available And Current"
+
+PR0002059,20151104,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0002059,20150619,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0002059,20150619,0024,"Standard not met: Vermin Proofing, Air Curtains, Self Closing Doors"
+
+PR0002059,20150619,0034,"Standard not met: Utensils And Equipment Approved, Good Repair"
+
+PR0002059,20151104,0034,"Standard not met: Utensils And Equipment Approved, Good Repair"
+
+PR0002059,20151104,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002059,20150619,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002061,20150910,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0002061,20160218,0014,"Standard not met: Food Contact Surfaces; Clean And Sanitized"
+
+PR0002061,20150910,0024,"Standard not met: Vermin Proofing, Air Curtains, Self Closing Doors"
+
+PR0002061,20160218,0038,"Standard not met: Adequate Ventilation & Lighting: Designated Areas; Use"
+
+PR0002061,20160218,0044,"Standard not met: Personal Item Storage And Cleaning Items Storage"
+
+PR0002061,20150910,0044,"Standard not met: Personal Item Storage And Cleaning Items Storage"
+
+PR0002061,20160218,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002061,20160218,0049,"Standard not met: Food Handler Certificates Available, Current, Complete"
+
+PR0002065,20160114,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0002065,20160114,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002065,20160114,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002065,20160114,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002065,20160114,0049,"Standard not met: Food Handler Certificates Available, Current, Complete"
+
+PR0002065,20160114,0052,"Standard not met: Permit Available And Current"
+
+PR0002068,20160517,0034,"Standard not met: Utensils And Equipment Approved, Good Repair"
+
+PR0002069,20160112,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002072,20150908,0021,"Standard not met: Hot And Cold Water Available"
+
+PR0002072,20160210,0021,"Standard not met: Hot And Cold Water Available"
+
+PR0002072,20160210,0024,"Standard not met: Vermin Proofing, Air Curtains, Self Closing Doors"
+
+PR0002072,20150908,0028,"Standard not met: Food Separated And Protected From Contamination"
+
+PR0002072,20150908,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002072,20160210,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002072,20160210,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002072,20150908,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002072,20150908,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002072,20160210,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002072,20160210,0049,"Standard not met: Food Handler Certificates Available, Current, Complete"
+
+PR0002072,20150908,0049,"Standard not met: Food Handler Certificates Available, Current, Complete"
+
+PR0002073,20150729,0001,"Standard not met: Food Safety Certification"
+
+PR0002073,20160202,0009,"Standard not met: Proper Cooling Methods"
+
+PR0002073,20160202,0014,"Standard not met: Food Contact Surfaces; Clean And Sanitized"
+
+PR0002073,20150729,0014,"Standard not met: Food Contact Surfaces; Clean And Sanitized"
+
+PR0002073,20160202,0028,"Standard not met: Food Separated And Protected From Contamination"
+
+PR0002073,20150729,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002073,20150729,0044,"Standard not met: Personal Item Storage And Cleaning Items Storage"
+
+PR0002073,20150729,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002073,20160202,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002073,20150729,0052,"Standard not met: Permit Available And Current"
+
+PR0002074,20151002,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0002074,20160316,0027,"Standard not met: Approved Thawing Methods Used, Frozen Food Storage"
+
+PR0002074,20160316,0028,"Standard not met: Food Separated And Protected From Contamination"
+
+PR0002074,20151002,0028,"Standard not met: Food Separated And Protected From Contamination"
+
+PR0002074,20160316,0033,"Standard not met: Food Properly Labeled & Honestly Presented, Adequate Storage"
+
+PR0002074,20160316,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002074,20151002,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002074,20151002,0040,"Standard not met: Linens And Wiping Cloths: Properly Used And Stored"
+
+PR0002074,20151002,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002074,20151002,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002074,20160316,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002074,20160316,0049,"Standard not met: Food Handler Certificates Available, Current, Complete"
+
+PR0002074,20151002,0049,"Standard not met: Food Handler Certificates Available, Current, Complete"
+
+PR0002075,20160407,0006,"Standard not met: Adequate Handwashing Facilities Supplied & Accessible"
+
+PR0002075,20150722,0006,"Standard not met: Adequate Handwashing Facilities Supplied & Accessible"
+
+PR0002075,20151028,0006,"Standard not met: Adequate Handwashing Facilities Supplied & Accessible"
+
+PR0002075,20150722,0013,"Standard not met: Food: Unadulterated, No Spoilage, No Contamination"
+
+PR0002075,20150722,0023,"Standard not met: No Rodents, Insects, Birds Or Animals"
+
+PR0002075,20160407,0023,"Standard not met: No Rodents, Insects, Birds Or Animals"
+
+PR0002075,20160407,0024,"Standard not met: Vermin Proofing, Air Curtains, Self Closing Doors"
+
+PR0002075,20151028,0024,"Standard not met: Vermin Proofing, Air Curtains, Self Closing Doors"
+
+PR0002075,20160407,0028,"Standard not met: Food Separated And Protected From Contamination"
+
+PR0002075,20151028,0033,"Standard not met: Food Properly Labeled & Honestly Presented, Adequate Storage"
+
+PR0002075,20151028,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002075,20150722,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002075,20160407,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002075,20151028,0041,"Standard not met: Plumbing: Properly Installed, Good Repair, Waste Water Disposal"
+
+PR0002075,20151028,0042,"Standard not met: Refuse Properly Disposed: Facilities Maintained"
+
+PR0002075,20150722,0042,"Standard not met: Refuse Properly Disposed: Facilities Maintained"
+
+PR0002075,20160414,0043,"Standard not met: Toilet Facilities: Properly Constructed, Supplied, Cleaned"
+
+PR0002075,20160414,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002075,20160407,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002075,20160407,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002075,20150722,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002075,20151028,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002079,20150722,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0002079,20160120,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0002079,20160120,0024,"Standard not met: Vermin Proofing, Air Curtains, Self Closing Doors"
+
+PR0002079,20150722,0028,"Standard not met: Food Separated And Protected From Contamination"
+
+PR0002079,20160120,0033,"Standard not met: Food Properly Labeled & Honestly Presented, Adequate Storage"
+
+PR0002079,20150722,0034,"Standard not met: Utensils And Equipment Approved, Good Repair"
+
+PR0002079,20160120,0044,"Standard not met: Personal Item Storage And Cleaning Items Storage"
+
+PR0002079,20160120,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002079,20150722,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002079,20150722,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002081,20151103,0006,"Standard not met: Adequate Handwashing Facilities Supplied & Accessible"
+
+PR0002084,20160518,0033,"Standard not met: Food Properly Labeled & Honestly Presented, Adequate Storage"
+
+PR0002086,20160229,0024,"Standard not met: Vermin Proofing, Air Curtains, Self Closing Doors"
+
+PR0002086,20160229,0033,"Standard not met: Food Properly Labeled & Honestly Presented, Adequate Storage"
+
+PR0002086,20160229,0035,"Standard not met: Warewashng: Installed, Maintained, Proper Use, Test Materials"
+
+PR0002086,20160229,0049,"Standard not met: Food Handler Certificates Available, Current, Complete"
+
+PR0002087,20150805,0006,"Standard not met: Adequate Handwashing Facilities Supplied & Accessible"
+
+PR0002087,20150805,0034,"Standard not met: Utensils And Equipment Approved, Good Repair"
+
+PR0002087,20150805,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002089,20160503,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0002089,20160503,0009,"Standard not met: Proper Cooling Methods"
+
+PR0002089,20151208,0014,"Standard not met: Food Contact Surfaces; Clean And Sanitized"
+
+PR0002089,20160503,0024,"Standard not met: Vermin Proofing, Air Curtains, Self Closing Doors"
+
+PR0002089,20160503,0028,"Standard not met: Food Separated And Protected From Contamination"
+
+PR0002089,20151208,0028,"Standard not met: Food Separated And Protected From Contamination"
+
+PR0002089,20150713,0028,"Standard not met: Food Separated And Protected From Contamination"
+
+PR0002089,20150713,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002089,20151208,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002089,20160503,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002089,20160503,0042,"Standard not met: Refuse Properly Disposed: Facilities Maintained"
+
+PR0002089,20150713,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002089,20150713,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002089,20150713,0049,"Standard not met: Food Handler Certificates Available, Current, Complete"
+
+PR0002089,20160503,0052,"Standard not met: Permit Available And Current"
+
+PR0002090,20151215,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0002090,20151215,0014,"Standard not met: Food Contact Surfaces; Clean And Sanitized"
+
+PR0002090,20151215,0049,"Standard not met: Food Handler Certificates Available, Current, Complete"
+
+PR0002092,20151028,0023,"Standard not met: No Rodents, Insects, Birds Or Animals"
+
+PR0002092,20151028,0034,"Standard not met: Utensils And Equipment Approved, Good Repair"
+
+PR0002092,20160419,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002092,20151028,0049,"Standard not met: Food Handler Certificates Available, Current, Complete"
+
+PR0002093,20150827,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002094,20150728,0006,"Standard not met: Adequate Handwashing Facilities Supplied & Accessible"
+
+PR0002094,20160309,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0002094,20160517,0023,"Standard not met: No Rodents, Insects, Birds Or Animals"
+
+PR0002094,20160517,0024,"Standard not met: Vermin Proofing, Air Curtains, Self Closing Doors"
+
+PR0002094,20160309,0024,"Standard not met: Vermin Proofing, Air Curtains, Self Closing Doors"
+
+PR0002094,20150728,0025,"Standard not met: Person In Charge Present And Perform Duties; Demonstration of Knowledge"
+
+PR0002094,20150728,0034,"Standard not met: Utensils And Equipment Approved, Good Repair"
+
+PR0002094,20160309,0034,"Standard not met: Utensils And Equipment Approved, Good Repair"
+
+PR0002094,20160309,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002094,20160517,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002094,20150728,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002094,20160517,0040,"Standard not met: Linens And Wiping Cloths: Properly Used And Stored"
+
+PR0002094,20160309,0044,"Standard not met: Personal Item Storage And Cleaning Items Storage"
+
+PR0002094,20150728,0049,"Standard not met: Food Handler Certificates Available, Current, Complete"
+
+PR0002095,20151230,0006,"Standard not met: Adequate Handwashing Facilities Supplied & Accessible"
+
+PR0002095,20151230,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002095,20151230,0041,"Standard not met: Plumbing: Properly Installed, Good Repair, Waste Water Disposal"
+
+PR0002095,20151230,0049,"Standard not met: Food Handler Certificates Available, Current, Complete"
+
+PR0002097,20160226,0006,"Standard not met: Adequate Handwashing Facilities Supplied & Accessible"
+
+PR0002097,20150804,0006,"Standard not met: Adequate Handwashing Facilities Supplied & Accessible"
+
+PR0002097,20150804,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0002097,20160226,0024,"Standard not met: Vermin Proofing, Air Curtains, Self Closing Doors"
+
+PR0002097,20150804,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002097,20150804,0049,"Standard not met: Food Handler Certificates Available, Current, Complete"
+
+PR0002098,20160331,0030,"Standard not met: Toxic Substances Properly Identified, Stored, Used"
+
+PR0002098,20160331,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002098,20150713,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002098,20160331,0037,"Standard not met: Equipment And Utensils: Storage And Use"
+
+PR0002098,20150713,0044,"Standard not met: Personal Item Storage And Cleaning Items Storage"
+
+PR0002098,20150713,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002098,20160331,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002101,20150728,0006,"Standard not met: Adequate Handwashing Facilities Supplied & Accessible"
+
+PR0002101,20150728,0008,"Standard not met: Time As A Public Health Control; Procedures. & Records"
+
+PR0002101,20150728,0014,"Standard not met: Food Contact Surfaces; Clean And Sanitized"
+
+PR0002103,20150610,0024,"Standard not met: Vermin Proofing, Air Curtains, Self Closing Doors"
+
+PR0002103,20160108,0024,"Standard not met: Vermin Proofing, Air Curtains, Self Closing Doors"
+
+PR0002103,20150610,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002103,20160108,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002103,20150610,0049,"Standard not met: Food Handler Certificates Available, Current, Complete"
+
+PR0002112,20150923,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0002112,20150923,0011,"Standard not met: Proper Reheating Procedures For Hot Holding"
+
+PR0002112,20160225,0028,"Standard not met: Food Separated And Protected From Contamination"
+
+PR0002112,20150610,0028,"Standard not met: Food Separated And Protected From Contamination"
+
+PR0002112,20150610,0041,"Standard not met: Plumbing: Properly Installed, Good Repair, Waste Water Disposal"
+
+PR0002112,20150923,0041,"Standard not met: Plumbing: Properly Installed, Good Repair, Waste Water Disposal"
+
+PR0002112,20160225,0043,"Standard not met: Toilet Facilities: Properly Constructed, Supplied, Cleaned"
+
+PR0002112,20160225,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002112,20160225,0049,"Standard not met: Food Handler Certificates Available, Current, Complete"
+
+PR0002112,20150923,0049,"Standard not met: Food Handler Certificates Available, Current, Complete"
+
+PR0002112,20150610,0049,"Standard not met: Food Handler Certificates Available, Current, Complete"
+
+PR0002115,20151105,0024,"Standard not met: Vermin Proofing, Air Curtains, Self Closing Doors"
+
+PR0002116,20160502,0006,"Standard not met: Adequate Handwashing Facilities Supplied & Accessible"
+
+PR0002116,20160113,0014,"Standard not met: Food Contact Surfaces; Clean And Sanitized"
+
+PR0002116,20160113,0028,"Standard not met: Food Separated And Protected From Contamination"
+
+PR0002116,20160113,0037,"Standard not met: Equipment And Utensils: Storage And Use"
+
+PR0002116,20160502,0040,"Standard not met: Linens And Wiping Cloths: Properly Used And Stored"
+
+PR0002118,20150623,0006,"Standard not met: Adequate Handwashing Facilities Supplied & Accessible"
+
+PR0002118,20151119,0024,"Standard not met: Vermin Proofing, Air Curtains, Self Closing Doors"
+
+PR0002118,20150623,0028,"Standard not met: Food Separated And Protected From Contamination"
+
+PR0002118,20151119,0037,"Standard not met: Equipment And Utensils: Storage And Use"
+
+PR0002118,20151119,0049,"Standard not met: Food Handler Certificates Available, Current, Complete"
+
+PR0002118,20150623,0049,"Standard not met: Food Handler Certificates Available, Current, Complete"
+
+PR0002119,20150522,0024,"Standard not met: Vermin Proofing, Air Curtains, Self Closing Doors"
+
+PR0002119,20160316,0024,"Standard not met: Vermin Proofing, Air Curtains, Self Closing Doors"
+
+PR0002119,20150522,0034,"Standard not met: Utensils And Equipment Approved, Good Repair"
+
+PR0002119,20160316,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002120,20150826,0028,"Standard not met: Food Separated And Protected From Contamination"
+
+PR0002120,20150826,0033,"Standard not met: Food Properly Labeled & Honestly Presented, Adequate Storage"
+
+PR0002120,20150826,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002120,20150826,0038,"Standard not met: Adequate Ventilation & Lighting: Designated Areas; Use"
+
+PR0002120,20150826,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002122,20160120,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002122,20160120,0049,"Standard not met: Food Handler Certificates Available, Current, Complete"
+
+PR0002124,20150728,0021,"Standard not met: Hot And Cold Water Available"
+
+PR0002124,20160226,0024,"Standard not met: Vermin Proofing, Air Curtains, Self Closing Doors"
+
+PR0002124,20160226,0034,"Standard not met: Utensils And Equipment Approved, Good Repair"
+
+PR0002124,20160226,0040,"Standard not met: Linens And Wiping Cloths: Properly Used And Stored"
+
+PR0002124,20150728,0040,"Standard not met: Linens And Wiping Cloths: Properly Used And Stored"
+
+PR0002127,20150629,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0002127,20160316,0024,"Standard not met: Vermin Proofing, Air Curtains, Self Closing Doors"
+
+PR0002127,20151119,0024,"Standard not met: Vermin Proofing, Air Curtains, Self Closing Doors"
+
+PR0002127,20150629,0025,"Standard not met: Person In Charge Present And Perform Duties; Demonstration of Knowledge"
+
+PR0002127,20151119,0028,"Standard not met: Food Separated And Protected From Contamination"
+
+PR0002127,20151119,0034,"Standard not met: Utensils And Equipment Approved, Good Repair"
+
+PR0002127,20150629,0034,"Standard not met: Utensils And Equipment Approved, Good Repair"
+
+PR0002127,20160316,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002127,20151119,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002127,20151119,0044,"Standard not met: Personal Item Storage And Cleaning Items Storage"
+
+PR0002127,20151119,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002127,20160316,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002127,20160316,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002127,20150629,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002127,20150629,0049,"Standard not met: Food Handler Certificates Available, Current, Complete"
+
+PR0002128,20150915,0006,"Standard not met: Adequate Handwashing Facilities Supplied & Accessible"
+
+PR0002128,20160203,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0002128,20160203,0024,"Standard not met: Vermin Proofing, Air Curtains, Self Closing Doors"
+
+PR0002128,20150915,0031,"Standard not met: Self Service: Utensils, Food Types, Maintained"
+
+PR0002128,20150915,0034,"Standard not met: Utensils And Equipment Approved, Good Repair"
+
+PR0002128,20160203,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002133,20160328,0028,"Standard not met: Food Separated And Protected From Contamination"
+
+PR0002133,20150528,0033,"Standard not met: Food Properly Labeled & Honestly Presented, Adequate Storage"
+
+PR0002133,20160328,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002134,20151102,0034,"Standard not met: Utensils And Equipment Approved, Good Repair"
+
+PR0002134,20150526,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002134,20150526,0049,"Standard not met: Food Handler Certificates Available, Current, Complete"
+
+PR0002134,20151102,0049,"Standard not met: Food Handler Certificates Available, Current, Complete"
+
+PR0002138,20160112,0034,"Standard not met: Utensils And Equipment Approved, Good Repair"
+
+PR0002138,20160112,0050,"Standard not met: Grade Card And Signs Posted, Visible"
+
+PR0002139,20151007,0001,"Standard not met: Food Safety Certification"
+
+PR0002139,20160304,0005,"Standard not met: Hands Clean & Properly Washed; Gloves Used Properly"
+
+PR0002139,20151007,0025,"Standard not met: Person In Charge Present And Perform Duties; Demonstration of Knowledge"
+
+PR0002139,20151007,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002139,20151007,0038,"Standard not met: Adequate Ventilation & Lighting: Designated Areas; Use"
+
+PR0002139,20151007,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002144,20151104,0006,"Standard not met: Adequate Handwashing Facilities Supplied & Accessible"
+
+PR0002144,20151104,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0002144,20160309,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0002144,20150629,0024,"Standard not met: Vermin Proofing, Air Curtains, Self Closing Doors"
+
+PR0002144,20150629,0028,"Standard not met: Food Separated And Protected From Contamination"
+
+PR0002144,20151104,0028,"Standard not met: Food Separated And Protected From Contamination"
+
+PR0002144,20160309,0028,"Standard not met: Food Separated And Protected From Contamination"
+
+PR0002144,20160309,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002144,20151104,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002144,20150629,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002144,20151104,0040,"Standard not met: Linens And Wiping Cloths: Properly Used And Stored"
+
+PR0002144,20160309,0041,"Standard not met: Plumbing: Properly Installed, Good Repair, Waste Water Disposal"
+
+PR0002144,20151104,0044,"Standard not met: Personal Item Storage And Cleaning Items Storage"
+
+PR0002144,20160309,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002144,20150629,0052,"Standard not met: Permit Available And Current"
+
+PR0002147,20151022,0001,"Standard not met: Food Safety Certification"
+
+PR0002147,20151022,0006,"Standard not met: Adequate Handwashing Facilities Supplied & Accessible"
+
+PR0002147,20160426,0006,"Standard not met: Adequate Handwashing Facilities Supplied & Accessible"
+
+PR0002147,20160426,0024,"Standard not met: Vermin Proofing, Air Curtains, Self Closing Doors"
+
+PR0002147,20151022,0024,"Standard not met: Vermin Proofing, Air Curtains, Self Closing Doors"
+
+PR0002147,20150622,0030,"Standard not met: Toxic Substances Properly Identified, Stored, Used"
+
+PR0002147,20151022,0033,"Standard not met: Food Properly Labeled & Honestly Presented, Adequate Storage"
+
+PR0002147,20160426,0034,"Standard not met: Utensils And Equipment Approved, Good Repair"
+
+PR0002147,20160426,0043,"Standard not met: Toilet Facilities: Properly Constructed, Supplied, Cleaned"
+
+PR0002147,20150622,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002147,20151022,0048,"Standard not met: Last Inspection Report Available"
+
+PR0002147,20160426,0049,"Standard not met: Food Handler Certificates Available, Current, Complete"
+
+PR0002148,20160219,0023,"Standard not met: No Rodents, Insects, Birds Or Animals"
+
+PR0002148,20160219,0024,"Standard not met: Vermin Proofing, Air Curtains, Self Closing Doors"
+
+PR0002148,20151103,0024,"Standard not met: Vermin Proofing, Air Curtains, Self Closing Doors"
+
+PR0002148,20151103,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002148,20160219,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002148,20160219,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002148,20151103,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002148,20160219,0049,"Standard not met: Food Handler Certificates Available, Current, Complete"
+
+PR0002151,20151210,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002152,20160311,0006,"Standard not met: Adequate Handwashing Facilities Supplied & Accessible"
+
+PR0002152,20151204,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0002152,20150622,0026,"Standard not met: Personal Cleanliness And Hair Restraints"
+
+PR0002152,20160311,0033,"Standard not met: Food Properly Labeled & Honestly Presented, Adequate Storage"
+
+PR0002152,20160311,0034,"Standard not met: Utensils And Equipment Approved, Good Repair"
+
+PR0002152,20151204,0034,"Standard not met: Utensils And Equipment Approved, Good Repair"
+
+PR0002152,20150622,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002152,20150622,0040,"Standard not met: Linens And Wiping Cloths: Properly Used And Stored"
+
+PR0002152,20150622,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002152,20151204,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002153,20151204,0033,"Standard not met: Food Properly Labeled & Honestly Presented, Adequate Storage"
+
+PR0002153,20160427,0033,"Standard not met: Food Properly Labeled & Honestly Presented, Adequate Storage"
+
+PR0002153,20151204,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002154,20150930,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0002154,20160509,0014,"Standard not met: Food Contact Surfaces; Clean And Sanitized"
+
+PR0002154,20160509,0024,"Standard not met: Vermin Proofing, Air Curtains, Self Closing Doors"
+
+PR0002154,20160304,0024,"Standard not met: Vermin Proofing, Air Curtains, Self Closing Doors"
+
+PR0002154,20160304,0028,"Standard not met: Food Separated And Protected From Contamination"
+
+PR0002154,20160509,0033,"Standard not met: Food Properly Labeled & Honestly Presented, Adequate Storage"
+
+PR0002154,20160509,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002154,20160304,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002154,20150930,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002154,20160509,0037,"Standard not met: Equipment And Utensils: Storage And Use"
+
+PR0002154,20150930,0039,"Standard not met: Thermometers Provided And Accurate"
+
+PR0002154,20160304,0042,"Standard not met: Refuse Properly Disposed: Facilities Maintained"
+
+PR0002154,20160304,0044,"Standard not met: Personal Item Storage And Cleaning Items Storage"
+
+PR0002154,20160509,0044,"Standard not met: Personal Item Storage And Cleaning Items Storage"
+
+PR0002154,20160509,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002154,20160304,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002154,20150930,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002154,20150930,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002154,20160304,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002154,20160509,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002155,20160209,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0002155,20160209,0024,"Standard not met: Vermin Proofing, Air Curtains, Self Closing Doors"
+
+PR0002155,20150804,0024,"Standard not met: Vermin Proofing, Air Curtains, Self Closing Doors"
+
+PR0002155,20150804,0028,"Standard not met: Food Separated And Protected From Contamination"
+
+PR0002155,20150804,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002155,20160209,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002155,20160209,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002160,20150818,0006,"Standard not met: Adequate Handwashing Facilities Supplied & Accessible"
+
+PR0002160,20150818,0023,"Standard not met: No Rodents, Insects, Birds Or Animals"
+
+PR0002160,20150818,0024,"Standard not met: Vermin Proofing, Air Curtains, Self Closing Doors"
+
+PR0002160,20150818,0041,"Standard not met: Plumbing: Properly Installed, Good Repair, Waste Water Disposal"
+
+PR0002160,20150818,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002161,20151208,0021,"Standard not met: Hot And Cold Water Available"
+
+PR0002161,20151208,0040,"Standard not met: Linens And Wiping Cloths: Properly Used And Stored"
+
+PR0002162,20150713,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0002162,20160111,0033,"Standard not met: Food Properly Labeled & Honestly Presented, Adequate Storage"
+
+PR0002162,20160111,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002162,20150713,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002162,20160111,0037,"Standard not met: Equipment And Utensils: Storage And Use"
+
+PR0002162,20160111,0041,"Standard not met: Plumbing: Properly Installed, Good Repair, Waste Water Disposal"
+
+PR0002162,20160111,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002162,20160111,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002162,20150713,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002162,20160111,0049,"Standard not met: Food Handler Certificates Available, Current, Complete"
+
+PR0002163,20160418,0005,"Standard not met: Hands Clean & Properly Washed; Gloves Used Properly"
+
+PR0002163,20160418,0006,"Standard not met: Adequate Handwashing Facilities Supplied & Accessible"
+
+PR0002163,20160418,0030,"Standard not met: Toxic Substances Properly Identified, Stored, Used"
+
+PR0002163,20150721,0033,"Standard not met: Food Properly Labeled & Honestly Presented, Adequate Storage"
+
+PR0002163,20150721,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002163,20150721,0037,"Standard not met: Equipment And Utensils: Storage And Use"
+
+PR0002163,20150721,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002163,20160418,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002164,20160122,0030,"Standard not met: Toxic Substances Properly Identified, Stored, Used"
+
+PR0002164,20150812,0033,"Standard not met: Food Properly Labeled & Honestly Presented, Adequate Storage"
+
+PR0002164,20150812,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002164,20160122,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002164,20160122,0043,"Standard not met: Toilet Facilities: Properly Constructed, Supplied, Cleaned"
+
+PR0002164,20150812,0043,"Standard not met: Toilet Facilities: Properly Constructed, Supplied, Cleaned"
+
+PR0002164,20150812,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002164,20160122,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002169,20150824,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0002169,20150824,0038,"Standard not met: Adequate Ventilation & Lighting: Designated Areas; Use"
+
+PR0002169,20150824,0040,"Standard not met: Linens And Wiping Cloths: Properly Used And Stored"
+
+PR0002169,20150824,0042,"Standard not met: Refuse Properly Disposed: Facilities Maintained"
+
+PR0002169,20150824,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002170,20151030,0024,"Standard not met: Vermin Proofing, Air Curtains, Self Closing Doors"
+
+PR0002170,20151030,0042,"Standard not met: Refuse Properly Disposed: Facilities Maintained"
+
+PR0002170,20151030,0044,"Standard not met: Personal Item Storage And Cleaning Items Storage"
+
+PR0002170,20151030,0049,"Standard not met: Food Handler Certificates Available, Current, Complete"
+
+PR0002173,20160302,0006,"Standard not met: Adequate Handwashing Facilities Supplied & Accessible"
+
+PR0002173,20150914,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0002173,20150914,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002174,20151217,0030,"Standard not met: Toxic Substances Properly Identified, Stored, Used"
+
+PR0002174,20151217,0034,"Standard not met: Utensils And Equipment Approved, Good Repair"
+
+PR0002174,20150825,0034,"Standard not met: Utensils And Equipment Approved, Good Repair"
+
+PR0002174,20150825,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002174,20151217,0040,"Standard not met: Linens And Wiping Cloths: Properly Used And Stored"
+
+PR0002174,20151217,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002177,20150916,0024,"Standard not met: Vermin Proofing, Air Curtains, Self Closing Doors"
+
+PR0002177,20150916,0033,"Standard not met: Food Properly Labeled & Honestly Presented, Adequate Storage"
+
+PR0002177,20150916,0040,"Standard not met: Linens And Wiping Cloths: Properly Used And Stored"
+
+PR0002177,20150916,0044,"Standard not met: Personal Item Storage And Cleaning Items Storage"
+
+PR0002177,20150916,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002177,20150916,0049,"Standard not met: Food Handler Certificates Available, Current, Complete"
+
+PR0002182,20150914,0006,"Standard not met: Adequate Handwashing Facilities Supplied & Accessible"
+
+PR0002182,20160120,0006,"Standard not met: Adequate Handwashing Facilities Supplied & Accessible"
+
+PR0002182,20150914,0014,"Standard not met: Food Contact Surfaces; Clean And Sanitized"
+
+PR0002182,20150914,0033,"Standard not met: Food Properly Labeled & Honestly Presented, Adequate Storage"
+
+PR0002182,20150914,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002182,20150914,0038,"Standard not met: Adequate Ventilation & Lighting: Designated Areas; Use"
+
+PR0002182,20160120,0038,"Standard not met: Adequate Ventilation & Lighting: Designated Areas; Use"
+
+PR0002182,20160120,0041,"Standard not met: Plumbing: Properly Installed, Good Repair, Waste Water Disposal"
+
+PR0002182,20160120,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002182,20150914,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002182,20150914,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002182,20160120,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002182,20160120,0049,"Standard not met: Food Handler Certificates Available, Current, Complete"
+
+PR0002183,20150717,0006,"Standard not met: Adequate Handwashing Facilities Supplied & Accessible"
+
+PR0002183,20160105,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0002183,20160105,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002183,20160105,0038,"Standard not met: Adequate Ventilation & Lighting: Designated Areas; Use"
+
+PR0002183,20150717,0038,"Standard not met: Adequate Ventilation & Lighting: Designated Areas; Use"
+
+PR0002183,20150717,0040,"Standard not met: Linens And Wiping Cloths: Properly Used And Stored"
+
+PR0002183,20160105,0040,"Standard not met: Linens And Wiping Cloths: Properly Used And Stored"
+
+PR0002183,20150717,0044,"Standard not met: Personal Item Storage And Cleaning Items Storage"
+
+PR0002183,20160105,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002184,20151021,0006,"Standard not met: Adequate Handwashing Facilities Supplied & Accessible"
+
+PR0002188,20151209,0021,"Standard not met: Hot And Cold Water Available"
+
+PR0002188,20160418,0024,"Standard not met: Vermin Proofing, Air Curtains, Self Closing Doors"
+
+PR0002188,20150616,0028,"Standard not met: Food Separated And Protected From Contamination"
+
+PR0002188,20151209,0030,"Standard not met: Toxic Substances Properly Identified, Stored, Used"
+
+PR0002188,20151209,0034,"Standard not met: Utensils And Equipment Approved, Good Repair"
+
+PR0002188,20160418,0038,"Standard not met: Adequate Ventilation & Lighting: Designated Areas; Use"
+
+PR0002188,20150616,0040,"Standard not met: Linens And Wiping Cloths: Properly Used And Stored"
+
+PR0002188,20151209,0043,"Standard not met: Toilet Facilities: Properly Constructed, Supplied, Cleaned"
+
+PR0002188,20160418,0049,"Standard not met: Food Handler Certificates Available, Current, Complete"
+
+PR0002190,20151117,0009,"Standard not met: Proper Cooling Methods"
+
+PR0002190,20150722,0021,"Standard not met: Hot And Cold Water Available"
+
+PR0002190,20150722,0028,"Standard not met: Food Separated And Protected From Contamination"
+
+PR0002190,20151117,0033,"Standard not met: Food Properly Labeled & Honestly Presented, Adequate Storage"
+
+PR0002190,20151117,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002190,20160505,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002190,20160505,0040,"Standard not met: Linens And Wiping Cloths: Properly Used And Stored"
+
+PR0002190,20150722,0040,"Standard not met: Linens And Wiping Cloths: Properly Used And Stored"
+
+PR0002190,20160505,0044,"Standard not met: Personal Item Storage And Cleaning Items Storage"
+
+PR0002190,20150722,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002190,20151117,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002191,20160505,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0002191,20150722,0021,"Standard not met: Hot And Cold Water Available"
+
+PR0002191,20160505,0028,"Standard not met: Food Separated And Protected From Contamination"
+
+PR0002191,20150722,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002191,20160505,0044,"Standard not met: Personal Item Storage And Cleaning Items Storage"
+
+PR0002191,20160505,0049,"Standard not met: Food Handler Certificates Available, Current, Complete"
+
+PR0002193,20150710,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002193,20150710,0038,"Standard not met: Adequate Ventilation & Lighting: Designated Areas; Use"
+
+PR0002193,20150710,0042,"Standard not met: Refuse Properly Disposed: Facilities Maintained"
+
+PR0002193,20150710,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002195,20151021,0023,"Standard not met: No Rodents, Insects, Birds Or Animals"
+
+PR0002195,20151021,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002196,20151021,0033,"Standard not met: Food Properly Labeled & Honestly Presented, Adequate Storage"
+
+PR0002196,20151021,0037,"Standard not met: Equipment And Utensils: Storage And Use"
+
+PR0002196,20151021,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002197,20151005,0004,"Standard not met: Proper Eating, Tasting, Drinking Or Tobacco Use"
+
+PR0002197,20151005,0005,"Standard not met: Hands Clean & Properly Washed; Gloves Used Properly"
+
+PR0002197,20150602,0025,"Standard not met: Person In Charge Present And Perform Duties; Demonstration of Knowledge"
+
+PR0002197,20151005,0027,"Standard not met: Approved Thawing Methods Used, Frozen Food Storage"
+
+PR0002197,20150602,0028,"Standard not met: Food Separated And Protected From Contamination"
+
+PR0002197,20150602,0034,"Standard not met: Utensils And Equipment Approved, Good Repair"
+
+PR0002197,20160302,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002197,20151005,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002197,20150602,0041,"Standard not met: Plumbing: Properly Installed, Good Repair, Waste Water Disposal"
+
+PR0002197,20150602,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002197,20160302,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002197,20151005,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002197,20151005,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002197,20160302,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002198,20150721,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0002198,20151130,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0002198,20150721,0027,"Standard not met: Approved Thawing Methods Used, Frozen Food Storage"
+
+PR0002198,20150721,0030,"Standard not met: Toxic Substances Properly Identified, Stored, Used"
+
+PR0002198,20151130,0030,"Standard not met: Toxic Substances Properly Identified, Stored, Used"
+
+PR0002198,20151130,0033,"Standard not met: Food Properly Labeled & Honestly Presented, Adequate Storage"
+
+PR0002198,20150721,0033,"Standard not met: Food Properly Labeled & Honestly Presented, Adequate Storage"
+
+PR0002198,20150721,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002198,20151130,0037,"Standard not met: Equipment And Utensils: Storage And Use"
+
+PR0002198,20151130,0040,"Standard not met: Linens And Wiping Cloths: Properly Used And Stored"
+
+PR0002198,20150721,0040,"Standard not met: Linens And Wiping Cloths: Properly Used And Stored"
+
+PR0002198,20150721,0043,"Standard not met: Toilet Facilities: Properly Constructed, Supplied, Cleaned"
+
+PR0002198,20151130,0043,"Standard not met: Toilet Facilities: Properly Constructed, Supplied, Cleaned"
+
+PR0002198,20151130,0044,"Standard not met: Personal Item Storage And Cleaning Items Storage"
+
+PR0002198,20151130,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002198,20151130,0049,"Standard not met: Food Handler Certificates Available, Current, Complete"
+
+PR0002199,20150812,0040,"Standard not met: Linens And Wiping Cloths: Properly Used And Stored"
+
+PR0002199,20150812,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002203,20160219,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0002203,20150911,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0002203,20160219,0023,"Standard not met: No Rodents, Insects, Birds Or Animals"
+
+PR0002203,20160219,0024,"Standard not met: Vermin Proofing, Air Curtains, Self Closing Doors"
+
+PR0002203,20160219,0034,"Standard not met: Utensils And Equipment Approved, Good Repair"
+
+PR0002203,20150911,0040,"Standard not met: Linens And Wiping Cloths: Properly Used And Stored"
+
+PR0002203,20160219,0042,"Standard not met: Refuse Properly Disposed: Facilities Maintained"
+
+PR0002203,20150911,0043,"Standard not met: Toilet Facilities: Properly Constructed, Supplied, Cleaned"
+
+PR0002203,20150911,0044,"Standard not met: Personal Item Storage And Cleaning Items Storage"
+
+PR0002203,20160219,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002205,20151117,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002207,20160229,0005,"Standard not met: Hands Clean & Properly Washed; Gloves Used Properly"
+
+PR0002207,20160229,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0002207,20150903,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0002207,20150903,0040,"Standard not met: Linens And Wiping Cloths: Properly Used And Stored"
+
+PR0002207,20160229,0040,"Standard not met: Linens And Wiping Cloths: Properly Used And Stored"
+
+PR0002207,20150903,0043,"Standard not met: Toilet Facilities: Properly Constructed, Supplied, Cleaned"
+
+PR0002207,20150903,0044,"Standard not met: Personal Item Storage And Cleaning Items Storage"
+
+PR0002207,20150903,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002207,20160229,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002207,20150903,0049,"Standard not met: Food Handler Certificates Available, Current, Complete"
+
+PR0002208,20150710,0006,"Standard not met: Adequate Handwashing Facilities Supplied & Accessible"
+
+PR0002208,20150710,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0002208,20160418,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0002208,20160418,0023,"Standard not met: No Rodents, Insects, Birds Or Animals"
+
+PR0002208,20160418,0024,"Standard not met: Vermin Proofing, Air Curtains, Self Closing Doors"
+
+PR0002208,20150710,0028,"Standard not met: Food Separated And Protected From Contamination"
+
+PR0002208,20150710,0034,"Standard not met: Utensils And Equipment Approved, Good Repair"
+
+PR0002208,20160418,0034,"Standard not met: Utensils And Equipment Approved, Good Repair"
+
+PR0002208,20160418,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002208,20150710,0037,"Standard not met: Equipment And Utensils: Storage And Use"
+
+PR0002208,20150710,0038,"Standard not met: Adequate Ventilation & Lighting: Designated Areas; Use"
+
+PR0002208,20160418,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002210,20150724,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0002210,20150828,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002210,20150828,0037,"Standard not met: Equipment And Utensils: Storage And Use"
+
+PR0002210,20150828,0038,"Standard not met: Adequate Ventilation & Lighting: Designated Areas; Use"
+
+PR0002210,20150724,0040,"Standard not met: Linens And Wiping Cloths: Properly Used And Stored"
+
+PR0002210,20150724,0049,"Standard not met: Food Handler Certificates Available, Current, Complete"
+
+PR0002211,20150819,0028,"Standard not met: Food Separated And Protected From Contamination"
+
+PR0002211,20150819,0033,"Standard not met: Food Properly Labeled & Honestly Presented, Adequate Storage"
+
+PR0002211,20150819,0037,"Standard not met: Equipment And Utensils: Storage And Use"
+
+PR0002213,20160413,0001,"Standard not met: Food Safety Certification"
+
+PR0002213,20151029,0004,"Standard not met: Proper Eating, Tasting, Drinking Or Tobacco Use"
+
+PR0002213,20151029,0006,"Standard not met: Adequate Handwashing Facilities Supplied & Accessible"
+
+PR0002213,20160413,0006,"Standard not met: Adequate Handwashing Facilities Supplied & Accessible"
+
+PR0002213,20151029,0024,"Standard not met: Vermin Proofing, Air Curtains, Self Closing Doors"
+
+PR0002213,20160413,0028,"Standard not met: Food Separated And Protected From Contamination"
+
+PR0002213,20160413,0034,"Standard not met: Utensils And Equipment Approved, Good Repair"
+
+PR0002213,20160413,0035,"Standard not met: Warewashng: Installed, Maintained, Proper Use, Test Materials"
+
+PR0002213,20151029,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002213,20151029,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002213,20151029,0049,"Standard not met: Food Handler Certificates Available, Current, Complete"
+
+PR0002213,20160413,0049,"Standard not met: Food Handler Certificates Available, Current, Complete"
+
+PR0002214,20151103,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0002214,20151103,0028,"Standard not met: Food Separated And Protected From Contamination"
+
+PR0002214,20151103,0034,"Standard not met: Utensils And Equipment Approved, Good Repair"
+
+PR0002214,20151103,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002216,20151123,0006,"Standard not met: Adequate Handwashing Facilities Supplied & Accessible"
+
+PR0002216,20150728,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0002216,20150728,0024,"Standard not met: Vermin Proofing, Air Curtains, Self Closing Doors"
+
+PR0002216,20151123,0027,"Standard not met: Approved Thawing Methods Used, Frozen Food Storage"
+
+PR0002216,20150728,0028,"Standard not met: Food Separated And Protected From Contamination"
+
+PR0002216,20150728,0033,"Standard not met: Food Properly Labeled & Honestly Presented, Adequate Storage"
+
+PR0002216,20151123,0033,"Standard not met: Food Properly Labeled & Honestly Presented, Adequate Storage"
+
+PR0002216,20151123,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002216,20150728,0038,"Standard not met: Adequate Ventilation & Lighting: Designated Areas; Use"
+
+PR0002216,20150728,0040,"Standard not met: Linens And Wiping Cloths: Properly Used And Stored"
+
+PR0002216,20150728,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002216,20151123,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002217,20160418,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0002217,20150629,0028,"Standard not met: Food Separated And Protected From Contamination"
+
+PR0002217,20160418,0037,"Standard not met: Equipment And Utensils: Storage And Use"
+
+PR0002217,20160418,0041,"Standard not met: Plumbing: Properly Installed, Good Repair, Waste Water Disposal"
+
+PR0002217,20150629,0041,"Standard not met: Plumbing: Properly Installed, Good Repair, Waste Water Disposal"
+
+PR0002217,20150629,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002218,20160203,0006,"Standard not met: Adequate Handwashing Facilities Supplied & Accessible"
+
+PR0002218,20150710,0006,"Standard not met: Adequate Handwashing Facilities Supplied & Accessible"
+
+PR0002218,20151116,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0002218,20150710,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002218,20150710,0037,"Standard not met: Equipment And Utensils: Storage And Use"
+
+PR0002218,20151116,0037,"Standard not met: Equipment And Utensils: Storage And Use"
+
+PR0002218,20160203,0038,"Standard not met: Adequate Ventilation & Lighting: Designated Areas; Use"
+
+PR0002218,20160203,0039,"Standard not met: Thermometers Provided And Accurate"
+
+PR0002218,20150710,0042,"Standard not met: Refuse Properly Disposed: Facilities Maintained"
+
+PR0002218,20150710,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002218,20151116,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002218,20160203,0049,"Standard not met: Food Handler Certificates Available, Current, Complete"
+
+PR0002219,20160209,0005,"Standard not met: Hands Clean & Properly Washed; Gloves Used Properly"
+
+PR0002219,20160209,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0002219,20151021,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0002219,20150602,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0002219,20150602,0028,"Standard not met: Food Separated And Protected From Contamination"
+
+PR0002219,20150602,0030,"Standard not met: Toxic Substances Properly Identified, Stored, Used"
+
+PR0002219,20150602,0033,"Standard not met: Food Properly Labeled & Honestly Presented, Adequate Storage"
+
+PR0002219,20151021,0033,"Standard not met: Food Properly Labeled & Honestly Presented, Adequate Storage"
+
+PR0002219,20160209,0033,"Standard not met: Food Properly Labeled & Honestly Presented, Adequate Storage"
+
+PR0002219,20160209,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002219,20150602,0037,"Standard not met: Equipment And Utensils: Storage And Use"
+
+PR0002219,20151021,0038,"Standard not met: Adequate Ventilation & Lighting: Designated Areas; Use"
+
+PR0002219,20151021,0040,"Standard not met: Linens And Wiping Cloths: Properly Used And Stored"
+
+PR0002219,20160209,0040,"Standard not met: Linens And Wiping Cloths: Properly Used And Stored"
+
+PR0002219,20150602,0040,"Standard not met: Linens And Wiping Cloths: Properly Used And Stored"
+
+PR0002219,20150602,0044,"Standard not met: Personal Item Storage And Cleaning Items Storage"
+
+PR0002219,20160209,0044,"Standard not met: Personal Item Storage And Cleaning Items Storage"
+
+PR0002219,20151021,0044,"Standard not met: Personal Item Storage And Cleaning Items Storage"
+
+PR0002219,20151021,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002219,20160209,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002219,20150602,0049,"Standard not met: Food Handler Certificates Available, Current, Complete"
+
+PR0002223,20150827,0006,"Standard not met: Adequate Handwashing Facilities Supplied & Accessible"
+
+PR0002223,20150827,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0002223,20160125,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0002223,20150827,0028,"Standard not met: Food Separated And Protected From Contamination"
+
+PR0002223,20150827,0030,"Standard not met: Toxic Substances Properly Identified, Stored, Used"
+
+PR0002223,20150827,0037,"Standard not met: Equipment And Utensils: Storage And Use"
+
+PR0002223,20160125,0037,"Standard not met: Equipment And Utensils: Storage And Use"
+
+PR0002223,20150827,0039,"Standard not met: Thermometers Provided And Accurate"
+
+PR0002223,20150827,0040,"Standard not met: Linens And Wiping Cloths: Properly Used And Stored"
+
+PR0002223,20160125,0041,"Standard not met: Plumbing: Properly Installed, Good Repair, Waste Water Disposal"
+
+PR0002223,20160125,0049,"Standard not met: Food Handler Certificates Available, Current, Complete"
+
+PR0002226,20151215,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0002226,20150729,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0002226,20150729,0023,"Standard not met: No Rodents, Insects, Birds Or Animals"
+
+PR0002226,20150729,0027,"Standard not met: Approved Thawing Methods Used, Frozen Food Storage"
+
+PR0002226,20150729,0028,"Standard not met: Food Separated And Protected From Contamination"
+
+PR0002226,20151215,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002226,20151215,0038,"Standard not met: Adequate Ventilation & Lighting: Designated Areas; Use"
+
+PR0002226,20151215,0040,"Standard not met: Linens And Wiping Cloths: Properly Used And Stored"
+
+PR0002226,20150729,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002226,20150729,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002226,20151215,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002230,20151007,0014,"Standard not met: Food Contact Surfaces; Clean And Sanitized"
+
+PR0002230,20151007,0034,"Standard not met: Utensils And Equipment Approved, Good Repair"
+
+PR0002231,20151103,0006,"Standard not met: Adequate Handwashing Facilities Supplied & Accessible"
+
+PR0002231,20151103,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0002231,20151103,0014,"Standard not met: Food Contact Surfaces; Clean And Sanitized"
+
+PR0002231,20151103,0028,"Standard not met: Food Separated And Protected From Contamination"
+
+PR0002231,20151103,0040,"Standard not met: Linens And Wiping Cloths: Properly Used And Stored"
+
+PR0002232,20150820,0021,"Standard not met: Hot And Cold Water Available"
+
+PR0002233,20151208,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0002233,20150624,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0002233,20151208,0023,"Standard not met: No Rodents, Insects, Birds Or Animals"
+
+PR0002233,20151208,0024,"Standard not met: Vermin Proofing, Air Curtains, Self Closing Doors"
+
+PR0002233,20151208,0028,"Standard not met: Food Separated And Protected From Contamination"
+
+PR0002233,20150624,0028,"Standard not met: Food Separated And Protected From Contamination"
+
+PR0002233,20150624,0030,"Standard not met: Toxic Substances Properly Identified, Stored, Used"
+
+PR0002233,20150624,0033,"Standard not met: Food Properly Labeled & Honestly Presented, Adequate Storage"
+
+PR0002233,20150625,0033,"Standard not met: Food Properly Labeled & Honestly Presented, Adequate Storage"
+
+PR0002233,20150625,0034,"Standard not met: Utensils And Equipment Approved, Good Repair"
+
+PR0002233,20150624,0034,"Standard not met: Utensils And Equipment Approved, Good Repair"
+
+PR0002233,20150624,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002233,20150625,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002233,20150625,0037,"Standard not met: Equipment And Utensils: Storage And Use"
+
+PR0002233,20150624,0037,"Standard not met: Equipment And Utensils: Storage And Use"
+
+PR0002233,20150624,0040,"Standard not met: Linens And Wiping Cloths: Properly Used And Stored"
+
+PR0002233,20151208,0040,"Standard not met: Linens And Wiping Cloths: Properly Used And Stored"
+
+PR0002233,20150625,0044,"Standard not met: Personal Item Storage And Cleaning Items Storage"
+
+PR0002233,20150624,0044,"Standard not met: Personal Item Storage And Cleaning Items Storage"
+
+PR0002233,20150624,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002233,20150625,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002233,20151208,0049,"Standard not met: Food Handler Certificates Available, Current, Complete"
+
+PR0002233,20150624,0049,"Standard not met: Food Handler Certificates Available, Current, Complete"
+
+PR0002234,20160229,0024,"Standard not met: Vermin Proofing, Air Curtains, Self Closing Doors"
+
+PR0002234,20160229,0028,"Standard not met: Food Separated And Protected From Contamination"
+
+PR0002234,20160229,0034,"Standard not met: Utensils And Equipment Approved, Good Repair"
+
+PR0002234,20160229,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002234,20160229,0037,"Standard not met: Equipment And Utensils: Storage And Use"
+
+PR0002234,20160229,0044,"Standard not met: Personal Item Storage And Cleaning Items Storage"
+
+PR0002234,20160229,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002236,20160119,0021,"Standard not met: Hot And Cold Water Available"
+
+PR0002236,20160119,0024,"Standard not met: Vermin Proofing, Air Curtains, Self Closing Doors"
+
+PR0002236,20160119,0028,"Standard not met: Food Separated And Protected From Contamination"
+
+PR0002236,20160119,0034,"Standard not met: Utensils And Equipment Approved, Good Repair"
+
+PR0002236,20160119,0035,"Standard not met: Warewashng: Installed, Maintained, Proper Use, Test Materials"
+
+PR0002236,20160119,0037,"Standard not met: Equipment And Utensils: Storage And Use"
+
+PR0002236,20160119,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002236,20160127,0051,"Standard not met: Plans Approved/Submitted"
+
+PR0002238,20160413,0008,"Standard not met: Time As A Public Health Control; Procedures. & Records"
+
+PR0002238,20160413,0014,"Standard not met: Food Contact Surfaces; Clean And Sanitized"
+
+PR0002238,20160413,0024,"Standard not met: Vermin Proofing, Air Curtains, Self Closing Doors"
+
+PR0002238,20160413,0034,"Standard not met: Utensils And Equipment Approved, Good Repair"
+
+PR0002238,20160413,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002238,20160413,0038,"Standard not met: Adequate Ventilation & Lighting: Designated Areas; Use"
+
+PR0002238,20160413,0041,"Standard not met: Plumbing: Properly Installed, Good Repair, Waste Water Disposal"
+
+PR0002238,20160413,0043,"Standard not met: Toilet Facilities: Properly Constructed, Supplied, Cleaned"
+
+PR0002238,20160413,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002238,20160413,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002240,20151218,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002240,20151218,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002243,20150923,0006,"Standard not met: Adequate Handwashing Facilities Supplied & Accessible"
+
+PR0002243,20160120,0006,"Standard not met: Adequate Handwashing Facilities Supplied & Accessible"
+
+PR0002243,20150528,0024,"Standard not met: Vermin Proofing, Air Curtains, Self Closing Doors"
+
+PR0002243,20150528,0040,"Standard not met: Linens And Wiping Cloths: Properly Used And Stored"
+
+PR0002243,20150923,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002246,20150602,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0002246,20160223,0024,"Standard not met: Vermin Proofing, Air Curtains, Self Closing Doors"
+
+PR0002246,20151027,0030,"Standard not met: Toxic Substances Properly Identified, Stored, Used"
+
+PR0002246,20150602,0030,"Standard not met: Toxic Substances Properly Identified, Stored, Used"
+
+PR0002246,20160223,0034,"Standard not met: Utensils And Equipment Approved, Good Repair"
+
+PR0002246,20160223,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002246,20151027,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002246,20150602,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002246,20150602,0037,"Standard not met: Equipment And Utensils: Storage And Use"
+
+PR0002246,20151027,0037,"Standard not met: Equipment And Utensils: Storage And Use"
+
+PR0002246,20150602,0044,"Standard not met: Personal Item Storage And Cleaning Items Storage"
+
+PR0002246,20151027,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002246,20151027,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002246,20160223,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002246,20150602,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002247,20151207,0006,"Standard not met: Adequate Handwashing Facilities Supplied & Accessible"
+
+PR0002247,20151207,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0002247,20150825,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0002247,20151207,0028,"Standard not met: Food Separated And Protected From Contamination"
+
+PR0002247,20151207,0033,"Standard not met: Food Properly Labeled & Honestly Presented, Adequate Storage"
+
+PR0002247,20150825,0033,"Standard not met: Food Properly Labeled & Honestly Presented, Adequate Storage"
+
+PR0002247,20150825,0035,"Standard not met: Warewashng: Installed, Maintained, Proper Use, Test Materials"
+
+PR0002247,20150825,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002247,20151207,0041,"Standard not met: Plumbing: Properly Installed, Good Repair, Waste Water Disposal"
+
+PR0002247,20151207,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002247,20150825,0049,"Standard not met: Food Handler Certificates Available, Current, Complete"
+
+PR0002248,20150804,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0002248,20150804,0011,"Standard not met: Proper Reheating Procedures For Hot Holding"
+
+PR0002248,20150804,0014,"Standard not met: Food Contact Surfaces; Clean And Sanitized"
+
+PR0002248,20151207,0033,"Standard not met: Food Properly Labeled & Honestly Presented, Adequate Storage"
+
+PR0002248,20151207,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002248,20150804,0037,"Standard not met: Equipment And Utensils: Storage And Use"
+
+PR0002248,20151207,0038,"Standard not met: Adequate Ventilation & Lighting: Designated Areas; Use"
+
+PR0002248,20151207,0040,"Standard not met: Linens And Wiping Cloths: Properly Used And Stored"
+
+PR0002248,20150804,0040,"Standard not met: Linens And Wiping Cloths: Properly Used And Stored"
+
+PR0002248,20150804,0044,"Standard not met: Personal Item Storage And Cleaning Items Storage"
+
+PR0002248,20151207,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002249,20151103,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0002249,20151103,0027,"Standard not met: Approved Thawing Methods Used, Frozen Food Storage"
+
+PR0002249,20151103,0028,"Standard not met: Food Separated And Protected From Contamination"
+
+PR0002249,20151103,0040,"Standard not met: Linens And Wiping Cloths: Properly Used And Stored"
+
+PR0002249,20151103,0049,"Standard not met: Food Handler Certificates Available, Current, Complete"
+
+PR0002251,20160518,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0002251,20150605,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0002251,20151208,0007,"Standard not met: Proper Hot & Cold Holding Temperatures"
+
+PR0002251,20150605,0030,"Standard not met: Toxic Substances Properly Identified, Stored, Used"
+
+PR0002251,20150605,0033,"Standard not met: Food Properly Labeled & Honestly Presented, Adequate Storage"
+
+PR0002251,20151208,0034,"Standard not met: Utensils And Equipment Approved, Good Repair"
+
+PR0002251,20150605,0037,"Standard not met: Equipment And Utensils: Storage And Use"
+
+PR0002251,20160518,0038,"Standard not met: Adequate Ventilation & Lighting: Designated Areas; Use"
+
+PR0002251,20150605,0044,"Standard not met: Personal Item Storage And Cleaning Items Storage"
+
+PR0002254,20160517,0006,"Standard not met: Adequate Handwashing Facilities Supplied & Accessible"
+
+PR0002254,20150923,0026,"Standard not met: Personal Cleanliness And Hair Restraints"
+
+PR0002255,20151208,0030,"Standard not met: Toxic Substances Properly Identified, Stored, Used"
+
+PR0002255,20151208,0036,"Standard not met: Equipment And Utensils: Installed, Clean, Adequate Capacity"
+
+PR0002255,20151208,0043,"Standard not met: Toilet Facilities: Properly Constructed, Supplied, Cleaned"
+
+PR0002255,20151208,0045,"Standard not met: Floors, Walls, Ceiling: Good Repair/Fully Enclosed"
+
+PR0002255,20151208,0046,"Standard not met: Floors, Walls, And Ceilings Clean"
+
+PR0002256,20150821,0033,"Standard not met: Food Properly Labeled & Honestly Presented, Adequate Storage"
+
+PR0002256,20150821,0034,"Standard not met: Utensils And Equipment Approved, Good Repair"
+
+PR0002256,20150821,0037,"Standard not met: Equipment And Utensils: Storage And Use"

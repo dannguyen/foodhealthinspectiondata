@@ -1,0 +1,1000 @@
+BusinessId,Name,Address,City,State,ZipCode,PhoneNumber,InspectionId,Date,InspectionType,ViolationCodes,ViolationDescriptions,Location
+PR0000438,Rio Lindo Academy,3200 Rio Lindo Ave,Healdsburg,CA,95448,,DA0377268,10/09/2014,ROUTINE,K000,2 Non-Critical Violation(s),"3200 Rio Lindo Ave
+Healdsburg, CA 95448
+(38.6278171661, -122.8383877693)"
+PR0003873,AFC Sushi @ Safeway #713,100 Calistoga Rd,Santa Rosa,CA,95409,17075391711,DATTHEVS5,05/06/2016,ROUTINE,,,"100 Calistoga Rd
+Santa Rosa, CA 95409
+(38.4650667215, -122.6533356766)"
+PR0001107,Sams For Play Cafe & Catering,2630 Cleveland Ave,Santa Rosa,CA,95403,,DA0175040,06/21/2010,ROUTINE,K000,4 Non-Critical Violation(s),"2630 Cleveland Ave
+Santa Rosa, CA 95403
+(38.4632309929, -122.7283540739)"
+PR0014830,Applebees,8931 S Brooks Rd,Windsor,CA,95492,17078360642,DAUBSPSY9,01/22/2016,ROUTINE,C.1a|C43.|C36.|C30a|C.7.|C41.|C33.|C35.|C14b|C40.|C27.|C21.|C14a,"Acceptable demonstration of food safety knowledge, Minor|Toilet facilities clean, supplied, and maintained, Minor|Properly used and stored equipment, utensils, and linens, Minor|Food stored at least 6 inches above floor, Minor|Proper hot and cold holding temperatures, Major|Plumbing maintained; proper backflow prevention, Minor|Nonfood contact surfaces clean, Minor|Equipment and utensils approved and in good repair, Minor|Proper warewashing and sanitizing procedures, Major|Proper use/storage of wiping cloths, Minor|Food protected from contamination during storage, Minor|Hot and cold potable water available, Minor|Food contact surfaces: clean and sanitized as required, Major","8931 S Brooks Rd
+Windsor, CA 95492
+(38.548651949, -122.8071851299)"
+PR0003601,Applebees Neighborhood Grill & Bar,501 Rohnert Park Expy #70,Rohnert Park,CA,94928,17072060660,DA0243500,01/17/2012,FOLLOW-UP,,,"501 Rohnert Park Expy
+Rohnert Park, CA 94928
+(-1.0, -1.0)"
+PR0001578,La Salette,452 E 1st St,Sonoma,CA,95476,17079381927,DAAE0K03F,05/17/2016,ROUTINE,,,"452 E 1st St
+Sonoma, CA 95476
+(38.2926022542, -122.4565457738)"
+PR0000352,Berrys Market & Deli,3690 Moorland Ave,Santa Rosa,CA,95407,,DA0321992,12/18/2013,ROUTINE,K000,7 Non-Critical Violation(s),"3690 Moorland Ave
+Santa Rosa, CA 95407
+(38.3874189161, -122.7185343288)"
+PR0001963,Berrys Market #8,5290 Aero Dr,Santa Rosa,CA,95401,,DA0185527,08/26/2010,ROUTINE,K000,1 Non-Critical Violation(s),"5290 Aero Dr
+Santa Rosa, CA 95401
+(38.5105966897, -122.7650657722)"
+PR0000018,Bohemian Club,20601 Bohemian Grove,Monte Rio,CA,95462,17078652311,DAC3IOB9K,05/18/2016,ROUTINE,,,"20601 Bohemian Grove
+Monte Rio, CA 95462
+(38.4682134601, -123.0025326182)"
+PR0000395,Stop N Save,1078 Wright Rd,Santa Rosa,CA,95407,,DA0285775,01/14/2013,FOLLOW-UP,K021,"Hot and cold water available, Minor","1078 Wright Rd
+Santa Rosa, CA 95407
+(38.4202457149, -122.7688794597)"
+PR0000395,Stop N Save,1078 Wright Rd,Santa Rosa,CA,95407,,DA0333644,05/02/2014,ROUTINE,,,"1078 Wright Rd
+Santa Rosa, CA 95407
+(38.4202457149, -122.7688794597)"
+PR0000395,Stop N Save,1078 Wright Rd,Santa Rosa,CA,95407,,DAOXFKR7W,01/23/2015,ROUTINE,C.6.|C22.|C43.,"Adequate handwashing facilities supplied and accessible, Minor|Sewage/wastewater properly disposed; toilet facility useable, Minor|Toilet facilities clean, supplied, and maintained, Minor","1078 Wright Rd
+Santa Rosa, CA 95407
+(38.4202457149, -122.7688794597)"
+PR0000395,Stop N Save,1078 Wright Rd,Santa Rosa,CA,95407,,DA0QYKTMN,11/12/2015,ROUTINE,C44e|C23.|C.6.|C42.,"Facility is equipped to prevent vermin entrance/harborage, Minor|No rodents, insects, birds, or animals inside the facility, Major|Adequate handwashing facilities supplied and accessible, Major|Garbage and refuse properly disposed, Minor","1078 Wright Rd
+Santa Rosa, CA 95407
+(38.4202457149, -122.7688794597)"
+PR0000395,Stop N Save,1078 Wright Rd,Santa Rosa,CA,95407,,DANPPXYBE,12/02/2015,FOLLOW-UP,C42.|C23.,"Garbage and refuse properly disposed, Minor|No rodents, insects, birds, or animals inside the facility, Minor","1078 Wright Rd
+Santa Rosa, CA 95407
+(38.4202457149, -122.7688794597)"
+PR0002576,Delorimier Vineyards & Winery,2001 Highway 128,Geyserville,CA,95441,17078572000,DA0381534,11/01/2014,ROUTINE,K000,1 Non-Critical Violation(s),"2001 Highway
+Geyserville, CA 95441
+(38.7092477701, -122.8766504393)"
+PR0002576,Delorimier Vineyards & Winery,2001 Highway 128,Geyserville,CA,95441,17078572000,DAOCVUYUU,07/28/2015,ROUTINE,C40.|C36.|C35.,"Proper use/storage of wiping cloths, Minor|Properly used and stored equipment, utensils, and linens, Minor|Equipment and utensils approved and in good repair, Minor","2001 Highway
+Geyserville, CA 95441
+(38.7092477701, -122.8766504393)"
+PR0002576,Delorimier Vineyards & Winery,2001 Highway 128,Geyserville,CA,95441,17078572000,DATUKSQJN,05/03/2016,ROUTINE,,,"2001 Highway
+Geyserville, CA 95441
+(38.7092477701, -122.8766504393)"
+PR0002434,G & G Supermarket,701 Sonoma Mountain PKY,Petaluma,CA,94952,17077651198,DA0166483,04/06/2010,ROUTINE,K013|K007|K014|K013|K005|K007|K007|K013|K006|K005|K013|K000,"Food in good condition, safe and unadulterated, Major|Proper hot and cold holding temperatures, Major|Food contact surfaces: clean and sanitized, Major|Food in good condition, safe and unadulterated, Major|Hands clean and properly washed; gloves used prope, Minor|Proper hot and cold holding temperatures, Minor|Proper hot and cold holding temperatures, Minor|Food in good condition, safe and unadulterated, Minor|Adequate handwashing fac supplied & accessible, Minor|Hands clean and properly washed; gloves used prope, Minor|Food in good condition, safe and unadulterated, Minor|7 Non-Critical Violation(s)","701 Sonoma Mountain PKY
+Petaluma, CA 94952
+(38.2683859001, -122.6398450032)"
+PR0002434,G & G Supermarket,701 Sonoma Mountain PKY,Petaluma,CA,94952,17077651198,DA0193664,10/27/2010,ROUTINE,K007|K009|K007|K015|K013|K005|K007|K013|K009|K007|K004|K013|K000,"Proper hot and cold holding temperatures, Major|Proper cooling methods, Major|Proper hot and cold holding temperatures, Major|Food obtained from approved source, Major|Food in good condition, safe and unadulterated, Minor|Hands clean and properly washed; gloves used prope, Minor|Proper hot and cold holding temperatures, Minor|Food in good condition, safe and unadulterated, Minor|Proper cooling methods, Minor|Proper hot and cold holding temperatures, Minor|Proper eating, tasting, drinking or tobacco use, Minor|Food in good condition, safe and unadulterated, Minor|3 Non-Critical Violation(s)","701 Sonoma Mountain PKY
+Petaluma, CA 94952
+(38.2683859001, -122.6398450032)"
+PR0002434,G & G Supermarket,701 Sonoma Mountain PKY,Petaluma,CA,94952,17077651198,DA0383312,11/13/2014,ROUTINE,K000,1 Non-Critical Violation(s),"701 Sonoma Mountain PKY
+Petaluma, CA 94952
+(38.2683859001, -122.6398450032)"
+PR0003352,Martins Market,10333 Old Redwood Hwy #101,Windsor,CA,95492,17078382782,DA0139436,08/26/2009,ROUTINE,K000,5 Non-Critical Violation(s),"10333 Old Redwood Hwy
+Windsor, CA 95492
+(-1.0, -1.0)"
+PR0003352,Martins Market,10333 Old Redwood Hwy #101,Windsor,CA,95492,17078382782,DA0314674,10/01/2013,ROUTINE,K000,2 Non-Critical Violation(s),"10333 Old Redwood Hwy
+Windsor, CA 95492
+(-1.0, -1.0)"
+PR0003352,Martins Market,10333 Old Redwood Hwy #101,Windsor,CA,95492,17078382782,DA0377260,10/09/2014,ROUTINE,,,"10333 Old Redwood Hwy
+Windsor, CA 95492
+(-1.0, -1.0)"
+PR0003352,Martins Market,10333 Old Redwood Hwy #101,Windsor,CA,95492,17078382782,DA7CAUTEP,05/15/2015,ROUTINE,C41.,"Plumbing maintained; proper backflow prevention, Minor","10333 Old Redwood Hwy
+Windsor, CA 95492
+(-1.0, -1.0)"
+PR0003352,Martins Market,10333 Old Redwood Hwy #101,Windsor,CA,95492,17078382782,DAEUB3O2J,01/12/2016,ROUTINE,C44e,"Facility is equipped to prevent vermin entrance/harborage, Minor","10333 Old Redwood Hwy
+Windsor, CA 95492
+(-1.0, -1.0)"
+PR0001354,El Rancho Taqueria,1451 Southwest Blvd #106,Rohnert Park,CA,94928,17077958537,DA0299020,05/21/2013,ROUTINE,,,"1451 Southwest Blvd
+Rohnert Park, CA 94928
+(-1.0, -1.0)"
+PR0001354,El Rancho Taqueria,1451 Southwest Blvd #106,Rohnert Park,CA,94928,17077958537,DA0318954,11/18/2013,ROUTINE,,,"1451 Southwest Blvd
+Rohnert Park, CA 94928
+(-1.0, -1.0)"
+PR0001203,Los Pinos Deli & Market,3 Tarman Dr,Cloverdale,CA,95425,17078943342,DA0251077,03/21/2012,ROUTINE,K007|K000,"Proper hot and cold holding temperatures, Minor|8 Non-Critical Violation(s)","3 Tarman Dr
+Cloverdale, CA 95425
+(38.7983504796, -123.0177574192)"
+PR0000352,Berrys Market & Deli,3690 Moorland Ave,Santa Rosa,CA,95407,,DA0341576,07/30/2014,ROUTINE,K000,1 Non-Critical Violation(s),"3690 Moorland Ave
+Santa Rosa, CA 95407
+(38.3874189161, -122.7185343288)"
+PR0000352,Berrys Market & Deli,3690 Moorland Ave,Santa Rosa,CA,95407,,DA0420030,12/15/2014,ROUTINE,K000,4 Non-Critical Violation(s),"3690 Moorland Ave
+Santa Rosa, CA 95407
+(38.3874189161, -122.7185343288)"
+PR0004756,Subway,269 Aviation Blvd #101,Santa Rosa,CA,95403,,DA0342748,08/13/2014,ROUTINE,,,"269 Aviation Blvd
+Santa Rosa, CA 95403
+(-1.0, -1.0)"
+PR0000344,Perrys Delicatessen,1220 Mendocino Ave,Santa Rosa,CA,95401,17075282704,DA0155221,01/06/2010,ROUTINE,K007|K001|K000,"Proper hot and cold holding temperatures, Minor|Demonstration of knowledge; food manager certifica, Minor|2 Non-Critical Violation(s)","1220 Mendocino Ave
+Santa Rosa, CA 95401
+(38.4518395351, -122.7174742287)"
+PR0000344,Perrys Delicatessen,1220 Mendocino Ave,Santa Rosa,CA,95401,17075282704,DA0179443,07/22/2010,ROUTINE,K007|K001|K006|K000,"Proper hot and cold holding temperatures, Minor|Demonstration of knowledge; food manager certifica, Minor|Adequate handwashing fac supplied & accessible, Minor|3 Non-Critical Violation(s)","1220 Mendocino Ave
+Santa Rosa, CA 95401
+(38.4518395351, -122.7174742287)"
+PR0000344,Perrys Delicatessen,1220 Mendocino Ave,Santa Rosa,CA,95401,17075282704,DA0249572,02/27/2012,ROUTINE,K000,1 Non-Critical Violation(s),"1220 Mendocino Ave
+Santa Rosa, CA 95401
+(38.4518395351, -122.7174742287)"
+PR0000344,Perrys Delicatessen,1220 Mendocino Ave,Santa Rosa,CA,95401,17075282704,DA0283652,11/08/2012,ROUTINE,K000,2 Non-Critical Violation(s),"1220 Mendocino Ave
+Santa Rosa, CA 95401
+(38.4518395351, -122.7174742287)"
+PR0000344,Perrys Delicatessen,1220 Mendocino Ave,Santa Rosa,CA,95401,17075282704,DA0313357,07/17/2013,ROUTINE,K000,2 Non-Critical Violation(s),"1220 Mendocino Ave
+Santa Rosa, CA 95401
+(38.4518395351, -122.7174742287)"
+PR0000344,Perrys Delicatessen,1220 Mendocino Ave,Santa Rosa,CA,95401,17075282704,DAUBSGIVL,06/02/2015,ROUTINE,C.6.,"Adequate handwashing facilities supplied and accessible, Minor","1220 Mendocino Ave
+Santa Rosa, CA 95401
+(38.4518395351, -122.7174742287)"
+PR0000344,Perrys Delicatessen,1220 Mendocino Ave,Santa Rosa,CA,95401,17075282704,DABKWAFIE,04/07/2016,ROUTINE,C30a|C.7.,"Food stored at least 6 inches above floor, Minor|Proper hot and cold holding temperatures, Major","1220 Mendocino Ave
+Santa Rosa, CA 95401
+(38.4518395351, -122.7174742287)"
+PR0000623,Gary Chus Restaurant,611 5th St,Santa Rosa,CA,95404,17075265840,DA0308609,08/09/2013,ROUTINE,K000|K007,"4 Non-Critical Violation(s)|Proper hot and cold holding temperatures, Minor","611 5th St
+Santa Rosa, CA 95404
+(38.441356075, -122.7139712919)"
+PR0000623,Gary Chus Restaurant,611 5th St,Santa Rosa,CA,95404,17075265840,DA0311478,08/23/2013,FOLLOW-UP,K000,1 Non-Critical Violation(s),"611 5th St
+Santa Rosa, CA 95404
+(38.441356075, -122.7139712919)"
+PR0000623,Gary Chus Restaurant,611 5th St,Santa Rosa,CA,95404,17075265840,DA0331862,04/11/2014,ROUTINE,K000,4 Non-Critical Violation(s),"611 5th St
+Santa Rosa, CA 95404
+(38.441356075, -122.7139712919)"
+PR0000623,Gary Chus Restaurant,611 5th St,Santa Rosa,CA,95404,17075265840,DA0332920,04/25/2014,FOLLOW-UP,,,"611 5th St
+Santa Rosa, CA 95404
+(38.441356075, -122.7139712919)"
+PR0000791,Quincys Pub & Cafe,6590 Commerce Blvd,Rohnert Park,CA,94928,17075851079,DA0187840,09/27/2010,ROUTINE,K011|K014|K000,"Proper reheating procedures for hot holding, Minor|Food contact surfaces: clean and sanitized, Minor|2 Non-Critical Violation(s)","6590 Commerce Blvd
+Rohnert Park, CA 94928
+(38.3453640865, -122.7112807146)"
+PR0000791,Quincys Pub & Cafe,6590 Commerce Blvd,Rohnert Park,CA,94928,17075851079,DA0247527,02/22/2012,ROUTINE,K006|K000,"Adequate handwashing fac supplied & accessible, Minor|3 Non-Critical Violation(s)","6590 Commerce Blvd
+Rohnert Park, CA 94928
+(38.3453640865, -122.7112807146)"
+PR0000791,Quincys Pub & Cafe,6590 Commerce Blvd,Rohnert Park,CA,94928,17075851079,DA0276937,10/29/2012,ROUTINE,,,"6590 Commerce Blvd
+Rohnert Park, CA 94928
+(38.3453640865, -122.7112807146)"
+PR0000791,Quincys Pub & Cafe,6590 Commerce Blvd,Rohnert Park,CA,94928,17075851079,DA0291614,03/12/2013,ROUTINE,,,"6590 Commerce Blvd
+Rohnert Park, CA 94928
+(38.3453640865, -122.7112807146)"
+PR0000791,Quincys Pub & Cafe,6590 Commerce Blvd,Rohnert Park,CA,94928,17075851079,DA0344628,08/29/2014,ROUTINE,,,"6590 Commerce Blvd
+Rohnert Park, CA 94928
+(38.3453640865, -122.7112807146)"
+PR0003846,Namaste Cafe,1390 N McDowell Blvd #A,Petaluma,CA,94954,17077922886,DA0152680,12/08/2009,ROUTINE,,,"1390 N McDowell Blvd
+A Petaluma, CA 94954
+(-1.0, -1.0)"
+PR0003846,Namaste Cafe,1390 N McDowell Blvd #A,Petaluma,CA,94954,17077922886,DA0164134,03/19/2010,FOLLOW-UP,,,"1390 N McDowell Blvd
+A Petaluma, CA 94954
+(-1.0, -1.0)"
+PR0003846,Namaste Cafe,1390 N McDowell Blvd #A,Petaluma,CA,94954,17077922886,DA0183896,08/18/2010,ROUTINE,K000,1 Non-Critical Violation(s),"1390 N McDowell Blvd
+A Petaluma, CA 94954
+(-1.0, -1.0)"
+PR0003846,Namaste Cafe,1390 N McDowell Blvd #A,Petaluma,CA,94954,17077922886,DA0201080,01/13/2011,ROUTINE,K007|K009|K000,"Proper hot and cold holding temperatures, Minor|Proper cooling methods, Minor|2 Non-Critical Violation(s)","1390 N McDowell Blvd
+A Petaluma, CA 94954
+(-1.0, -1.0)"
+PR0003846,Namaste Cafe,1390 N McDowell Blvd #A,Petaluma,CA,94954,17077922886,DA0229590,08/17/2011,ROUTINE,K000,1 Non-Critical Violation(s),"1390 N McDowell Blvd
+A Petaluma, CA 94954
+(-1.0, -1.0)"
+PR0003846,Namaste Cafe,1390 N McDowell Blvd #A,Petaluma,CA,94954,17077922886,DA0323917,01/14/2014,ROUTINE,,,"1390 N McDowell Blvd
+A Petaluma, CA 94954
+(-1.0, -1.0)"
+PR0003846,Namaste Cafe,1390 N McDowell Blvd #A,Petaluma,CA,94954,17077922886,DA0339349,07/09/2014,ROUTINE,K000,1 Non-Critical Violation(s),"1390 N McDowell Blvd
+A Petaluma, CA 94954
+(-1.0, -1.0)"
+PR0003846,Namaste Cafe,1390 N McDowell Blvd #A,Petaluma,CA,94954,17077922886,DAXZBYGRM,07/10/2015,ROUTINE,C.1b,"Food Safety Certification available and current, Minor","1390 N McDowell Blvd
+A Petaluma, CA 94954
+(-1.0, -1.0)"
+PR0003846,Namaste Cafe,1390 N McDowell Blvd #A,Petaluma,CA,94954,17077922886,DABC7GKDV,01/20/2016,ROUTINE,C.1b|C37.,"Food Safety Certification available and current, Minor|Vending machines maintained, Minor","1390 N McDowell Blvd
+A Petaluma, CA 94954
+(-1.0, -1.0)"
+PR0000766,Quik Stop Market #106,501 W 9th St,Santa Rosa,CA,95401,17075428671,DA0137134,08/04/2009,ROUTINE,K022|K000,"Sewage and wastewater properly disposed, Minor|4 Non-Critical Violation(s)","501 W 9th St
+Santa Rosa, CA 95401
+(38.441677562, -122.7309282717)"
+PR0000766,Quik Stop Market #106,501 W 9th St,Santa Rosa,CA,95401,17075428671,DA0279153,11/14/2012,ROUTINE,,,"501 W 9th St
+Santa Rosa, CA 95401
+(38.441677562, -122.7309282717)"
+PR0000766,Quik Stop Market #106,501 W 9th St,Santa Rosa,CA,95401,17075428671,DA0318634,11/13/2013,ROUTINE,,,"501 W 9th St
+Santa Rosa, CA 95401
+(38.441677562, -122.7309282717)"
+PR0000766,Quik Stop Market #106,501 W 9th St,Santa Rosa,CA,95401,17075428671,DAX6HV5U1,04/21/2015,ROUTINE,,,"501 W 9th St
+Santa Rosa, CA 95401
+(38.441677562, -122.7309282717)"
+PR0002377,GAWFCO,370 Sebastopol Rd,Santa Rosa,CA,95407,17075426611,DA0269987,08/28/2012,ROUTINE,K000|K021,"1 Non-Critical Violation(s)|Hot and cold water available, Minor","370 Sebastopol Rd
+Santa Rosa, CA 95407
+(38.4307331895, -122.7246633156)"
+PR0002377,GAWFCO,370 Sebastopol Rd,Santa Rosa,CA,95407,17075426611,DA0330410,03/31/2014,ROUTINE,,,"370 Sebastopol Rd
+Santa Rosa, CA 95407
+(38.4307331895, -122.7246633156)"
+PR0003225,Simply Delicious,2780 Stony Point Rd #M,Santa Rosa,CA,95407,17075792083,DA0194709,11/09/2010,ROUTINE,K019|K021|K000,"Consumer advisory provided for raw or undercooked, Minor|Hot and cold water available, Minor|4 Non-Critical Violation(s)","2780 Stony Point Rd
+M Santa Rosa, CA 95407
+(-1.0, -1.0)"
+PR0003225,Simply Delicious,2780 Stony Point Rd #M,Santa Rosa,CA,95407,17075792083,DA0195811,11/23/2010,FOLLOW-UP,K021|K000,"Hot and cold water available, Minor|2 Non-Critical Violation(s)","2780 Stony Point Rd
+M Santa Rosa, CA 95407
+(-1.0, -1.0)"
+PR0000352,Berrys Market & Deli,3690 Moorland Ave,Santa Rosa,CA,95407,,DAHE6GDT0,05/12/2016,ROUTINE,C.1b|C30a|C35.,"Food Safety Certification available and current, Minor|Food stored at least 6 inches above floor, Minor|Equipment and utensils approved and in good repair, Minor","3690 Moorland Ave
+Santa Rosa, CA 95407
+(38.3874189161, -122.7185343288)"
+PR0001963,Berrys Market #8,5290 Aero Dr,Santa Rosa,CA,95401,,DA0159866,01/22/2010,ROUTINE,K007|K000,"Proper hot and cold holding temperatures, Minor|3 Non-Critical Violation(s)","5290 Aero Dr
+Santa Rosa, CA 95401
+(38.5105966897, -122.7650657722)"
+PR0003352,Martins Market,10333 Old Redwood Hwy #101,Windsor,CA,95492,17078382782,DA0206878,02/24/2011,FOLLOW-UP,,,"10333 Old Redwood Hwy
+Windsor, CA 95492
+(-1.0, -1.0)"
+PR0003225,Simply Delicious,2780 Stony Point Rd #M,Santa Rosa,CA,95407,17075792083,DA0279818,11/20/2012,ROUTINE,K001|K000,"Demonstration of knowledge; food manager certifica, Minor|2 Non-Critical Violation(s)","2780 Stony Point Rd
+M Santa Rosa, CA 95407
+(-1.0, -1.0)"
+PR0003225,Simply Delicious,2780 Stony Point Rd #M,Santa Rosa,CA,95407,17075792083,DA0317893,10/31/2013,ROUTINE,K000|K001|K006,"4 Non-Critical Violation(s)|Demonstration of knowledge; food manager certifica, Minor|Adequate handwashing fac supplied & accessible, Minor","2780 Stony Point Rd
+M Santa Rosa, CA 95407
+(-1.0, -1.0)"
+PR0003225,Simply Delicious,2780 Stony Point Rd #M,Santa Rosa,CA,95407,17075792083,DA0383655,11/14/2014,ROUTINE,K001|K000,"Demonstration of knowledge; food manager certifica, Minor|4 Non-Critical Violation(s)","2780 Stony Point Rd
+M Santa Rosa, CA 95407
+(-1.0, -1.0)"
+PR0003225,Simply Delicious,2780 Stony Point Rd #M,Santa Rosa,CA,95407,17075792083,DABOZCA0N,10/08/2015,ROUTINE,C33.|C45.|C.6.|C44c|C14a|C42.,"Nonfood contact surfaces clean, Minor|Floors, walls, and ceilings are maintained and kept clean, Minor|Adequate handwashing facilities supplied and accessible, Major|Janitorial area provided, maintained, and kept clean, Minor|Food contact surfaces: clean and sanitized as required, Minor|Garbage and refuse properly disposed, Minor","2780 Stony Point Rd
+M Santa Rosa, CA 95407
+(-1.0, -1.0)"
+PR0003225,Simply Delicious,2780 Stony Point Rd #M,Santa Rosa,CA,95407,17075792083,DATXHBWTB,05/19/2016,ROUTINE,C45.|C33.|C35.,"Floors, walls, and ceilings are maintained and kept clean, Minor|Nonfood contact surfaces clean, Minor|Equipment and utensils approved and in good repair, Minor","2780 Stony Point Rd
+M Santa Rosa, CA 95407
+(-1.0, -1.0)"
+PR0000279,Cazadero General Store,6125 Cazadero Hwy,Cazadero,CA,95421,17076325287,DA0335145,05/16/2014,ROUTINE,,,"6125 Cazadero Hwy
+Cazadero, CA 95421
+(38.5338117116, -123.085874857)"
+PR0000279,Cazadero General Store,6125 Cazadero Hwy,Cazadero,CA,95421,17076325287,DA0392266,11/21/2014,ROUTINE,,,"6125 Cazadero Hwy
+Cazadero, CA 95421
+(38.5338117116, -123.085874857)"
+PR0000279,Cazadero General Store,6125 Cazadero Hwy,Cazadero,CA,95421,17076325287,DAS9WDXX7,07/10/2015,ROUTINE,,,"6125 Cazadero Hwy
+Cazadero, CA 95421
+(38.5338117116, -123.085874857)"
+PR0000279,Cazadero General Store,6125 Cazadero Hwy,Cazadero,CA,95421,17076325287,DAKD8NHOD,02/26/2016,ROUTINE,,,"6125 Cazadero Hwy
+Cazadero, CA 95421
+(38.5338117116, -123.085874857)"
+PR0002031,Geyserville School Cafeteria,1300 Moody Ln,Geyserville,CA,95441,,DA0185928,09/09/2010,ROUTINE,K021|K007|K000,"Hot and cold water available, Minor|Proper hot and cold holding temperatures, Minor|2 Non-Critical Violation(s)","1300 Moody Ln
+Geyserville, CA 95441
+(38.7182200975, -122.8913253336)"
+PR0002031,Geyserville School Cafeteria,1300 Moody Ln,Geyserville,CA,95441,,DA0211707,03/31/2011,ROUTINE,K000|K023|K021,"3 Non-Critical Violation(s)|No rodents, insects, birds, or animals, Major|Hot and cold water available, Major","1300 Moody Ln
+Geyserville, CA 95441
+(38.7182200975, -122.8913253336)"
+PR0002031,Geyserville School Cafeteria,1300 Moody Ln,Geyserville,CA,95441,,DA0212668,04/12/2011,FOLLOW-UP,,,"1300 Moody Ln
+Geyserville, CA 95441
+(38.7182200975, -122.8913253336)"
+PR0002031,Geyserville School Cafeteria,1300 Moody Ln,Geyserville,CA,95441,,DA0255501,04/26/2012,ROUTINE,K001|K000,"Demonstration of knowledge; food manager certifica, Minor|2 Non-Critical Violation(s)","1300 Moody Ln
+Geyserville, CA 95441
+(38.7182200975, -122.8913253336)"
+PR0003328,Council on Aging @ Seb Area Sr Ctr,167 N High St,Sebastopol,CA,95472,17078298381,DA0252593,03/29/2012,ROUTINE,,,"167 N High St
+Sebastopol, CA 95472
+(38.4024584981, -122.8261021407)"
+PR0001963,Berrys Market #8,5290 Aero Dr,Santa Rosa,CA,95401,,DAHOOUOIB,10/13/2015,ROUTINE,C27.|C33.|C13.,"Food protected from contamination during storage, Minor|Nonfood contact surfaces clean, Minor|Food free from contamination and adulteration, Minor","5290 Aero Dr
+Santa Rosa, CA 95401
+(38.5105966897, -122.7650657722)"
+PR0002031,Geyserville School Cafeteria,1300 Moody Ln,Geyserville,CA,95441,,DA0293502,03/27/2013,ROUTINE,,,"1300 Moody Ln
+Geyserville, CA 95441
+(38.7182200975, -122.8913253336)"
+PR0002031,Geyserville School Cafeteria,1300 Moody Ln,Geyserville,CA,95441,,DA0314071,09/25/2013,ROUTINE,,,"1300 Moody Ln
+Geyserville, CA 95441
+(38.7182200975, -122.8913253336)"
+PR0002031,Geyserville School Cafeteria,1300 Moody Ln,Geyserville,CA,95441,,DA0330854,04/04/2014,ROUTINE,,,"1300 Moody Ln
+Geyserville, CA 95441
+(38.7182200975, -122.8913253336)"
+PR0000646,Geyserville Elementary School,21485 Geyserville Ave,Geyserville,CA,95441,,DA0234185,10/18/2011,ROUTINE,,,"21485 Geyserville Ave
+Geyserville, CA 95441
+(38.7111274979, -122.9125262978)"
+PR0000646,Geyserville Elementary School,21485 Geyserville Ave,Geyserville,CA,95441,,DA0255500,04/26/2012,ROUTINE,K023|K000,"No rodents, insects, birds, or animals, Minor|3 Non-Critical Violation(s)","21485 Geyserville Ave
+Geyserville, CA 95441
+(38.7111274979, -122.9125262978)"
+PR0000646,Geyserville Elementary School,21485 Geyserville Ave,Geyserville,CA,95441,,DA0256048,05/03/2012,FOLLOW-UP,,,"21485 Geyserville Ave
+Geyserville, CA 95441
+(38.7111274979, -122.9125262978)"
+PR0000646,Geyserville Elementary School,21485 Geyserville Ave,Geyserville,CA,95441,,DA0273722,10/02/2012,ROUTINE,,,"21485 Geyserville Ave
+Geyserville, CA 95441
+(38.7111274979, -122.9125262978)"
+PR0000646,Geyserville Elementary School,21485 Geyserville Ave,Geyserville,CA,95441,,DA0293501,03/27/2013,ROUTINE,,,"21485 Geyserville Ave
+Geyserville, CA 95441
+(38.7111274979, -122.9125262978)"
+PR0004215,La Dolce Vita Wine Lounge,151 S Petaluma Blvd #117,Petaluma,CA,94952,,DAGUPFXAP,02/27/2015,ROUTINE,,,"151 S Petaluma Blvd
+Petaluma, CA 94952
+(-1.0, -1.0)"
+PR0004215,La Dolce Vita Wine Lounge,151 S Petaluma Blvd #117,Petaluma,CA,94952,,DA61NHXKO,08/21/2015,ROUTINE,,,"151 S Petaluma Blvd
+Petaluma, CA 94952
+(-1.0, -1.0)"
+PR0004215,La Dolce Vita Wine Lounge,151 S Petaluma Blvd #117,Petaluma,CA,94952,,DAYRKUZT2,02/23/2016,ROUTINE,,,"151 S Petaluma Blvd
+Petaluma, CA 94952
+(-1.0, -1.0)"
+PR0000496,Depot 1870 Restaurant,241 W 1st St,Sonoma,CA,95476,17079382980,DA0270325,08/30/2012,ROUTINE,,,"241 W 1st St
+Sonoma, CA 95476
+(38.2967354889, -122.4581739478)"
+PR0000496,Depot 1870 Restaurant,241 W 1st St,Sonoma,CA,95476,17079382980,DA0291014,03/06/2013,ROUTINE,K000,1 Non-Critical Violation(s),"241 W 1st St
+Sonoma, CA 95476
+(38.2967354889, -122.4581739478)"
+PR0001085,Broadway Catering & Events Inc,3695 N Petaluma Blvd,Petaluma,CA,94952,17079396620,DA0285455,01/15/2013,ROUTINE,,,"3695 N Petaluma Blvd
+Petaluma, CA 94952
+(38.2624893107, -122.6660125363)"
+PR0014508,Hilton Garden Inn,417 Aviation Blvd,Santa Rosa,CA,95403,17075450444,DA0138190,08/18/2009,ROUTINE,K004|K006|K001|K000,"Proper eating, tasting, drinking or tobacco use, Minor|Adequate handwashing fac supplied & accessible, Minor|Demonstration of knowledge; food manager certifica, Major|4 Non-Critical Violation(s)","417 Aviation Blvd
+Santa Rosa, CA 95403
+(38.5132077597, -122.7827210341)"
+PR0014508,Hilton Garden Inn,417 Aviation Blvd,Santa Rosa,CA,95403,17075450444,DA0236705,11/03/2011,ROUTINE,,,"417 Aviation Blvd
+Santa Rosa, CA 95403
+(38.5132077597, -122.7827210341)"
+PR0014508,Hilton Garden Inn,417 Aviation Blvd,Santa Rosa,CA,95403,17075450444,DA0277510,11/01/2012,ROUTINE,,,"417 Aviation Blvd
+Santa Rosa, CA 95403
+(38.5132077597, -122.7827210341)"
+PR0014508,Hilton Garden Inn,417 Aviation Blvd,Santa Rosa,CA,95403,17075450444,DA0299954,05/29/2013,ROUTINE,,,"417 Aviation Blvd
+Santa Rosa, CA 95403
+(38.5132077597, -122.7827210341)"
+PR0014508,Hilton Garden Inn,417 Aviation Blvd,Santa Rosa,CA,95403,17075450444,DA0321097,12/10/2013,ROUTINE,,,"417 Aviation Blvd
+Santa Rosa, CA 95403
+(38.5132077597, -122.7827210341)"
+PR0014508,Hilton Garden Inn,417 Aviation Blvd,Santa Rosa,CA,95403,17075450444,DA0334634,05/14/2014,ROUTINE,,,"417 Aviation Blvd
+Santa Rosa, CA 95403
+(38.5132077597, -122.7827210341)"
+PR0001205,Owl Cafe,485 S Cloverdale Blvd,Cloverdale,CA,95425,17078948967,DA0248357,02/28/2012,ROUTINE,K000,6 Non-Critical Violation(s),"485 S Cloverdale Blvd
+Cloverdale, CA 95425
+(38.7980483676, -123.0185159191)"
+PR0014508,Hilton Garden Inn,417 Aviation Blvd,Santa Rosa,CA,95403,17075450444,DA0393009,12/02/2014,ROUTINE,,,"417 Aviation Blvd
+Santa Rosa, CA 95403
+(38.5132077597, -122.7827210341)"
+PR0000604,7-Eleven #19232,2700 Yulupa Ave #A,Santa Rosa,CA,95405,17075799582,DA0135894,07/23/2009,ROUTINE,K007|K007|K006|K000,"Proper hot and cold holding temperatures, Major|Proper hot and cold holding temperatures, Major|Adequate handwashing fac supplied & accessible, Minor|3 Non-Critical Violation(s)","2700 Yulupa Ave
+A Santa Rosa, CA 95405
+(-1.0, -1.0)"
+PR0000604,7-Eleven #19232,2700 Yulupa Ave #A,Santa Rosa,CA,95405,17075799582,DA0180576,07/27/2010,ROUTINE,K000,1 Non-Critical Violation(s),"2700 Yulupa Ave
+A Santa Rosa, CA 95405
+(-1.0, -1.0)"
+PR0000604,7-Eleven #19232,2700 Yulupa Ave #A,Santa Rosa,CA,95405,17075799582,DA4SR1ASO,11/10/2015,ROUTINE,C14a|C.6.|C.7.,"Food contact surfaces: clean and sanitized as required, Minor|Adequate handwashing facilities supplied and accessible, Minor|Proper hot and cold holding temperatures, Minor","2700 Yulupa Ave
+A Santa Rosa, CA 95405
+(-1.0, -1.0)"
+PR0000493,Redwood Gospel Mission,101 6th St,Santa Rosa,CA,95401,17075424817,DA0192755,10/27/2010,ROUTINE,K022|K023|K013|K000,"Sewage and wastewater properly disposed, Minor|No rodents, insects, birds, or animals, Major|Food in good condition, safe and unadulterated, Major|2 Non-Critical Violation(s)","101 6th St
+Santa Rosa, CA 95401
+(38.4389466537, -122.7213412865)"
+PR0001924,Giorgis Wedding Cakes,1221 El Cobar Ct,Windsor,CA,95492,17078369600,DA0234257,10/19/2011,ROUTINE,K000,1 Non-Critical Violation(s),"1221 El Cobar Ct
+Windsor, CA 95492
+(38.5579577352, -122.7998115983)"
+PR0001924,Giorgis Wedding Cakes,1221 El Cobar Ct,Windsor,CA,95492,17078369600,DA0274779,10/10/2012,ROUTINE,K000,2 Non-Critical Violation(s),"1221 El Cobar Ct
+Windsor, CA 95492
+(38.5579577352, -122.7998115983)"
+PR0001924,Giorgis Wedding Cakes,1221 El Cobar Ct,Windsor,CA,95492,17078369600,DA0316579,10/22/2013,ROUTINE,K021,"Hot and cold water available, Minor","1221 El Cobar Ct
+Windsor, CA 95492
+(38.5579577352, -122.7998115983)"
+PR0001924,Giorgis Wedding Cakes,1221 El Cobar Ct,Windsor,CA,95492,17078369600,DA0316580,10/22/2013,FOLLOW-UP,,,"1221 El Cobar Ct
+Windsor, CA 95492
+(38.5579577352, -122.7998115983)"
+PR0000913,"Big Tomato Inc, The",1100 Valley House Dr #140,Rohnert Park,CA,94928,17076659472,DA0259124,06/05/2012,ROUTINE,,,"1100 Valley House Dr
+Rohnert Park, CA 94928
+(-1.0, -1.0)"
+PR0000913,"Big Tomato Inc, The",1100 Valley House Dr #140,Rohnert Park,CA,94928,17076659472,DA0281633,12/10/2012,ROUTINE,,,"1100 Valley House Dr
+Rohnert Park, CA 94928
+(-1.0, -1.0)"
+PR0000913,"Big Tomato Inc, The",1100 Valley House Dr #140,Rohnert Park,CA,94928,17076659472,DA0323653,01/10/2014,ROUTINE,K022|K000,"Sewage and wastewater properly disposed, Minor|1 Non-Critical Violation(s)","1100 Valley House Dr
+Rohnert Park, CA 94928
+(-1.0, -1.0)"
+PR0000913,"Big Tomato Inc, The",1100 Valley House Dr #140,Rohnert Park,CA,94928,17076659472,DA0392166,11/21/2014,ROUTINE,K000,2 Non-Critical Violation(s),"1100 Valley House Dr
+Rohnert Park, CA 94928
+(-1.0, -1.0)"
+PR0001759,Glen Ellen Village Market,13751 Arnold Dr,Glen Ellen,CA,95442,17079966728,DA0156105,01/08/2010,ROUTINE,K006|K014|K000,"Adequate handwashing fac supplied & accessible, Minor|Food contact surfaces: clean and sanitized, Minor|1 Non-Critical Violation(s)","13751 Arnold Dr Glen
+Ellen, CA 95442
+(38.36154558, -122.5258151946)"
+PR0001759,Glen Ellen Village Market,13751 Arnold Dr,Glen Ellen,CA,95442,17079966728,DA0201913,01/06/2011,ROUTINE,K007|K006|K014|K014|K014|K022|K000,"Proper hot and cold holding temperatures, Major|Adequate handwashing fac supplied & accessible, Minor|Food contact surfaces: clean and sanitized, Minor|Food contact surfaces: clean and sanitized, Minor|Food contact surfaces: clean and sanitized, Minor|Sewage and wastewater properly disposed, Minor|2 Non-Critical Violation(s)","13751 Arnold Dr Glen
+Ellen, CA 95442
+(38.36154558, -122.5258151946)"
+PR0001759,Glen Ellen Village Market,13751 Arnold Dr,Glen Ellen,CA,95442,17079966728,DA0242188,01/05/2012,ROUTINE,,,"13751 Arnold Dr Glen
+Ellen, CA 95442
+(38.36154558, -122.5258151946)"
+PR0004166,AFC Sushi @ Safeway #1562,2751 4th St,Santa Rosa,CA,95404,17075521455,DAYU25RTR,10/07/2015,ROUTINE,C45.,"Floors, walls, and ceilings are maintained and kept clean, Minor","2751 4th St
+Santa Rosa, CA 95404
+(38.4500166255, -122.6912390764)"
+PR0003601,Applebees Neighborhood Grill & Bar,501 Rohnert Park Expy #70,Rohnert Park,CA,94928,17072060660,DA0172115,05/18/2010,ROUTINE,K005|K000,"Hands clean and properly washed; gloves used prope, Minor|6 Non-Critical Violation(s)","501 Rohnert Park Expy
+Rohnert Park, CA 94928
+(-1.0, -1.0)"
+PR0001963,Berrys Market #8,5290 Aero Dr,Santa Rosa,CA,95401,,DAJ02HJOY,05/04/2016,ROUTINE,C27.|C.7.|C.6.,"Food protected from contamination during storage, Minor|Proper hot and cold holding temperatures, Minor|Adequate handwashing facilities supplied and accessible, Minor","5290 Aero Dr
+Santa Rosa, CA 95401
+(38.5105966897, -122.7650657722)"
+PR0002479,Golden China Restaurant,5306 Old Redwood Hwy #A,Petaluma,CA,94954,17076648989,DA0304944,07/10/2013,ROUTINE,K000,1 Non-Critical Violation(s),"5306 Old Redwood Hwy
+A Petaluma, CA 94954
+(-1.0, -1.0)"
+PR0000007,Glen Ellen Inn,13670 Arnold Dr,Glen Ellen,CA,95442,17079966409,DA0275501,10/16/2012,ROUTINE,,,"13670 Arnold Dr Glen
+Ellen, CA 95442
+(38.3635689871, -122.5244243904)"
+PR0000007,Glen Ellen Inn,13670 Arnold Dr,Glen Ellen,CA,95442,17079966409,DA0287563,02/04/2013,ROUTINE,K000,3 Non-Critical Violation(s),"13670 Arnold Dr Glen
+Ellen, CA 95442
+(38.3635689871, -122.5244243904)"
+PR0000007,Glen Ellen Inn,13670 Arnold Dr,Glen Ellen,CA,95442,17079966409,DA0313204,09/19/2013,ROUTINE,,,"13670 Arnold Dr Glen
+Ellen, CA 95442
+(38.3635689871, -122.5244243904)"
+PR0000817,Burger King,6125 Commerce Blvd,Rohnert Park,CA,94928,,DAM92M00U,02/24/2015,FOLLOW-UP,,,"6125 Commerce Blvd
+Rohnert Park, CA 94928
+(38.350090746, -122.7096444737)"
+PR0001759,Glen Ellen Village Market,13751 Arnold Dr,Glen Ellen,CA,95442,17079966728,DA0265681,07/19/2012,ROUTINE,K000,3 Non-Critical Violation(s),"13751 Arnold Dr Glen
+Ellen, CA 95442
+(38.36154558, -122.5258151946)"
+PR0001759,Glen Ellen Village Market,13751 Arnold Dr,Glen Ellen,CA,95442,17079966728,DA0287342,01/31/2013,ROUTINE,K000|K001,"9 Non-Critical Violation(s)|Demonstration of knowledge; food manager certifica, Minor","13751 Arnold Dr Glen
+Ellen, CA 95442
+(38.36154558, -122.5258151946)"
+PR0001759,Glen Ellen Village Market,13751 Arnold Dr,Glen Ellen,CA,95442,17079966728,DA0289697,02/20/2013,ROUTINE,K014|K000,"Food contact surfaces: clean and sanitized, Minor|10 Non-Critical Violation(s)","13751 Arnold Dr Glen
+Ellen, CA 95442
+(38.36154558, -122.5258151946)"
+PR0001759,Glen Ellen Village Market,13751 Arnold Dr,Glen Ellen,CA,95442,17079966728,DA0290970,03/06/2013,FOLLOW-UP,K000,2 Non-Critical Violation(s),"13751 Arnold Dr Glen
+Ellen, CA 95442
+(38.36154558, -122.5258151946)"
+PR0001759,Glen Ellen Village Market,13751 Arnold Dr,Glen Ellen,CA,95442,17079966728,DA0313728,09/24/2013,ROUTINE,K000,3 Non-Critical Violation(s),"13751 Arnold Dr Glen
+Ellen, CA 95442
+(38.36154558, -122.5258151946)"
+PR0004654,Guayaki SRP Inc Yerba Mate Bar,6782 Sebastopol Ave,Sebastopol,CA,95472,17078246602,DA43UW4BN,02/02/2016,ROUTINE,,,"6782 Sebastopol Ave
+Sebastopol, CA 95472
+(38.4026175126, -122.8208339077)"
+PR0002377,GAWFCO,370 Sebastopol Rd,Santa Rosa,CA,95407,17075426611,DA0289957,02/25/2013,ROUTINE,,,"370 Sebastopol Rd
+Santa Rosa, CA 95407
+(38.4307331895, -122.7246633156)"
+PR0001759,Glen Ellen Village Market,13751 Arnold Dr,Glen Ellen,CA,95442,17079966728,DA0329334,03/18/2014,ROUTINE,K000,1 Non-Critical Violation(s),"13751 Arnold Dr Glen
+Ellen, CA 95442
+(38.36154558, -122.5258151946)"
+PR0001759,Glen Ellen Village Market,13751 Arnold Dr,Glen Ellen,CA,95442,17079966728,DA0347382,09/30/2014,ROUTINE,K000,2 Non-Critical Violation(s),"13751 Arnold Dr Glen
+Ellen, CA 95442
+(38.36154558, -122.5258151946)"
+PR0003828,Diane Glotzer Catering,5701 State Farm Dr,Rohnert Park,CA,94928,14155319475,DA0168557,04/23/2010,ROUTINE,,,"5701 State Farm Dr
+Rohnert Park, CA 94928
+(38.3552737098, -122.7084276649)"
+PR0003828,Diane Glotzer Catering,5701 State Farm Dr,Rohnert Park,CA,94928,14155319475,DA0212753,04/14/2011,ROUTINE,,,"5701 State Farm Dr
+Rohnert Park, CA 94928
+(38.3552737098, -122.7084276649)"
+PR0003828,Diane Glotzer Catering,5701 State Farm Dr,Rohnert Park,CA,94928,14155319475,DA0238649,11/16/2011,ROUTINE,,,"5701 State Farm Dr
+Rohnert Park, CA 94928
+(38.3552737098, -122.7084276649)"
+PR0003828,Diane Glotzer Catering,5701 State Farm Dr,Rohnert Park,CA,94928,14155319475,DA0292060,03/13/2013,ROUTINE,K000,1 Non-Critical Violation(s),"5701 State Farm Dr
+Rohnert Park, CA 94928
+(38.3552737098, -122.7084276649)"
+PR0003828,Diane Glotzer Catering,5701 State Farm Dr,Rohnert Park,CA,94928,14155319475,DA0319889,11/26/2013,ROUTINE,,,"5701 State Farm Dr
+Rohnert Park, CA 94928
+(38.3552737098, -122.7084276649)"
+PR0003828,Diane Glotzer Catering,5701 State Farm Dr,Rohnert Park,CA,94928,14155319475,DAKNAZYNP,02/13/2015,ROUTINE,C36.|C.1b|C49.,"Properly used and stored equipment, utensils, and linens, Minor|Food Safety Certification available and current, Minor|Facility operating with a valid health permit, Minor","5701 State Farm Dr
+Rohnert Park, CA 94928
+(38.3552737098, -122.7084276649)"
+PR0001547,Olive Garden Restaurant #325,6430 Redwood Dr,Rohnert Park,CA,94928,,DA0218593,06/07/2011,ROUTINE,K000|K006|K007,"3 Non-Critical Violation(s)|Adequate handwashing fac supplied & accessible, Minor|Proper hot and cold holding temperatures, Minor","6430 Redwood Dr
+Rohnert Park, CA 94928
+(38.3471858441, -122.7168151236)"
+PR0001547,Olive Garden Restaurant #325,6430 Redwood Dr,Rohnert Park,CA,94928,,DA0269923,08/23/2012,ROUTINE,K000,2 Non-Critical Violation(s),"6430 Redwood Dr
+Rohnert Park, CA 94928
+(38.3471858441, -122.7168151236)"
+PR0001547,Olive Garden Restaurant #325,6430 Redwood Dr,Rohnert Park,CA,94928,,DA0290105,02/21/2013,FOLLOW-UP,,,"6430 Redwood Dr
+Rohnert Park, CA 94928
+(38.3471858441, -122.7168151236)"
+PR0001547,Olive Garden Restaurant #325,6430 Redwood Dr,Rohnert Park,CA,94928,,DA0308428,08/07/2013,ROUTINE,K000,3 Non-Critical Violation(s),"6430 Redwood Dr
+Rohnert Park, CA 94928
+(38.3471858441, -122.7168151236)"
+PR0001547,Olive Garden Restaurant #325,6430 Redwood Dr,Rohnert Park,CA,94928,,DA0328899,03/10/2014,ROUTINE,K000,1 Non-Critical Violation(s),"6430 Redwood Dr
+Rohnert Park, CA 94928
+(38.3471858441, -122.7168151236)"
+PR0001547,Olive Garden Restaurant #325,6430 Redwood Dr,Rohnert Park,CA,94928,,DAK34ZUM9,03/16/2016,FOLLOW-UP,C35.|C42.|C38.,"Equipment and utensils approved and in good repair, Minor|Garbage and refuse properly disposed, Minor|Approved and sufficient ventilation and lighting, Minor","6430 Redwood Dr
+Rohnert Park, CA 94928
+(38.3471858441, -122.7168151236)"
+PR0000550,Sky Lounge Restaurant,2200 Airport Blvd #143,Santa Rosa,CA,95403,17075429400,DA0274208,10/04/2012,ROUTINE,,,"2200 Airport Blvd
+Santa Rosa, CA 95403
+(-1.0, -1.0)"
+PR0000550,Sky Lounge Restaurant,2200 Airport Blvd #143,Santa Rosa,CA,95403,17075429400,DA0317435,10/31/2013,ROUTINE,,,"2200 Airport Blvd
+Santa Rosa, CA 95403
+(-1.0, -1.0)"
+PR0000550,Sky Lounge Restaurant,2200 Airport Blvd #143,Santa Rosa,CA,95403,17075429400,DA0378217,10/15/2014,ROUTINE,K000,1 Non-Critical Violation(s),"2200 Airport Blvd
+Santa Rosa, CA 95403
+(-1.0, -1.0)"
+PR0004757,AFC Sushi @ Olivers Market #3,461 Stony Point Rd,Santa Rosa,CA,95401,17072843530,DA0232829,09/28/2011,ROUTINE,,,"461 Stony Point Rd
+Santa Rosa, CA 95401
+(38.4333560766, -122.7424005984)"
+PR0002894,AJs Mini Mart,21079 Geyserville Ave #1,Geyserville,CA,95441,17078571979,DA0273429,09/28/2012,ROUTINE,K000,4 Non-Critical Violation(s),"21079 Geyserville Ave
+Geyserville, CA 95441
+(-1.0, -1.0)"
+PR0004227,Subway,980 S Gravenstein Hwy,Sebastopol,CA,95472,17072460786,DA0237795,11/04/2011,ROUTINE,K001|K007,"Demonstration of knowledge; food manager certifica, Minor|Proper hot and cold holding temperatures, Major","980 S Gravenstein Hwy
+Sebastopol, CA 95472
+(38.4105718263, -122.8413250495)"
+PR0004227,Subway,980 S Gravenstein Hwy,Sebastopol,CA,95472,17072460786,DA0256971,05/01/2012,ROUTINE,K007|K000,"Proper hot and cold holding temperatures, Minor|1 Non-Critical Violation(s)","980 S Gravenstein Hwy
+Sebastopol, CA 95472
+(38.4105718263, -122.8413250495)"
+PR0000991,Johnny Garlics,1460 Farmers Ln,Santa Rosa,CA,95405,17075711800,DA7OK7QZC,10/16/2015,ROUTINE,C35.|C14a|C23.|C40.|C13.|C.7.,"Equipment and utensils approved and in good repair, Minor|Food contact surfaces: clean and sanitized as required, Minor|No rodents, insects, birds, or animals inside the facility, Minor|Proper use/storage of wiping cloths, Minor|Food free from contamination and adulteration, Minor|Proper hot and cold holding temperatures, Minor","1460 Farmers Ln
+Santa Rosa, CA 95405
+(38.434160075, -122.6878363889)"
+PR0000550,Sky Lounge Restaurant,2200 Airport Blvd #143,Santa Rosa,CA,95403,17075429400,DAHVEAQU6,05/19/2015,ROUTINE,C45.|C35.,"Floors, walls, and ceilings are maintained and kept clean, Minor|Equipment and utensils approved and in good repair, Minor","2200 Airport Blvd
+Santa Rosa, CA 95403
+(-1.0, -1.0)"
+PR0004636,True North Health,1551 Pacific Ave #6,Santa Rosa,CA,95404,,DA0263683,05/17/2012,ROUTINE,K000,1 Non-Critical Violation(s),"1551 Pacific Ave
+Santa Rosa, CA 95404
+(-1.0, -1.0)"
+PR0001106,Colibri Grill Cafe,4233 Montgomery Dr,Santa Rosa,CA,95405,17075382726,DA0277642,11/02/2012,ROUTINE,,,"4233 Montgomery Dr
+Santa Rosa, CA 95405
+(38.4556025134, -122.6720750992)"
+PR0001106,Colibri Grill Cafe,4233 Montgomery Dr,Santa Rosa,CA,95405,17075382726,DA0295530,04/17/2013,ROUTINE,K000,2 Non-Critical Violation(s),"4233 Montgomery Dr
+Santa Rosa, CA 95405
+(38.4556025134, -122.6720750992)"
+PR0001106,Colibri Grill Cafe,4233 Montgomery Dr,Santa Rosa,CA,95405,17075382726,DA2FI01L9,10/06/2015,ROUTINE,C35.|C27.,"Equipment and utensils approved and in good repair, Minor|Food protected from contamination during storage, Minor","4233 Montgomery Dr
+Santa Rosa, CA 95405
+(38.4556025134, -122.6720750992)"
+PR0001106,Colibri Grill Cafe,4233 Montgomery Dr,Santa Rosa,CA,95405,17075382726,DAAGUOCCP,05/10/2016,ROUTINE,C29.|C.6.|C14a,"Toxic substances properly identified, stored, and applied, Minor|Adequate handwashing facilities supplied and accessible, Minor|Food contact surfaces: clean and sanitized as required, Minor","4233 Montgomery Dr
+Santa Rosa, CA 95405
+(38.4556025134, -122.6720750992)"
+PR0000289,G & G Supermarket,1211 W College Ave,Santa Rosa,CA,95401,,DA0133439,07/10/2009,ROUTINE,K007|K007|K014|K013|K000,"Proper hot and cold holding temperatures, Major|Proper hot and cold holding temperatures, Minor|Food contact surfaces: clean and sanitized, Major|Food in good condition, safe and unadulterated, Major|5 Non-Critical Violation(s)","1211 W College Ave
+Santa Rosa, CA 95401
+(38.4453683203, -122.7418910803)"
+PR0004757,AFC Sushi @ Olivers Market #3,461 Stony Point Rd,Santa Rosa,CA,95401,17072843530,DA0251144,03/19/2012,ROUTINE,,,"461 Stony Point Rd
+Santa Rosa, CA 95401
+(38.4333560766, -122.7424005984)"
+PR0003601,Applebees Neighborhood Grill & Bar,501 Rohnert Park Expy #70,Rohnert Park,CA,94928,17072060660,DA0172605,06/02/2010,FOLLOW-UP,K000,1 Non-Critical Violation(s),"501 Rohnert Park Expy
+Rohnert Park, CA 94928
+(-1.0, -1.0)"
+PR0004227,Subway,980 S Gravenstein Hwy,Sebastopol,CA,95472,17072460786,DA0276101,10/18/2012,ROUTINE,K000,1 Non-Critical Violation(s),"980 S Gravenstein Hwy
+Sebastopol, CA 95472
+(38.4105718263, -122.8413250495)"
+PR0004227,Subway,980 S Gravenstein Hwy,Sebastopol,CA,95472,17072460786,DA0296777,04/24/2013,ROUTINE,K014,"Food contact surfaces: clean and sanitized, Major","980 S Gravenstein Hwy
+Sebastopol, CA 95472
+(38.4105718263, -122.8413250495)"
+PR0001812,Taco Bell #15389,860 N Highway 116,Sebastopol,CA,95472,17078241500,DA0273890,10/03/2012,ROUTINE,,,"860 N Highway
+Sebastopol, CA 95472
+(38.401742117, -122.8252481229)"
+PR0001812,Taco Bell #15389,860 N Highway 116,Sebastopol,CA,95472,17078241500,DA0296783,04/17/2013,ROUTINE,,,"860 N Highway
+Sebastopol, CA 95472
+(38.401742117, -122.8252481229)"
+PR0001812,Taco Bell #15389,860 N Highway 116,Sebastopol,CA,95472,17078241500,DA0317670,10/31/2013,ROUTINE,K000|K007,"3 Non-Critical Violation(s)|Proper hot and cold holding temperatures, Minor","860 N Highway
+Sebastopol, CA 95472
+(38.401742117, -122.8252481229)"
+PR0001812,Taco Bell #15389,860 N Highway 116,Sebastopol,CA,95472,17078241500,DA0318289,11/07/2013,FOLLOW-UP,K007,"Proper hot and cold holding temperatures, Minor","860 N Highway
+Sebastopol, CA 95472
+(38.401742117, -122.8252481229)"
+PR0001812,Taco Bell #15389,860 N Highway 116,Sebastopol,CA,95472,17078241500,DA0318661,11/13/2013,FOLLOW-UP,,,"860 N Highway
+Sebastopol, CA 95472
+(38.401742117, -122.8252481229)"
+PR0001812,Taco Bell #15389,860 N Highway 116,Sebastopol,CA,95472,17078241500,DA0326426,02/11/2014,ROUTINE,,,"860 N Highway
+Sebastopol, CA 95472
+(38.401742117, -122.8252481229)"
+PR0001812,Taco Bell #15389,860 N Highway 116,Sebastopol,CA,95472,17078241500,DACWGUD81,12/02/2015,ROUTINE,C21.,"Hot and cold potable water available, Minor","860 N Highway
+Sebastopol, CA 95472
+(38.401742117, -122.8252481229)"
+PR0000289,G & G Supermarket,1211 W College Ave,Santa Rosa,CA,95401,,DA0158667,02/05/2010,ROUTINE,K007|K007|K000,"Proper hot and cold holding temperatures, Major|Proper hot and cold holding temperatures, Minor|7 Non-Critical Violation(s)","1211 W College Ave
+Santa Rosa, CA 95401
+(38.4453683203, -122.7418910803)"
+PR0000289,G & G Supermarket,1211 W College Ave,Santa Rosa,CA,95401,,DA0186247,09/09/2010,ROUTINE,K007|K006|K000,"Proper hot and cold holding temperatures, Minor|Adequate handwashing fac supplied & accessible, Minor|4 Non-Critical Violation(s)","1211 W College Ave
+Santa Rosa, CA 95401
+(38.4453683203, -122.7418910803)"
+PR0000289,G & G Supermarket,1211 W College Ave,Santa Rosa,CA,95401,,DA0209867,03/18/2011,ROUTINE,K007|K007|K000,"Proper hot and cold holding temperatures, Minor|Proper hot and cold holding temperatures, Major|6 Non-Critical Violation(s)","1211 W College Ave
+Santa Rosa, CA 95401
+(38.4453683203, -122.7418910803)"
+PR0000289,G & G Supermarket,1211 W College Ave,Santa Rosa,CA,95401,,DA0232880,10/04/2011,ROUTINE,K006|K000|K006,"Adequate handwashing fac supplied & accessible, Minor|7 Non-Critical Violation(s)|Adequate handwashing fac supplied & accessible, Minor","1211 W College Ave
+Santa Rosa, CA 95401
+(38.4453683203, -122.7418910803)"
+PR0000289,G & G Supermarket,1211 W College Ave,Santa Rosa,CA,95401,,DA0255036,04/25/2012,ROUTINE,K000|K007|K006|K016,"7 Non-Critical Violation(s)|Proper hot and cold holding temperatures, Minor|Adequate handwashing fac supplied & accessible, Minor|Compliance with shell stock tags, condition, displ, Minor","1211 W College Ave
+Santa Rosa, CA 95401
+(38.4453683203, -122.7418910803)"
+PR0003709,AFC Sushi @ Raleys #313,1407 Fulton Rd,Santa Rosa,CA,95403,13106043200,DA0342682,08/12/2014,ROUTINE,,,"1407 Fulton Rd
+Santa Rosa, CA 95403
+(38.4537355002, -122.7697086409)"
+PR0003601,Applebees Neighborhood Grill & Bar,501 Rohnert Park Expy #70,Rohnert Park,CA,94928,17072060660,DA0239496,12/05/2011,ROUTINE,K000,5 Non-Critical Violation(s),"501 Rohnert Park Expy
+Rohnert Park, CA 94928
+(-1.0, -1.0)"
+PR0004227,Subway,980 S Gravenstein Hwy,Sebastopol,CA,95472,17072460786,DA0319328,11/20/2013,ROUTINE,K006,"Adequate handwashing fac supplied & accessible, Minor","980 S Gravenstein Hwy
+Sebastopol, CA 95472
+(38.4105718263, -122.8413250495)"
+PR0004227,Subway,980 S Gravenstein Hwy,Sebastopol,CA,95472,17072460786,DA0381770,11/04/2014,ROUTINE,K006|K007,"Adequate handwashing fac supplied & accessible, Minor|Proper hot and cold holding temperatures, Minor","980 S Gravenstein Hwy
+Sebastopol, CA 95472
+(38.4105718263, -122.8413250495)"
+PR0002434,G & G Supermarket,701 Sonoma Mountain PKY,Petaluma,CA,94952,17077651198,DA0332451,04/22/2014,ROUTINE,,,"701 Sonoma Mountain PKY
+Petaluma, CA 94952
+(38.2683859001, -122.6398450032)"
+PR0000289,G & G Supermarket,1211 W College Ave,Santa Rosa,CA,95401,,DA0276389,10/24/2012,ROUTINE,K006|K016|K000,"Adequate handwashing fac supplied & accessible, Minor|Compliance with shell stock tags, condition, displ, Minor|6 Non-Critical Violation(s)","1211 W College Ave
+Santa Rosa, CA 95401
+(38.4453683203, -122.7418910803)"
+PR0000289,G & G Supermarket,1211 W College Ave,Santa Rosa,CA,95401,,DA0295958,04/22/2013,ROUTINE,K006|K007|K006|K006|K000,"Adequate handwashing fac supplied & accessible, Minor|Proper hot and cold holding temperatures, Minor|Adequate handwashing fac supplied & accessible, Minor|Adequate handwashing fac supplied & accessible, Minor|6 Non-Critical Violation(s)","1211 W College Ave
+Santa Rosa, CA 95401
+(38.4453683203, -122.7418910803)"
+PR0000289,G & G Supermarket,1211 W College Ave,Santa Rosa,CA,95401,,DA0330544,04/01/2014,ROUTINE,K006|K000,"Adequate handwashing fac supplied & accessible, Minor|7 Non-Critical Violation(s)","1211 W College Ave
+Santa Rosa, CA 95401
+(38.4453683203, -122.7418910803)"
+PR0000289,G & G Supermarket,1211 W College Ave,Santa Rosa,CA,95401,,DAJKOOAO2,05/28/2015,ROUTINE,C33.|C45.|C11.|C35.|C29.|C13.,"Nonfood contact surfaces clean, Minor|Floors, walls, and ceilings are maintained and kept clean, Minor|Proper reheating procedures for hot holding, Major|Equipment and utensils approved and in good repair, Minor|Toxic substances properly identified, stored, and applied, Minor|Food free from contamination and adulteration, Minor","1211 W College Ave
+Santa Rosa, CA 95401
+(38.4453683203, -122.7418910803)"
+PR0002842,El Charro Mexican Restaurant,1529 Farmers Ln,Santa Rosa,CA,95405,17075702387,DA0281572,12/07/2012,ROUTINE,,,"1529 Farmers Ln
+Santa Rosa, CA 95405
+(38.4336959529, -122.6884758339)"
+PR0002842,El Charro Mexican Restaurant,1529 Farmers Ln,Santa Rosa,CA,95405,17075702387,DARKK2WPN,01/13/2016,ROUTINE,C27.|C.6.|C14a|C.1c,"Food protected from contamination during storage, Minor|Adequate handwashing facilities supplied and accessible, Minor|Food contact surfaces: clean and sanitized as required, Minor|Food Handler cards available and current, Minor","1529 Farmers Ln
+Santa Rosa, CA 95405
+(38.4336959529, -122.6884758339)"
+PR0001052,Red Boy Pizza #7,1420 S McDowell Blvd Ste A,Petaluma,CA,94954,,DA0272113,09/13/2012,ROUTINE,,,"1420 S McDowell Blvd
+Ste A Petaluma, CA 94954
+(38.235635746, -122.601803571)"
+PR0001052,Red Boy Pizza #7,1420 S McDowell Blvd Ste A,Petaluma,CA,94954,,DA0289171,02/19/2013,ROUTINE,,,"1420 S McDowell Blvd
+Ste A Petaluma, CA 94954
+(38.235635746, -122.601803571)"
+PR0001052,Red Boy Pizza #7,1420 S McDowell Blvd Ste A,Petaluma,CA,94954,,DA0308062,08/02/2013,ROUTINE,,,"1420 S McDowell Blvd
+Ste A Petaluma, CA 94954
+(38.235635746, -122.601803571)"
+PR0004757,AFC Sushi @ Olivers Market #3,461 Stony Point Rd,Santa Rosa,CA,95401,17072843530,DA0271569,09/13/2012,ROUTINE,,,"461 Stony Point Rd
+Santa Rosa, CA 95401
+(38.4333560766, -122.7424005984)"
+PR0003601,Applebees Neighborhood Grill & Bar,501 Rohnert Park Expy #70,Rohnert Park,CA,94928,17072060660,DA0282701,12/17/2012,ROUTINE,K000,4 Non-Critical Violation(s),"501 Rohnert Park Expy
+Rohnert Park, CA 94928
+(-1.0, -1.0)"
+PR0002840,Subway Sandwich Shop,5306 Old Redwood Hwy #B,Petaluma,CA,95452,17072460786,DA0338686,07/01/2014,ROUTINE,,,"5306 Old Redwood Hwy
+B Petaluma, CA 95452
+(-1.0, -1.0)"
+PR0002840,Subway Sandwich Shop,5306 Old Redwood Hwy #B,Petaluma,CA,95452,17072460786,DA0432957,12/19/2014,ROUTINE,,,"5306 Old Redwood Hwy
+B Petaluma, CA 95452
+(-1.0, -1.0)"
+PR0000344,Perrys Delicatessen,1220 Mendocino Ave,Santa Rosa,CA,95401,17075282704,DA0203339,02/01/2011,ROUTINE,K000|K001,"3 Non-Critical Violation(s)|Demonstration of knowledge; food manager certifica, Minor","1220 Mendocino Ave
+Santa Rosa, CA 95401
+(38.4518395351, -122.7174742287)"
+PR0001052,Red Boy Pizza #7,1420 S McDowell Blvd Ste A,Petaluma,CA,94954,,DA0342887,08/08/2014,ROUTINE,,,"1420 S McDowell Blvd
+Ste A Petaluma, CA 94954
+(38.235635746, -122.601803571)"
+PR0002637,Cold Stone Creamery,301 S McDowell Blvd #C,Petaluma,CA,94952,17077621824,DA0304637,07/05/2013,ROUTINE,,,"301 S McDowell Blvd
+C Petaluma, CA 94952
+(-1.0, -1.0)"
+PR0003510,Cold Stone Creamery,2280 Mendocino Ave #B-4,Santa Rosa,CA,95404,17075711888,DA0138145,08/12/2009,ROUTINE,K005|K007|K022|K000,"Hands clean and properly washed; gloves used prope, Major|Proper hot and cold holding temperatures, Minor|Sewage and wastewater properly disposed, Minor|2 Non-Critical Violation(s)","2280 Mendocino Ave
+Santa Rosa, CA 95404
+(-1.0, -1.0)"
+PR0003510,Cold Stone Creamery,2280 Mendocino Ave #B-4,Santa Rosa,CA,95404,17075711888,DA0161589,02/26/2010,ROUTINE,K007|K000,"Proper hot and cold holding temperatures, Minor|2 Non-Critical Violation(s)","2280 Mendocino Ave
+Santa Rosa, CA 95404
+(-1.0, -1.0)"
+PR0003510,Cold Stone Creamery,2280 Mendocino Ave #B-4,Santa Rosa,CA,95404,17075711888,DA0183327,08/18/2010,ROUTINE,K000,2 Non-Critical Violation(s),"2280 Mendocino Ave
+Santa Rosa, CA 95404
+(-1.0, -1.0)"
+PR0003510,Cold Stone Creamery,2280 Mendocino Ave #B-4,Santa Rosa,CA,95404,17075711888,DA0292632,03/19/2013,ROUTINE,K023|K000,"No rodents, insects, birds, or animals, Minor|2 Non-Critical Violation(s)","2280 Mendocino Ave
+Santa Rosa, CA 95404
+(-1.0, -1.0)"
+PR0003510,Cold Stone Creamery,2280 Mendocino Ave #B-4,Santa Rosa,CA,95404,17075711888,DA0313107,09/18/2013,ROUTINE,K000,1 Non-Critical Violation(s),"2280 Mendocino Ave
+Santa Rosa, CA 95404
+(-1.0, -1.0)"
+PR0003510,Cold Stone Creamery,2280 Mendocino Ave #B-4,Santa Rosa,CA,95404,17075711888,DA0328953,03/12/2014,ROUTINE,K006|K000,"Adequate handwashing fac supplied & accessible, Minor|5 Non-Critical Violation(s)","2280 Mendocino Ave
+Santa Rosa, CA 95404
+(-1.0, -1.0)"
+PR0003510,Cold Stone Creamery,2280 Mendocino Ave #B-4,Santa Rosa,CA,95404,17075711888,DA0347246,09/29/2014,ROUTINE,K001|K000,"Demonstration of knowledge; food manager certifica, Minor|3 Non-Critical Violation(s)","2280 Mendocino Ave
+Santa Rosa, CA 95404
+(-1.0, -1.0)"
+PR0003105,Cold Stone Creamery #558,441 Rohnert Park Expy,Rohnert Park,CA,94928,17075841877,DA0288206,02/06/2013,ROUTINE,,,"441 Rohnert Park Expy
+Rohnert Park, CA 94928
+(38.3488041642, -122.7200760735)"
+PR0004757,AFC Sushi @ Olivers Market #3,461 Stony Point Rd,Santa Rosa,CA,95401,17072843530,DA0292186,03/14/2013,ROUTINE,K000,1 Non-Critical Violation(s),"461 Stony Point Rd
+Santa Rosa, CA 95401
+(38.4333560766, -122.7424005984)"
+PR0000431,Kawana School,2121 Moraga Dr,Santa Rosa,CA,95404,17075454283,DA0186393,09/15/2010,ROUTINE,K000,2 Non-Critical Violation(s),"2121 Moraga Dr
+Santa Rosa, CA 95404
+(38.4212902397, -122.7000839924)"
+PR0002840,Subway Sandwich Shop,5306 Old Redwood Hwy #B,Petaluma,CA,95452,17072460786,DATTYR9TU,06/19/2015,ROUTINE,,,"5306 Old Redwood Hwy
+B Petaluma, CA 95452
+(-1.0, -1.0)"
+PR0002840,Subway Sandwich Shop,5306 Old Redwood Hwy #B,Petaluma,CA,95452,17072460786,DADA4DBQR,01/21/2016,ROUTINE,C.1b,"Food Safety Certification available and current, Minor","5306 Old Redwood Hwy
+B Petaluma, CA 95452
+(-1.0, -1.0)"
+PR0003105,Cold Stone Creamery #558,441 Rohnert Park Expy,Rohnert Park,CA,94928,17075841877,DA0309552,08/16/2013,ROUTINE,K000,3 Non-Critical Violation(s),"441 Rohnert Park Expy
+Rohnert Park, CA 94928
+(38.3488041642, -122.7200760735)"
+PR0003105,Cold Stone Creamery #558,441 Rohnert Park Expy,Rohnert Park,CA,94928,17075841877,DA0326116,02/06/2014,ROUTINE,,,"441 Rohnert Park Expy
+Rohnert Park, CA 94928
+(38.3488041642, -122.7200760735)"
+PR0003105,Cold Stone Creamery #558,441 Rohnert Park Expy,Rohnert Park,CA,94928,17075841877,DA0344670,08/28/2014,ROUTINE,K000,2 Non-Critical Violation(s),"441 Rohnert Park Expy
+Rohnert Park, CA 94928
+(38.3488041642, -122.7200760735)"
+PR0003105,Cold Stone Creamery #558,441 Rohnert Park Expy,Rohnert Park,CA,94928,17075841877,DAW4BQ4XH,02/11/2015,ROUTINE,C40.,"Proper use/storage of wiping cloths, Minor","441 Rohnert Park Expy
+Rohnert Park, CA 94928
+(38.3488041642, -122.7200760735)"
+PR0003658,Patterson Pub & Grill,9057 Windsor Rd,Windsor,CA,95492,17078379577,DA0211710,03/31/2011,FOLLOW-UP,K000,1 Non-Critical Violation(s),"9057 Windsor Rd
+Windsor, CA 95492
+(38.5484368015, -122.8168269036)"
+PR0003658,Patterson Pub & Grill,9057 Windsor Rd,Windsor,CA,95492,17078379577,DA0233105,10/04/2011,ROUTINE,,,"9057 Windsor Rd
+Windsor, CA 95492
+(38.5484368015, -122.8168269036)"
+PR0003658,Patterson Pub & Grill,9057 Windsor Rd,Windsor,CA,95492,17078379577,DA0253568,04/11/2012,ROUTINE,,,"9057 Windsor Rd
+Windsor, CA 95492
+(38.5484368015, -122.8168269036)"
+PR0003658,Patterson Pub & Grill,9057 Windsor Rd,Windsor,CA,95492,17078379577,DA0295625,04/17/2013,ROUTINE,K006|K000,"Adequate handwashing fac supplied & accessible, Minor|2 Non-Critical Violation(s)","9057 Windsor Rd
+Windsor, CA 95492
+(38.5484368015, -122.8168269036)"
+PR0003658,Patterson Pub & Grill,9057 Windsor Rd,Windsor,CA,95492,17078379577,DA0315629,10/09/2013,ROUTINE,K000|K007,"1 Non-Critical Violation(s)|Proper hot and cold holding temperatures, Minor","9057 Windsor Rd
+Windsor, CA 95492
+(38.5484368015, -122.8168269036)"
+PR0003658,Patterson Pub & Grill,9057 Windsor Rd,Windsor,CA,95492,17078379577,DA0332441,04/22/2014,ROUTINE,K000,1 Non-Critical Violation(s),"9057 Windsor Rd
+Windsor, CA 95492
+(38.5484368015, -122.8168269036)"
+PR0003658,Patterson Pub & Grill,9057 Windsor Rd,Windsor,CA,95492,17078379577,DAOLIZAGM,05/29/2015,ROUTINE,C27.,"Food protected from contamination during storage, Minor","9057 Windsor Rd
+Windsor, CA 95492
+(38.5484368015, -122.8168269036)"
+PR0000621,Gravenstein School,3840 Twig Ave,Sebastopol,CA,95472,,DA0347338,09/24/2014,ROUTINE,,,"3840 Twig Ave
+Sebastopol, CA 95472
+(38.3615271439, -122.784644193)"
+PR0000621,Gravenstein School,3840 Twig Ave,Sebastopol,CA,95472,,DAD8DFHCS,03/05/2015,ROUTINE,,,"3840 Twig Ave
+Sebastopol, CA 95472
+(38.3615271439, -122.784644193)"
+PR0000390,7-Eleven #14137,430 Washington St,Petaluma,CA,94952,,DA0393,,,,,
+PR0000356,Oakmont Village Market,6550 Oakmont Dr,Santa Rosa,CA,95409,17075392434,DA0201910,01/06/2011,ROUTINE,,,"6550 Oakmont Dr
+Santa Rosa, CA 95409
+(38.4428258694, -122.605917856)"
+PR0002179,Meadow View Elementary School,2665 Dutton Meadow Ave,Santa Rosa,CA,95407,,DA0314423,09/30/2013,ROUTINE,K003,"No discharge from eyes, nose, and mouth, Minor","2665 Dutton Meadow Ave
+Santa Rosa, CA 95407
+(38.4121098379, -122.7293417076)"
+PR0003307,Subway,6585 Commerce Blvd #E,Rohnert Park,CA,94928,17072460786,DA0311456,09/06/2013,ROUTINE,,,"6585 Commerce Blvd E
+Rohnert Park, CA 94928
+(-1.0, -1.0)"
+PR0003307,Subway,6585 Commerce Blvd #E,Rohnert Park,CA,94928,17072460786,DA0330529,03/31/2014,ROUTINE,K000,2 Non-Critical Violation(s),"6585 Commerce Blvd E
+Rohnert Park, CA 94928
+(-1.0, -1.0)"
+PR0000621,Gravenstein School,3840 Twig Ave,Sebastopol,CA,95472,,DACZMAK2U,09/10/2015,ROUTINE,C.7.,"Proper hot and cold holding temperatures, Minor","3840 Twig Ave
+Sebastopol, CA 95472
+(38.3615271439, -122.784644193)"
+PR0000621,Gravenstein School,3840 Twig Ave,Sebastopol,CA,95472,,DA57OG9VD,01/19/2016,ROUTINE,C34.|C45.|C14b,"Warewashing facilities maintained; test strips available, Minor|Floors, walls, and ceilings are maintained and kept clean, Minor|Proper warewashing and sanitizing procedures, Major","3840 Twig Ave
+Sebastopol, CA 95472
+(38.3615271439, -122.784644193)"
+PR0001836,Hillcrest School,725 Bloomfield Rd,Sebastopol,CA,95472,,DA0210630,03/28/2011,ROUTINE,,,"725 Bloomfield Rd
+Sebastopol, CA 95472
+(38.3695124563, -122.8069857853)"
+PR0001836,Hillcrest School,725 Bloomfield Rd,Sebastopol,CA,95472,,DA0249298,03/01/2012,ROUTINE,K000,1 Non-Critical Violation(s),"725 Bloomfield Rd
+Sebastopol, CA 95472
+(38.3695124563, -122.8069857853)"
+PR0001836,Hillcrest School,725 Bloomfield Rd,Sebastopol,CA,95472,,DA0320630,12/03/2013,ROUTINE,,,"725 Bloomfield Rd
+Sebastopol, CA 95472
+(38.3695124563, -122.8069857853)"
+PR0001836,Hillcrest School,725 Bloomfield Rd,Sebastopol,CA,95472,,DA0330622,04/01/2014,ROUTINE,,,"725 Bloomfield Rd
+Sebastopol, CA 95472
+(38.3695124563, -122.8069857853)"
+PR0001836,Hillcrest School,725 Bloomfield Rd,Sebastopol,CA,95472,,DA0379568,10/14/2014,ROUTINE,K001|K000,"Demonstration of knowledge; food manager certifica, Minor|1 Non-Critical Violation(s)","725 Bloomfield Rd
+Sebastopol, CA 95472
+(38.3695124563, -122.8069857853)"
+PR0001836,Hillcrest School,725 Bloomfield Rd,Sebastopol,CA,95472,,DADRHXI7M,03/04/2015,ROUTINE,C21.,"Hot and cold potable water available, Minor","725 Bloomfield Rd
+Sebastopol, CA 95472
+(38.3695124563, -122.8069857853)"
+PR0001836,Hillcrest School,725 Bloomfield Rd,Sebastopol,CA,95472,,DASNIX4OW,03/10/2016,ROUTINE,C21.,"Hot and cold potable water available, Minor","725 Bloomfield Rd
+Sebastopol, CA 95472
+(38.3695124563, -122.8069857853)"
+PR0001836,Hillcrest School,725 Bloomfield Rd,Sebastopol,CA,95472,,DA5Z13FHR,03/14/2016,FOLLOW-UP,,,"725 Bloomfield Rd
+Sebastopol, CA 95472
+(38.3695124563, -122.8069857853)"
+PR0001875,Underwood Bar & Bistro,9113 Graton Rd,Graton,CA,95444,17078237023,DA0270875,09/06/2012,ROUTINE,K007,"Proper hot and cold holding temperatures, Minor","9113 Graton Rd
+Graton, CA 95444
+(38.4362462054, -122.8700331179)"
+PR0001875,Underwood Bar & Bistro,9113 Graton Rd,Graton,CA,95444,17078237023,DA0292661,03/19/2013,ROUTINE,,,"9113 Graton Rd
+Graton, CA 95444
+(38.4362462054, -122.8700331179)"
+PR0001875,Underwood Bar & Bistro,9113 Graton Rd,Graton,CA,95444,17078237023,DA0330711,04/02/2014,ROUTINE,,,"9113 Graton Rd
+Graton, CA 95444
+(38.4362462054, -122.8700331179)"
+PR0001875,Underwood Bar & Bistro,9113 Graton Rd,Graton,CA,95444,17078237023,DA0381135,10/30/2014,ROUTINE,,,"9113 Graton Rd
+Graton, CA 95444
+(38.4362462054, -122.8700331179)"
+PR0004757,AFC Sushi @ Olivers Market #3,461 Stony Point Rd,Santa Rosa,CA,95401,17072843530,DA0314258,09/26/2013,ROUTINE,,,"461 Stony Point Rd
+Santa Rosa, CA 95401
+(38.4333560766, -122.7424005984)"
+PR0016710,Taylor Mountain Elementary School,1210 E Bellevue Ave,Santa Rosa,CA,95407,17075423671,DALYGU4XE,05/15/2015,ROUTINE,C42.,"Garbage and refuse properly disposed, Minor","1210 E Bellevue Ave
+Santa Rosa, CA 95407
+(38.4016634236, -122.7088505522)"
+PR0003307,Subway,6585 Commerce Blvd #E,Rohnert Park,CA,94928,17072460786,DAG8RZLRG,01/09/2015,ROUTINE,C.6.,"Adequate handwashing facilities supplied and accessible, Minor","6585 Commerce Blvd E
+Rohnert Park, CA 94928
+(-1.0, -1.0)"
+PR0003307,Subway,6585 Commerce Blvd #E,Rohnert Park,CA,94928,17072460786,DAUAOESTX,10/14/2015,ROUTINE,C.1b|C.6.,"Food Safety Certification available and current, Minor|Adequate handwashing facilities supplied and accessible, Major","6585 Commerce Blvd E
+Rohnert Park, CA 94928
+(-1.0, -1.0)"
+PR0001946,Willow Wood Market,9020 Graton Rd,Graton,CA,95444,17078230233,DA0313939,09/25/2013,ROUTINE,K000,1 Non-Critical Violation(s),"9020 Graton Rd
+Graton, CA 95444
+(38.4363678477, -122.8688517955)"
+PR0001375,Pacific Connection,1800 Empire Industrial Ct #C,Santa Rosa,CA,95403,17075730757,DA0268083,08/14/2012,ROUTINE,K000,2 Non-Critical Violation(s),"1800 Empire Industrial Ct
+C Santa Rosa, CA 95403
+(-1.0, -1.0)"
+PR0001375,Pacific Connection,1800 Empire Industrial Ct #C,Santa Rosa,CA,95403,17075730757,DA0290930,03/06/2013,ROUTINE,K000,2 Non-Critical Violation(s),"1800 Empire Industrial Ct
+C Santa Rosa, CA 95403
+(-1.0, -1.0)"
+PR0001375,Pacific Connection,1800 Empire Industrial Ct #C,Santa Rosa,CA,95403,17075730757,DA0312805,09/17/2013,ROUTINE,K000,2 Non-Critical Violation(s),"1800 Empire Industrial Ct
+C Santa Rosa, CA 95403
+(-1.0, -1.0)"
+PR0001375,Pacific Connection,1800 Empire Industrial Ct #C,Santa Rosa,CA,95403,17075730757,DA0329578,03/20/2014,ROUTINE,K006|K000,"Adequate handwashing fac supplied & accessible, Minor|1 Non-Critical Violation(s)","1800 Empire Industrial Ct
+C Santa Rosa, CA 95403
+(-1.0, -1.0)"
+PR0001375,Pacific Connection,1800 Empire Industrial Ct #C,Santa Rosa,CA,95403,17075730757,DA0346087,09/16/2014,ROUTINE,K000,2 Non-Critical Violation(s),"1800 Empire Industrial Ct
+C Santa Rosa, CA 95403
+(-1.0, -1.0)"
+PR0001375,Pacific Connection,1800 Empire Industrial Ct #C,Santa Rosa,CA,95403,17075730757,DAYBTX0PQ,10/14/2015,ROUTINE,C.7.,"Proper hot and cold holding temperatures, Minor","1800 Empire Industrial Ct
+C Santa Rosa, CA 95403
+(-1.0, -1.0)"
+PR0001576,Rocker Oysterfellers,14415 Highway 1,Valley Ford,CA,94972,17078761983,DA0226620,07/28/2011,ROUTINE,,,"14415 Highway 1 Valley Ford
+CA 94972
+(38.3180011538, -122.9244495211)"
+PR0001576,Rocker Oysterfellers,14415 Highway 1,Valley Ford,CA,94972,17078761983,DA0244923,01/26/2012,ROUTINE,,,"14415 Highway 1 Valley Ford
+CA 94972
+(38.3180011538, -122.9244495211)"
+PR0001576,Rocker Oysterfellers,14415 Highway 1,Valley Ford,CA,94972,17078761983,DA0286782,01/25/2013,ROUTINE,,,"14415 Highway 1 Valley Ford
+CA 94972
+(38.3180011538, -122.9244495211)"
+PR0001576,Rocker Oysterfellers,14415 Highway 1,Valley Ford,CA,94972,17078761983,DAT5JQZZA,04/30/2015,ROUTINE,C35.,"Equipment and utensils approved and in good repair, Minor","14415 Highway 1 Valley Ford
+CA 94972
+(38.3180011538, -122.9244495211)"
+PR0001576,Rocker Oysterfellers,14415 Highway 1,Valley Ford,CA,94972,17078761983,DADBZ9TQ3,01/13/2016,ROUTINE,C14b,"Proper warewashing and sanitizing procedures, Minor","14415 Highway 1 Valley Ford
+CA 94972
+(38.3180011538, -122.9244495211)"
+PR0000531,Guerneville Elementary School,14630 Armstrong Woods Rd,Guerneville,CA,95446,17078692864,DA0141948,09/17/2009,ROUTINE,,,"14630 Armstrong Woods Rd
+Guerneville, CA 95446
+(38.5092116465, -122.9955140697)"
+PR0001203,Los Pinos Deli & Market,3 Tarman Dr,Cloverdale,CA,95425,17078943342,DA0251692,03/23/2012,FOLLOW-UP,K000,1 Non-Critical Violation(s),"3 Tarman Dr
+Cloverdale, CA 95425
+(38.7983504796, -123.0177574192)"
+PR0004756,Subway,269 Aviation Blvd #101,Santa Rosa,CA,95403,,DA0141807,09/16/2009,ROUTINE,K001,"Demonstration of knowledge; food manager certifica, Minor","269 Aviation Blvd
+Santa Rosa, CA 95403
+(-1.0, -1.0)"
+PR0000531,Guerneville Elementary School,14630 Armstrong Woods Rd,Guerneville,CA,95446,17078692864,DA0164992,03/10/2010,ROUTINE,,,"14630 Armstrong Woods Rd
+Guerneville, CA 95446
+(38.5092116465, -122.9955140697)"
+PR0000531,Guerneville Elementary School,14630 Armstrong Woods Rd,Guerneville,CA,95446,17078692864,DA0249695,03/01/2012,ROUTINE,,,"14630 Armstrong Woods Rd
+Guerneville, CA 95446
+(38.5092116465, -122.9955140697)"
+PR0000531,Guerneville Elementary School,14630 Armstrong Woods Rd,Guerneville,CA,95446,17078692864,DA0271173,09/11/2012,ROUTINE,,,"14630 Armstrong Woods Rd
+Guerneville, CA 95446
+(38.5092116465, -122.9955140697)"
+PR0000531,Guerneville Elementary School,14630 Armstrong Woods Rd,Guerneville,CA,95446,17078692864,DA0291487,03/08/2013,ROUTINE,,,"14630 Armstrong Woods Rd
+Guerneville, CA 95446
+(38.5092116465, -122.9955140697)"
+PR0000531,Guerneville Elementary School,14630 Armstrong Woods Rd,Guerneville,CA,95446,17078692864,DA0312832,09/17/2013,ROUTINE,,,"14630 Armstrong Woods Rd
+Guerneville, CA 95446
+(38.5092116465, -122.9955140697)"
+PR0000531,Guerneville Elementary School,14630 Armstrong Woods Rd,Guerneville,CA,95446,17078692864,DA0331687,04/11/2014,ROUTINE,,,"14630 Armstrong Woods Rd
+Guerneville, CA 95446
+(38.5092116465, -122.9955140697)"
+PR0000531,Guerneville Elementary School,14630 Armstrong Woods Rd,Guerneville,CA,95446,17078692864,DA0347753,10/02/2014,ROUTINE,,,"14630 Armstrong Woods Rd
+Guerneville, CA 95446
+(38.5092116465, -122.9955140697)"
+PR0000531,Guerneville Elementary School,14630 Armstrong Woods Rd,Guerneville,CA,95446,17078692864,DA03RS83S,04/07/2015,ROUTINE,,,"14630 Armstrong Woods Rd
+Guerneville, CA 95446
+(38.5092116465, -122.9955140697)"
+PR0000531,Guerneville Elementary School,14630 Armstrong Woods Rd,Guerneville,CA,95446,17078692864,DAREXOHH3,10/06/2015,ROUTINE,,,"14630 Armstrong Woods Rd
+Guerneville, CA 95446
+(38.5092116465, -122.9955140697)"
+PR0000531,Guerneville Elementary School,14630 Armstrong Woods Rd,Guerneville,CA,95446,17078692864,DAWGB10SS,04/06/2016,ROUTINE,,,"14630 Armstrong Woods Rd
+Guerneville, CA 95446
+(38.5092116465, -122.9955140697)"
+PR0001339,Jack In The Box #581,3086 Marlow Rd,Santa Rosa,CA,95403,17075455834,DA0270056,08/29/2012,ROUTINE,,,"3086 Marlow Rd
+Santa Rosa, CA 95403
+(38.4661332985, -122.7510937915)"
+PR0001339,Jack In The Box #581,3086 Marlow Rd,Santa Rosa,CA,95403,17075455834,DA0313704,09/24/2013,ROUTINE,K000,2 Non-Critical Violation(s),"3086 Marlow Rd
+Santa Rosa, CA 95403
+(38.4661332985, -122.7510937915)"
+PR0001339,Jack In The Box #581,3086 Marlow Rd,Santa Rosa,CA,95403,17075455834,DA0329837,03/24/2014,ROUTINE,K000,3 Non-Critical Violation(s),"3086 Marlow Rd
+Santa Rosa, CA 95403
+(38.4661332985, -122.7510937915)"
+PR0001339,Jack In The Box #581,3086 Marlow Rd,Santa Rosa,CA,95403,17075455834,DA0KM0TWF,10/13/2015,ROUTINE,C33.|C41.|C.8.|C42.,"Nonfood contact surfaces clean, Minor|Plumbing maintained; proper backflow prevention, Minor|Proper use of time as a public health control, Minor|Garbage and refuse properly disposed, Minor","3086 Marlow Rd
+Santa Rosa, CA 95403
+(38.4661332985, -122.7510937915)"
+PR0001428,Pizzeria Capri Ristorante,1266 Broadway,Sonoma,CA,95476,17079356805,DA0275015,10/10/2012,ROUTINE,K007,"Proper hot and cold holding temperatures, Major","1266 Broadway
+Sonoma, CA 95476
+(38.2783409482, -122.4598834987)"
+PR0001428,Pizzeria Capri Ristorante,1266 Broadway,Sonoma,CA,95476,17079356805,DA0299810,05/28/2013,ROUTINE,K000|K001,"5 Non-Critical Violation(s)|Demonstration of knowledge; food manager certifica, Minor","1266 Broadway
+Sonoma, CA 95476
+(38.2783409482, -122.4598834987)"
+PR0001428,Pizzeria Capri Ristorante,1266 Broadway,Sonoma,CA,95476,17079356805,DA0336671,06/10/2014,ROUTINE,K000,4 Non-Critical Violation(s),"1266 Broadway
+Sonoma, CA 95476
+(38.2783409482, -122.4598834987)"
+PR0001428,Pizzeria Capri Ristorante,1266 Broadway,Sonoma,CA,95476,17079356805,DATP0HLIG,01/28/2015,ROUTINE,,,"1266 Broadway
+Sonoma, CA 95476
+(38.2783409482, -122.4598834987)"
+PR0001428,Pizzeria Capri Ristorante,1266 Broadway,Sonoma,CA,95476,17079356805,DAKHQR1O0,10/07/2015,ROUTINE,,,"1266 Broadway
+Sonoma, CA 95476
+(38.2783409482, -122.4598834987)"
+PR0001428,Pizzeria Capri Ristorante,1266 Broadway,Sonoma,CA,95476,17079356805,DA0BZHHAC,05/05/2016,ROUTINE,,,"1266 Broadway
+Sonoma, CA 95476
+(38.2783409482, -122.4598834987)"
+PR0001445,La Azteca,1420 S McDowell Blvd,Petaluma,CA,94954,17077636844,DA0139216,08/19/2009,ROUTINE,K009|K000,"Proper cooling methods, Minor|2 Non-Critical Violation(s)","1420 S McDowell Blvd
+Petaluma, CA 94954
+(38.235635746, -122.601803571)"
+PR0001445,La Azteca,1420 S McDowell Blvd,Petaluma,CA,94954,17077636844,DA0308059,08/02/2013,ROUTINE,,,"1420 S McDowell Blvd
+Petaluma, CA 94954
+(38.235635746, -122.601803571)"
+PR0001445,La Azteca,1420 S McDowell Blvd,Petaluma,CA,94954,17077636844,DA0325801,02/04/2014,ROUTINE,,,"1420 S McDowell Blvd
+Petaluma, CA 94954
+(38.235635746, -122.601803571)"
+PR0001445,La Azteca,1420 S McDowell Blvd,Petaluma,CA,94954,17077636844,DA0342883,08/08/2014,ROUTINE,,,"1420 S McDowell Blvd
+Petaluma, CA 94954
+(38.235635746, -122.601803571)"
+PR0001445,La Azteca,1420 S McDowell Blvd,Petaluma,CA,94954,17077636844,DAXVZM25E,02/26/2015,ROUTINE,C35.,"Equipment and utensils approved and in good repair, Minor","1420 S McDowell Blvd
+Petaluma, CA 94954
+(38.235635746, -122.601803571)"
+PR0001445,La Azteca,1420 S McDowell Blvd,Petaluma,CA,94954,17077636844,DAX3HO0J2,08/18/2015,ROUTINE,C45.,"Floors, walls, and ceilings are maintained and kept clean, Minor","1420 S McDowell Blvd
+Petaluma, CA 94954
+(38.235635746, -122.601803571)"
+PR0002013,Sonoma Valley Bagel Cafe,2194 Santa Rosa Ave,Santa Rosa,CA,95407,17075795484,DA0293793,03/29/2013,ROUTINE,,,"2194 Santa Rosa Ave
+Santa Rosa, CA 95407
+(38.417749633, -122.7135346846)"
+PR0002013,Sonoma Valley Bagel Cafe,2194 Santa Rosa Ave,Santa Rosa,CA,95407,17075795484,DA0312772,09/17/2013,ROUTINE,K000,3 Non-Critical Violation(s),"2194 Santa Rosa Ave
+Santa Rosa, CA 95407
+(38.417749633, -122.7135346846)"
+PR0002013,Sonoma Valley Bagel Cafe,2194 Santa Rosa Ave,Santa Rosa,CA,95407,17075795484,DA0332175,04/18/2014,ROUTINE,,,"2194 Santa Rosa Ave
+Santa Rosa, CA 95407
+(38.417749633, -122.7135346846)"
+PR0002013,Sonoma Valley Bagel Cafe,2194 Santa Rosa Ave,Santa Rosa,CA,95407,17075795484,DAP7UD8YH,01/16/2015,ROUTINE,C35.|C.1c|C.1b|C45.|C33.,"Equipment and utensils approved and in good repair, Minor|Food Handler cards available and current, Minor|Food Safety Certification available and current, Minor|Floors, walls, and ceilings are maintained and kept clean, Minor|Nonfood contact surfaces clean, Minor","2194 Santa Rosa Ave
+Santa Rosa, CA 95407
+(38.417749633, -122.7135346846)"
+PR0001361,Third Street Aleworks,610 3rd St,Santa Rosa,CA,95404,17075233060,DA0146799,10/26/2009,ROUTINE,K005|K007|K000,"Hands clean and properly washed; gloves used prope, Minor|Proper hot and cold holding temperatures, Minor|6 Non-Critical Violation(s)","610 3rd St
+Santa Rosa, CA 95404
+(38.4399952308, -122.7125781836)"
+PR0001361,Third Street Aleworks,610 3rd St,Santa Rosa,CA,95404,17075233060,DA0164905,03/30/2010,ROUTINE,K001|K013|K000,"Demonstration of knowledge; food manager certifica, Minor|Food in good condition, safe and unadulterated, Minor|5 Non-Critical Violation(s)","610 3rd St
+Santa Rosa, CA 95404
+(38.4399952308, -122.7125781836)"
+PR0001361,Third Street Aleworks,610 3rd St,Santa Rosa,CA,95404,17075233060,DA0183827,08/17/2010,ROUTINE,K006|K023|K000,"Adequate handwashing fac supplied & accessible, Minor|No rodents, insects, birds, or animals, Minor|3 Non-Critical Violation(s)","610 3rd St
+Santa Rosa, CA 95404
+(38.4399952308, -122.7125781836)"
+PR0001361,Third Street Aleworks,610 3rd St,Santa Rosa,CA,95404,17075233060,DA0212769,04/12/2011,FOLLOW-UP,,,"610 3rd St
+Santa Rosa, CA 95404
+(38.4399952308, -122.7125781836)"
+PR0001361,Third Street Aleworks,610 3rd St,Santa Rosa,CA,95404,17075233060,DA0232816,09/30/2011,ROUTINE,K000|K014,"5 Non-Critical Violation(s)|Food contact surfaces: clean and sanitized, Major","610 3rd St
+Santa Rosa, CA 95404
+(38.4399952308, -122.7125781836)"
+PR0001361,Third Street Aleworks,610 3rd St,Santa Rosa,CA,95404,17075233060,DA0235383,10/14/2011,FOLLOW-UP,K000,2 Non-Critical Violation(s),"610 3rd St
+Santa Rosa, CA 95404
+(38.4399952308, -122.7125781836)"
+PR0001361,Third Street Aleworks,610 3rd St,Santa Rosa,CA,95404,17075233060,DA0255470,04/19/2012,ROUTINE,K000,5 Non-Critical Violation(s),"610 3rd St
+Santa Rosa, CA 95404
+(38.4399952308, -122.7125781836)"
+PR0004756,Subway,269 Aviation Blvd #101,Santa Rosa,CA,95403,,DA0193764,10/22/2010,ROUTINE,K000,2 Non-Critical Violation(s),"269 Aviation Blvd
+Santa Rosa, CA 95403
+(-1.0, -1.0)"
+PR0001361,Third Street Aleworks,610 3rd St,Santa Rosa,CA,95404,17075233060,DA0270905,08/23/2012,ROUTINE,K000|K023,"4 Non-Critical Violation(s)|No rodents, insects, birds, or animals, Minor","610 3rd St
+Santa Rosa, CA 95404
+(38.4399952308, -122.7125781836)"
+PR0001361,Third Street Aleworks,610 3rd St,Santa Rosa,CA,95404,17075233060,DA0291208,03/07/2013,FOLLOW-UP,K000,1 Non-Critical Violation(s),"610 3rd St
+Santa Rosa, CA 95404
+(38.4399952308, -122.7125781836)"
+PR0001361,Third Street Aleworks,610 3rd St,Santa Rosa,CA,95404,17075233060,DA0320325,11/20/2013,ROUTINE,K000,5 Non-Critical Violation(s),"610 3rd St
+Santa Rosa, CA 95404
+(38.4399952308, -122.7125781836)"
+PR0001361,Third Street Aleworks,610 3rd St,Santa Rosa,CA,95404,17075233060,DA0321067,12/09/2013,FOLLOW-UP,,,"610 3rd St
+Santa Rosa, CA 95404
+(38.4399952308, -122.7125781836)"
+PR0001361,Third Street Aleworks,610 3rd St,Santa Rosa,CA,95404,17075233060,DA0338756,07/02/2014,ROUTINE,K000|K007|K023,"5 Non-Critical Violation(s)|Proper hot and cold holding temperatures, Minor|No rodents, insects, birds, or animals, Major","610 3rd St
+Santa Rosa, CA 95404
+(38.4399952308, -122.7125781836)"
+PR0001361,Third Street Aleworks,610 3rd St,Santa Rosa,CA,95404,17075233060,DA0TV6OWB,05/28/2015,FOLLOW-UP,T41.|SR08,"Other, Minor|All Equipment Drains Through An Airgap Into A Floor Sink or Other Approved Method (114193), Minor","610 3rd St
+Santa Rosa, CA 95404
+(38.4399952308, -122.7125781836)"
+PR0003382,Barndiva,231 Center St,Healdsburg,CA,95448,17074310100,DAW0WOFBB,02/19/2015,ROUTINE,C21.|C.1b|C18.,"Hot and cold potable water available, Major|Food Safety Certification available and current, Minor|Compliance with HACCP plan or variance conditions, Minor","231 Center St
+Healdsburg, CA 95448
+(38.6096710326, -122.8691825005)"
+PR0000228,Bettys English Fish & Chips,4046 Highway 12,Santa Rosa,CA,95409,17075390899,DA0291994,03/13/2013,ROUTINE,,,"4046 Highway
+Santa Rosa, CA 95409
+(38.4266275577, -122.7707052391)"
+PR0000228,Bettys English Fish & Chips,4046 Highway 12,Santa Rosa,CA,95409,17075390899,DA0314803,10/02/2013,ROUTINE,,,"4046 Highway
+Santa Rosa, CA 95409
+(38.4266275577, -122.7707052391)"
+PR0000228,Bettys English Fish & Chips,4046 Highway 12,Santa Rosa,CA,95409,17075390899,DA0343588,08/22/2014,ROUTINE,,,"4046 Highway
+Santa Rosa, CA 95409
+(38.4266275577, -122.7707052391)"
+PR0000228,Bettys English Fish & Chips,4046 Highway 12,Santa Rosa,CA,95409,17075390899,DAT71WL75,05/15/2015,ROUTINE,C.7.|C30a|C45.,"Proper hot and cold holding temperatures, Major|Food stored at least 6 inches above floor, Minor|Floors, walls, and ceilings are maintained and kept clean, Minor","4046 Highway
+Santa Rosa, CA 95409
+(38.4266275577, -122.7707052391)"
+PR0002620,"Cheese Shop, The",423 Center St,Healdsburg,CA,95448,17074994998,DAAOHED6B,10/08/2015,ROUTINE,C.1b|C43.|C39.|C.7.,"Food Safety Certification available and current, Minor|Toilet facilities clean, supplied, and maintained, Minor|Thermometers provided, accurate, and easily visible, Minor|Proper hot and cold holding temperatures, Minor","423 Center St
+Healdsburg, CA 95448
+(38.6130386087, -122.8701312538)"
+PR0001732,Hanna Winery,9280 Highway 128,Healdsburg,CA,95448,17074314310,DA0320794,12/05/2013,ROUTINE,K000,1 Non-Critical Violation(s),"9280 Highway
+Healdsburg, CA 95448
+(38.6502336567, -122.7854012423)"
+PR0001732,Hanna Winery,9280 Highway 128,Healdsburg,CA,95448,17074314310,DA0472460,12/26/2014,ROUTINE,K000,1 Non-Critical Violation(s),"9280 Highway
+Healdsburg, CA 95448
+(38.6502336567, -122.7854012423)"
+PR0003335,Ana's Cafe & Espresso,10333 Old Redwood Hwy #103,Windsor,CA,95492,17078370680,DA0314673,10/01/2013,ROUTINE,,,"10333 Old Redwood Hwy
+Windsor, CA 95492
+(-1.0, -1.0)"
+PR0003335,Ana's Cafe & Espresso,10333 Old Redwood Hwy #103,Windsor,CA,95492,17078370680,DA0331158,04/08/2014,ROUTINE,,,"10333 Old Redwood Hwy
+Windsor, CA 95492
+(-1.0, -1.0)"
+PR0003335,Ana's Cafe & Espresso,10333 Old Redwood Hwy #103,Windsor,CA,95492,17078370680,DA0377261,10/09/2014,ROUTINE,,,"10333 Old Redwood Hwy
+Windsor, CA 95492
+(-1.0, -1.0)"
+PR0003335,Ana's Cafe & Espresso,10333 Old Redwood Hwy #103,Windsor,CA,95492,17078370680,DADIOMEQ4,05/15/2015,ROUTINE,,,"10333 Old Redwood Hwy
+Windsor, CA 95492
+(-1.0, -1.0)"
+PR0003335,Ana's Cafe & Espresso,10333 Old Redwood Hwy #103,Windsor,CA,95492,17078370680,DA36XKFTS,01/12/2016,ROUTINE,,,"10333 Old Redwood Hwy
+Windsor, CA 95492
+(-1.0, -1.0)"
+PR0001203,Los Pinos Deli & Market,3 Tarman Dr,Cloverdale,CA,95425,17078943342,DA0281602,12/07/2012,ROUTINE,K006|K000,"Adequate handwashing fac supplied & accessible, Minor|5 Non-Critical Violation(s)","3 Tarman Dr
+Cloverdale, CA 95425
+(38.7983504796, -123.0177574192)"
+PR0004756,Subway,269 Aviation Blvd #101,Santa Rosa,CA,95403,,DA0308363,08/07/2013,ROUTINE,K000,1 Non-Critical Violation(s),"269 Aviation Blvd
+Santa Rosa, CA 95403
+(-1.0, -1.0)"
+PR0000120,Big Boys Buns & Burgers,406 Larkfield Ctr,Santa Rosa,CA,95401,17075466835,DA0254088,04/16/2012,ROUTINE,K000,1 Non-Critical Violation(s),"406 Larkfield Ctr
+Santa Rosa, CA 95401
+(38.5009188846, -122.7503057858)"
+PR0000120,Big Boys Buns & Burgers,406 Larkfield Ctr,Santa Rosa,CA,95401,17075466835,DA0273874,10/03/2012,ROUTINE,K000,3 Non-Critical Violation(s),"406 Larkfield Ctr
+Santa Rosa, CA 95401
+(38.5009188846, -122.7503057858)"
+PR0002828,Javamore Cafe,10101 Main St,Penngrove,CA,94951,17077941516,DA0269258,08/22/2012,ROUTINE,,,"10101 Main St
+Penngrove, CA 94951
+(38.2954472379, -122.6669593462)"
+PR0002828,Javamore Cafe,10101 Main St,Penngrove,CA,94951,17077941516,DA0288477,02/08/2013,ROUTINE,,,"10101 Main St
+Penngrove, CA 94951
+(38.2954472379, -122.6669593462)"
+PR0002828,Javamore Cafe,10101 Main St,Penngrove,CA,94951,17077941516,DA0324785,01/23/2014,ROUTINE,,,"10101 Main St
+Penngrove, CA 94951
+(38.2954472379, -122.6669593462)"
+PR0002828,Javamore Cafe,10101 Main St,Penngrove,CA,94951,17077941516,DA0YSPUSB,01/27/2015,ROUTINE,,,"10101 Main St
+Penngrove, CA 94951
+(38.2954472379, -122.6669593462)"
+PR0002828,Javamore Cafe,10101 Main St,Penngrove,CA,94951,17077941516,DAFTCYA1I,07/09/2015,ROUTINE,,,"10101 Main St
+Penngrove, CA 94951
+(38.2954472379, -122.6669593462)"
+PR0002828,Javamore Cafe,10101 Main St,Penngrove,CA,94951,17077941516,DAJ53DZK7,01/06/2016,ROUTINE,C.6.,"Adequate handwashing facilities supplied and accessible, Minor","10101 Main St
+Penngrove, CA 94951
+(38.2954472379, -122.6669593462)"
+PR0000562,Cape Fear Cafe/Duncans Mills Rest,25191 Main St,Duncans Mills,CA,95430,17078653181,DA0229926,08/30/2011,ROUTINE,K000,1 Non-Critical Violation(s),"25191 Main St Duncans Mills
+CA 95430
+(38.453843587, -123.0541139914)"
+PR0000562,Cape Fear Cafe/Duncans Mills Rest,25191 Main St,Duncans Mills,CA,95430,17078653181,DA0268737,08/17/2012,ROUTINE,K000,2 Non-Critical Violation(s),"25191 Main St Duncans Mills
+CA 95430
+(38.453843587, -123.0541139914)"
+PR0000562,Cape Fear Cafe/Duncans Mills Rest,25191 Main St,Duncans Mills,CA,95430,17078653181,DA0329590,03/20/2014,ROUTINE,,,"25191 Main St Duncans Mills
+CA 95430
+(38.453843587, -123.0541139914)"
+PR0000562,Cape Fear Cafe/Duncans Mills Rest,25191 Main St,Duncans Mills,CA,95430,17078653181,DA3VS49FP,03/27/2015,ROUTINE,C45.,"Floors, walls, and ceilings are maintained and kept clean, Minor","25191 Main St Duncans Mills
+CA 95430

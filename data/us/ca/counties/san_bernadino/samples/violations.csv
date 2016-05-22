@@ -1,0 +1,1999 @@
+business_id,date,code,description,critical
+
+FA0001338,20150311,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0000315,20151007,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0011162,20150212,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0009090,20150218,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0013838,20150317,K039,"Standard not met: Thermometers provided and accurate",false
+
+FA0009994,20150508,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0004588,20150318,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0026046,20150805,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0015788,20150504,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0011868,20151019,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0004812,20150316,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0000142,20150420,K039,"Standard not met: Thermometers provided and accurate",false
+
+FA0009697,20150127,K039,"Standard not met: Thermometers provided and accurate",false
+
+FA0011978,20150612,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0001660,20150728,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0012532,20160420,K030,"Standard not met: Food storage; food storage containers identified",false
+
+FA0013982,20151118,K030,"Standard not met: Food storage; food storage containers identified",false
+
+FA0009473,20150331,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0006306,20150319,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0019398,20150520,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0005134,20150203,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0013687,20160513,K039,"Standard not met: Thermometers provided and accurate",false
+
+FA0009696,20150326,K030,"Standard not met: Food storage; food storage containers identified",false
+
+FA0009078,20150416,K030,"Standard not met: Food storage; food storage containers identified",false
+
+FA0009148,20151102,K039,"Standard not met: Thermometers provided and accurate",false
+
+FA0014681,20150717,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0003519,20150204,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0013488,20151023,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0005160,20150820,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0014761,20150429,K008,"Standard not met: Time as a public health control; procedures & records",false
+
+FA0009074,20150922,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0000109,20150206,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0009208,20150402,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0015216,20150316,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0005329,20150930,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0009156,20151008,K039,"Standard not met: Thermometers provided and accurate",false
+
+FA0009728,20150206,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0007771,20140528,K030,"Standard not met: Food storage; food storage containers identified",false
+
+FA0007771,20140528,K039,"Standard not met: Thermometers provided and accurate",false
+
+FA0008207,20150126,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0009004,20150319,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0005927,20150505,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0012563,20150204,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0007653,20150421,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0015023,20150805,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0011595,20150508,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0011611,20150310,K008,"Standard not met: Time as a public health control; procedures & records",false
+
+FA0027081,20151105,K030,"Standard not met: Food storage; food storage containers identified",false
+
+FA0005296,20150925,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0003620,20150120,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0013550,20151113,K008,"Standard not met: Time as a public health control; procedures & records",true
+
+FA0009893,20150904,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0024156,20150305,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0013354,20150129,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0001633,20151016,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0011740,20151103,K039,"Standard not met: Thermometers provided and accurate",false
+
+FA0016741,20151117,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0010132,20150311,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0016886,20150223,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0007643,20150205,K039,"Standard not met: Thermometers provided and accurate",false
+
+FA0002381,20150415,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0016886,20150223,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0011537,20150310,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0003021,20150324,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0007953,20150921,K030,"Standard not met: Food storage; food storage containers identified",false
+
+FA0007643,20150205,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0004123,20140602,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0016253,20140528,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0016253,20140528,K030,"Standard not met: Food storage; food storage containers identified",false
+
+FA0027993,20140603,K039,"Standard not met: Thermometers provided and accurate",false
+
+FA0006916,20140617,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0011904,20140711,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0013759,20140710,K039,"Standard not met: Thermometers provided and accurate",false
+
+FA0008930,20140711,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0013648,20140711,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0013648,20140711,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0006632,20150206,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0004195,20160315,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0011490,20150326,K030,"Standard not met: Food storage; food storage containers identified",false
+
+FA0009704,20150506,K030,"Standard not met: Food storage; food storage containers identified",false
+
+FA0001810,20150113,K008,"Standard not met: Time as a public health control; procedures & records",false
+
+FA0010241,20151112,K039,"Standard not met: Thermometers provided and accurate",false
+
+FA0008317,20150402,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0015999,20150219,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0007624,20151028,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0004049,20150506,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0010161,20151106,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0003586,20151027,K039,"Standard not met: Thermometers provided and accurate",false
+
+FA0004559,20150825,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0009697,20150127,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0014086,20140603,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0014086,20140603,K039,"Standard not met: Thermometers provided and accurate",false
+
+FA0010608,20140603,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0010608,20140603,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0010608,20140603,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0004329,20140603,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0004329,20140603,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0001431,20140603,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0004995,20140604,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0006931,20140623,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0009076,20140623,K030,"Standard not met: Food storage; food storage containers identified",false
+
+FA0004192,20140623,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0005610,20140623,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0005523,20140623,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0005523,20140623,K039,"Standard not met: Thermometers provided and accurate",false
+
+FA0006914,20140624,K030,"Standard not met: Food storage; food storage containers identified",false
+
+FA0006914,20140624,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0002457,20140624,K030,"Standard not met: Food storage; food storage containers identified",false
+
+FA0002457,20140624,K039,"Standard not met: Thermometers provided and accurate",false
+
+FA0009778,20140718,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0015789,20140721,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0015789,20140721,K030,"Standard not met: Food storage; food storage containers identified",false
+
+FA0026409,20140721,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0014681,20140721,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0014681,20140721,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0000868,20140811,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0025381,20140811,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0027310,20151104,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0004085,20160125,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0007698,20150122,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0004443,20150415,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0009043,20150929,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0022303,20150811,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0004144,20150512,K030,"Standard not met: Food storage; food storage containers identified",false
+
+FA0025237,20151130,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0026488,20151103,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0007712,20150507,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0007977,20151105,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0026786,20150428,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0014925,20150402,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0021339,20150916,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0001504,20140529,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0001504,20140529,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0001504,20140529,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0026618,20140530,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0024593,20150611,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0009814,20150917,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0009032,20151102,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0014270,20150414,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0027834,20151130,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0009429,20150218,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0008064,20151019,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0009010,20151022,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0015739,20150318,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0012558,20160406,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0014117,20150325,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0011593,20151123,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0015077,20150429,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0002989,20151001,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0021075,20150406,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0007828,20150325,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0028075,20150618,K030,"Standard not met: Food storage; food storage containers identified",false
+
+FA0008063,20150427,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0012019,20150728,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0028387,20150420,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0015022,20160512,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0012729,20150511,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0012566,20150626,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0005687,20150625,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0009427,20150130,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0004800,20151106,K030,"Standard not met: Food storage; food storage containers identified",false
+
+FA0016467,20151125,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0009415,20150204,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0010226,20160407,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0006913,20150519,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0026771,20150401,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0012415,20150925,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0027416,20150312,K039,"Standard not met: Thermometers provided and accurate",false
+
+FA0016365,20150325,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0014599,20150331,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0001962,20150921,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0008332,20150521,K030,"Standard not met: Food storage; food storage containers identified",false
+
+FA0003593,20150916,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0011458,20150923,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0010034,20150811,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0009440,20150212,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0010002,20151110,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0013542,20151027,K030,"Standard not met: Food storage; food storage containers identified",false
+
+FA0015047,20140529,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0028251,20160505,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0028664,20150219,K039,"Standard not met: Thermometers provided and accurate",false
+
+FA0003609,20150626,K039,"Standard not met: Thermometers provided and accurate",false
+
+FA0013426,20150417,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0012261,20150715,K039,"Standard not met: Thermometers provided and accurate",false
+
+FA0014115,20150508,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0009872,20150116,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0009658,20150429,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0014362,20150330,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0009984,20150505,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0008944,20150414,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0012729,20150511,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0004325,20150209,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0009107,20150318,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0007865,20150828,K039,"Standard not met: Thermometers provided and accurate",false
+
+FA0015920,20160509,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0009726,20150317,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0014941,20150109,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0010004,20150128,K039,"Standard not met: Thermometers provided and accurate",false
+
+FA0001433,20150513,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0009403,20151023,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0001296,20150818,K030,"Standard not met: Food storage; food storage containers identified",false
+
+FA0004136,20150730,K030,"Standard not met: Food storage; food storage containers identified",false
+
+FA0013364,20140610,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0009717,20140611,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0009717,20140611,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0009746,20140611,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0009746,20140611,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0027410,20140612,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0014349,20140612,K030,"Standard not met: Food storage; food storage containers identified",false
+
+FA0014349,20140612,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0004752,20140708,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0004752,20140708,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0009664,20140708,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0009664,20140708,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0000986,20140801,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0000986,20140801,K039,"Standard not met: Thermometers provided and accurate",false
+
+FA0000986,20140801,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0000575,20140804,K030,"Standard not met: Food storage; food storage containers identified",false
+
+FA0000144,20140819,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0000144,20140819,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0000144,20140819,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0005095,20140819,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0004333,20150316,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0005268,20150511,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0014450,20150402,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0004952,20150305,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0008033,20151119,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0026071,20150225,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0005540,20150909,K030,"Standard not met: Food storage; food storage containers identified",false
+
+FA0009842,20150209,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0013483,20150330,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0009843,20150625,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0004136,20150730,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0018626,20140602,K039,"Standard not met: Thermometers provided and accurate",false
+
+FA0018626,20140602,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0018626,20140602,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0004788,20140602,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0009779,20140602,K039,"Standard not met: Thermometers provided and accurate",false
+
+FA0009779,20140602,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0009680,20140603,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0009680,20140603,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0009680,20140603,K039,"Standard not met: Thermometers provided and accurate",false
+
+FA0012788,20140603,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0012788,20140603,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0012788,20140603,K030,"Standard not met: Food storage; food storage containers identified",false
+
+FA0015106,20140617,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0009777,20140618,K008,"Standard not met: Time as a public health control; procedures & records",false
+
+FA0003200,20140710,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0007085,20140801,K030,"Standard not met: Food storage; food storage containers identified",false
+
+FA0004730,20140805,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0004730,20140805,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0004730,20140805,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0004730,20140805,K039,"Standard not met: Thermometers provided and accurate",false
+
+FA0004079,20140806,K039,"Standard not met: Thermometers provided and accurate",false
+
+FA0004079,20140806,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0015593,20140806,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0010319,20140806,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0010319,20140806,K008,"Standard not met: Time as a public health control; procedures & records",true
+
+FA0010319,20140806,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0010319,20140806,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0009523,20140815,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0008307,20140818,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0025564,20150721,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0006506,20150311,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0009847,20150817,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0015586,20150122,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0015951,20150804,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0011540,20150520,K030,"Standard not met: Food storage; food storage containers identified",false
+
+FA0008013,20150126,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0027196,20150429,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0009855,20151015,K039,"Standard not met: Thermometers provided and accurate",false
+
+FA0013679,20150311,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0008042,20151001,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0026501,20150203,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0009495,20150120,K030,"Standard not met: Food storage; food storage containers identified",false
+
+FA0004150,20150903,K039,"Standard not met: Thermometers provided and accurate",false
+
+FA0005762,20150203,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0028535,20150825,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0002779,20150420,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0009799,20150408,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0005028,20150505,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0028550,20150311,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0016608,20150109,K030,"Standard not met: Food storage; food storage containers identified",false
+
+FA0014561,20150723,K030,"Standard not met: Food storage; food storage containers identified",false
+
+FA0000772,20150909,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0008217,20160506,K030,"Standard not met: Food storage; food storage containers identified",false
+
+FA0006662,20151118,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0009855,20151015,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0027469,20160226,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0009090,20160505,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0009283,20150210,K030,"Standard not met: Food storage; food storage containers identified",false
+
+FA0007887,20151113,K030,"Standard not met: Food storage; food storage containers identified",false
+
+FA0025525,20150324,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0009319,20150310,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0010009,20151028,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0004630,20150930,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0002035,20150909,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0016082,20150624,K008,"Standard not met: Time as a public health control; procedures & records",false
+
+FA0005384,20151104,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0015671,20150327,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0014617,20150430,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0002434,20150922,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0000885,20150828,K030,"Standard not met: Food storage; food storage containers identified",false
+
+FA0013348,20150504,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0017020,20150527,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0021055,20150130,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0001973,20150527,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0003185,20151021,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0009435,20150218,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0014255,20150415,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0009460,20150225,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0026833,20150126,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0009855,20151015,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0025472,20151124,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0022612,20150113,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0006884,20150618,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0009268,20150924,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0001125,20150904,K039,"Standard not met: Thermometers provided and accurate",false
+
+FA0009944,20150310,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0007694,20160507,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0008217,20160506,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0009837,20150914,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0000707,20151130,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0009050,20150415,K039,"Standard not met: Thermometers provided and accurate",false
+
+FA0004843,20150224,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0001271,20151117,K030,"Standard not met: Food storage; food storage containers identified",false
+
+FA0014837,20151106,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0009827,20150305,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0027497,20150330,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0014563,20150130,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0014958,20150421,K039,"Standard not met: Thermometers provided and accurate",false
+
+FA0002831,20150324,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0008300,20150630,K030,"Standard not met: Food storage; food storage containers identified",false
+
+FA0009116,20151020,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0011045,20150429,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0026618,20140609,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0026618,20140609,K030,"Standard not met: Food storage; food storage containers identified",false
+
+FA0006128,20140609,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0008332,20140609,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0014914,20140609,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0010989,20140609,K030,"Standard not met: Food storage; food storage containers identified",false
+
+FA0010989,20140609,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0001804,20140702,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0008801,20140702,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0008801,20140702,K039,"Standard not met: Thermometers provided and accurate",false
+
+FA0026417,20140703,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0026417,20140703,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0026417,20140703,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0016023,20140707,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0016023,20140707,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0009156,20140707,K039,"Standard not met: Thermometers provided and accurate",false
+
+FA0009026,20140707,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0014945,20140707,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0017215,20140730,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0007369,20140731,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0018648,20160427,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0010574,20150924,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0005445,20160511,K030,"Standard not met: Food storage; food storage containers identified",false
+
+FA0011526,20150224,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0007711,20150728,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0007811,20150720,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0026573,20150203,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0016618,20150409,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0028831,20150812,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0001201,20150311,K039,"Standard not met: Thermometers provided and accurate",false
+
+FA0009499,20150203,K030,"Standard not met: Food storage; food storage containers identified",false
+
+FA0011757,20150609,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0028434,20141229,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0013977,20150325,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0007964,20150513,K030,"Standard not met: Food storage; food storage containers identified",false
+
+FA0000874,20150121,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0000805,20150506,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0015468,20150603,K039,"Standard not met: Thermometers provided and accurate",false
+
+FA0002791,20150812,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0010130,20151103,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0028771,20150513,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0014372,20140602,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0014372,20140602,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0016607,20140602,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0010008,20140530,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0002492,20140530,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0002492,20140530,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0026336,20140603,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0015106,20140617,K039,"Standard not met: Thermometers provided and accurate",false
+
+FA0006926,20140617,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0027840,20140619,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0015329,20140709,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0006911,20140710,K030,"Standard not met: Food storage; food storage containers identified",false
+
+FA0003210,20140710,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0009962,20140711,K030,"Standard not met: Food storage; food storage containers identified",false
+
+FA0009962,20140711,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0005716,20140711,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0005716,20140711,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0007080,20140724,K030,"Standard not met: Food storage; food storage containers identified",false
+
+FA0004108,20140806,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0003511,20140806,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0004772,20140815,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0004772,20140815,K039,"Standard not met: Thermometers provided and accurate",false
+
+FA0006607,20140814,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0016804,20150316,K035,"Standard not met: Equipment/Utensils - approved; installed; clean; good repair, capacity",false
+
+FA0009594,20151104,K005,"Standard not met: Hands clean and properly washed; gloves used properly",true
+
+FA0010130,20151103,K035,"Standard not met: Equipment/Utensils - approved; installed; clean; good repair, capacity",false
+
+FA0003198,20151113,K005,"Standard not met: Hands clean and properly washed; gloves used properly",true
+
+FA0003083,20150713,K038,"Standard not met: Adequate ventilation and lighting; designated area",false
+
+FA0005150,20150116,K038,"Standard not met: Adequate ventilation and lighting; designated area",false
+
+FA0004630,20150930,K021,"Standard not met: Hot and cold water available",false
+
+FA0009892,20150129,K013,"Standard not met: Food in good condition, safe and unadulterated",true
+
+FA0005561,20151201,K038,"Standard not met: Adequate ventilation and lighting; designated area",false
+
+FA0000455,20150421,K021,"Standard not met: Hot and cold water available",false
+
+FA0014561,20150723,K038,"Standard not met: Adequate ventilation and lighting; designated area",false
+
+FA0007945,20150918,K013,"Standard not met: Food in good condition, safe and unadulterated",false
+
+FA0004123,20150915,K021,"Standard not met: Hot and cold water available",false
+
+FA0014532,20150107,K038,"Standard not met: Adequate ventilation and lighting; designated area",false
+
+FA0004204,20150211,K035,"Standard not met: Equipment/Utensils - approved; installed; clean; good repair, capacity",false
+
+FA0024202,20151013,K005,"Standard not met: Hands clean and properly washed; gloves used properly",false
+
+FA0008390,20151007,K035,"Standard not met: Equipment/Utensils - approved; installed; clean; good repair, capacity",false
+
+FA0015989,20150128,K035,"Standard not met: Equipment/Utensils - approved; installed; clean; good repair, capacity",false
+
+FA0025954,20150304,K035,"Standard not met: Equipment/Utensils - approved; installed; clean; good repair, capacity",false
+
+FA0002376,20150129,K035,"Standard not met: Equipment/Utensils - approved; installed; clean; good repair, capacity",false
+
+FA0004701,20150203,K035,"Standard not met: Equipment/Utensils - approved; installed; clean; good repair, capacity",false
+
+FA0005770,20150129,K035,"Standard not met: Equipment/Utensils - approved; installed; clean; good repair, capacity",false
+
+FA0004760,20150325,K035,"Standard not met: Equipment/Utensils - approved; installed; clean; good repair, capacity",false
+
+FA0002862,20150331,K021,"Standard not met: Hot and cold water available",true
+
+FA0001299,20150319,K021,"Standard not met: Hot and cold water available",false
+
+FA0009313,20150203,K035,"Standard not met: Equipment/Utensils - approved; installed; clean; good repair, capacity",false
+
+FA0004448,20151014,K005,"Standard not met: Hands clean and properly washed; gloves used properly",true
+
+FA0006193,20150225,K038,"Standard not met: Adequate ventilation and lighting; designated area",false
+
+FA0005927,20151028,K035,"Standard not met: Equipment/Utensils - approved; installed; clean; good repair, capacity",false
+
+FA0000323,20151022,K035,"Standard not met: Equipment/Utensils - approved; installed; clean; good repair, capacity",false
+
+FA0010984,20150818,K005,"Standard not met: Hands clean and properly washed; gloves used properly",true
+
+FA0008332,20140609,K013,"Standard not met: Food in good condition, safe and unadulterated",false
+
+FA0008332,20140609,K035,"Standard not met: Equipment/Utensils - approved; installed; clean; good repair, capacity",false
+
+FA0014914,20140609,K005,"Standard not met: Hands clean and properly washed; gloves used properly",false
+
+FA0014914,20140609,K038,"Standard not met: Adequate ventilation and lighting; designated area",false
+
+FA0010989,20140609,K035,"Standard not met: Equipment/Utensils - approved; installed; clean; good repair, capacity",false
+
+FA0010989,20140609,K038,"Standard not met: Adequate ventilation and lighting; designated area",false
+
+FA0009119,20140818,K039,"Standard not met: Thermometers provided and accurate",false
+
+FA0009119,20140818,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0014696,20140818,K039,"Standard not met: Thermometers provided and accurate",false
+
+FA0014796,20140818,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0010210,20151103,K030,"Standard not met: Food storage; food storage containers identified",false
+
+FA0012742,20160510,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0012941,20150917,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0010167,20151013,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0013572,20150401,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0011905,20150305,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0009267,20150319,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0003096,20150828,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0005597,20150128,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0017053,20150925,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0008112,20150213,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0000558,20150518,K030,"Standard not met: Food storage; food storage containers identified",false
+
+FA0013041,20150109,K039,"Standard not met: Thermometers provided and accurate",false
+
+FA0010053,20150623,K039,"Standard not met: Thermometers provided and accurate",false
+
+FA0007370,20150114,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0010053,20150623,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0002481,20151103,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0015918,20150414,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0008045,20150604,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0009111,20150326,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0010868,20150721,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0009796,20150625,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0008952,20151023,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0002799,20150204,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0009111,20150326,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0007357,20150323,K030,"Standard not met: Food storage; food storage containers identified",false
+
+FA0004994,20150527,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0004990,20150319,K039,"Standard not met: Thermometers provided and accurate",false
+
+FA0003487,20150528,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0007979,20150120,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0015697,20150129,K039,"Standard not met: Thermometers provided and accurate",false
+
+FA0004186,20150921,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0007947,20150310,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0007767,20151125,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0003551,20150319,K039,"Standard not met: Thermometers provided and accurate",false
+
+FA0009335,20150911,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0008033,20150414,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0010096,20150807,K027,"Standard not met: Food separated and protected",false
+
+FA0009327,20150224,K027,"Standard not met: Food separated and protected",false
+
+FA0007986,20150826,K044,"Standard not met: Premises; personal/cleaning items; vermin-proofing",false
+
+FA0015195,20150427,K041,"Standard not met: Plumbing; proper backflow devices",false
+
+FA0009917,20150916,K027,"Standard not met: Food separated and protected",false
+
+FA0005320,20150813,K044,"Standard not met: Premises; personal/cleaning items; vermin-proofing",false
+
+FA0009070,20151027,K041,"Standard not met: Plumbing; proper backflow devices",false
+
+FA0002414,20150210,K041,"Standard not met: Plumbing; proper backflow devices",false
+
+FA0007536,20150820,K027,"Standard not met: Food separated and protected",false
+
+FA0014545,20151116,K041,"Standard not met: Plumbing; proper backflow devices",false
+
+FA0007941,20151119,K041,"Standard not met: Plumbing; proper backflow devices",false
+
+FA0005269,20150219,K044,"Standard not met: Premises; personal/cleaning items; vermin-proofing",false
+
+FA0003048,20150212,K027,"Standard not met: Food separated and protected",false
+
+FA0009461,20150731,K027,"Standard not met: Food separated and protected",false
+
+FA0001643,20150427,K041,"Standard not met: Plumbing; proper backflow devices",false
+
+FA0002517,20150109,K027,"Standard not met: Food separated and protected",false
+
+FA0010178,20150224,K027,"Standard not met: Food separated and protected",false
+
+FA0012135,20151027,K027,"Standard not met: Food separated and protected",false
+
+FA0001125,20150904,K041,"Standard not met: Plumbing; proper backflow devices",false
+
+FA0005495,20150224,K027,"Standard not met: Food separated and protected",false
+
+FA0003087,20150909,K027,"Standard not met: Food separated and protected",false
+
+FA0009812,20150123,K044,"Standard not met: Premises; personal/cleaning items; vermin-proofing",false
+
+FA0011400,20150819,K041,"Standard not met: Plumbing; proper backflow devices",false
+
+FA0014390,20150305,K044,"Standard not met: Premises; personal/cleaning items; vermin-proofing",false
+
+FA0003490,20150330,K027,"Standard not met: Food separated and protected",false
+
+FA0019488,20150414,K027,"Standard not met: Food separated and protected",false
+
+FA0007706,20150330,K027,"Standard not met: Food separated and protected",false
+
+FA0009501,20151201,K041,"Standard not met: Plumbing; proper backflow devices",false
+
+FA0004610,20150414,K041,"Standard not met: Plumbing; proper backflow devices",false
+
+FA0005495,20150224,K044,"Standard not met: Premises; personal/cleaning items; vermin-proofing",false
+
+FA0004012,20150507,K044,"Standard not met: Premises; personal/cleaning items; vermin-proofing",false
+
+FA0011905,20140610,K027,"Standard not met: Food separated and protected",false
+
+FA0011905,20140610,K044,"Standard not met: Premises; personal/cleaning items; vermin-proofing",false
+
+FA0016369,20140703,K044,"Standard not met: Premises; personal/cleaning items; vermin-proofing",false
+
+FA0016369,20140703,K041,"Standard not met: Plumbing; proper backflow devices",false
+
+FA0009414,20140707,K041,"Standard not met: Plumbing; proper backflow devices",false
+
+FA0010445,20151019,K044,"Standard not met: Premises; personal/cleaning items; vermin-proofing",false
+
+FA0000723,20160505,K041,"Standard not met: Plumbing; proper backflow devices",false
+
+FA0015698,20150514,K041,"Standard not met: Plumbing; proper backflow devices",false
+
+FA0000523,20150421,K041,"Standard not met: Plumbing; proper backflow devices",false
+
+FA0004401,20150511,K041,"Standard not met: Plumbing; proper backflow devices",false
+
+FA0007549,20150323,K041,"Standard not met: Plumbing; proper backflow devices",false
+
+FA0017065,20140617,K044,"Standard not met: Premises; personal/cleaning items; vermin-proofing",false
+
+FA0004682,20140617,K044,"Standard not met: Premises; personal/cleaning items; vermin-proofing",false
+
+FA0005513,20140709,K027,"Standard not met: Food separated and protected",false
+
+FA0018744,20140711,K044,"Standard not met: Premises; personal/cleaning items; vermin-proofing",false
+
+FA0024158,20140711,K044,"Standard not met: Premises; personal/cleaning items; vermin-proofing",false
+
+FA0006894,20140724,K027,"Standard not met: Food separated and protected",false
+
+FA0006902,20140801,K044,"Standard not met: Premises; personal/cleaning items; vermin-proofing",false
+
+FA0006930,20140805,K041,"Standard not met: Plumbing; proper backflow devices",false
+
+FA0016302,20140804,K041,"Standard not met: Plumbing; proper backflow devices",false
+
+FA0015788,20140815,K041,"Standard not met: Plumbing; proper backflow devices",false
+
+FA0011955,20150219,K041,"Standard not met: Plumbing; proper backflow devices",false
+
+FA0008159,20150820,K044,"Standard not met: Premises; personal/cleaning items; vermin-proofing",false
+
+FA0026198,20150929,K044,"Standard not met: Premises; personal/cleaning items; vermin-proofing",false
+
+FA0016902,20150115,K027,"Standard not met: Food separated and protected",false
+
+FA0004999,20150804,K044,"Standard not met: Premises; personal/cleaning items; vermin-proofing",false
+
+FA0001028,20160420,K044,"Standard not met: Premises; personal/cleaning items; vermin-proofing",false
+
+FA0010031,20150805,K044,"Standard not met: Premises; personal/cleaning items; vermin-proofing",false
+
+FA0008095,20151029,K044,"Standard not met: Premises; personal/cleaning items; vermin-proofing",false
+
+FA0001431,20140603,K027,"Standard not met: Food separated and protected",false
+
+FA0001431,20140603,K041,"Standard not met: Plumbing; proper backflow devices",false
+
+FA0008307,20140605,K044,"Standard not met: Premises; personal/cleaning items; vermin-proofing",false
+
+FA0008307,20140605,K027,"Standard not met: Food separated and protected",false
+
+FA0007804,20140620,K041,"Standard not met: Plumbing; proper backflow devices",false
+
+FA0007804,20140620,K044,"Standard not met: Premises; personal/cleaning items; vermin-proofing",false
+
+FA0006938,20140623,K027,"Standard not met: Food separated and protected",false
+
+FA0006938,20140623,K041,"Standard not met: Plumbing; proper backflow devices",false
+
+FA0009542,20140624,K044,"Standard not met: Premises; personal/cleaning items; vermin-proofing",false
+
+FA0011524,20140716,K027,"Standard not met: Food separated and protected",false
+
+FA0011524,20140716,K041,"Standard not met: Plumbing; proper backflow devices",false
+
+FA0011524,20140716,K044,"Standard not met: Premises; personal/cleaning items; vermin-proofing",false
+
+FA0008209,20140717,K027,"Standard not met: Food separated and protected",false
+
+FA0008209,20140717,K041,"Standard not met: Plumbing; proper backflow devices",false
+
+FA0001320,20140808,K044,"Standard not met: Premises; personal/cleaning items; vermin-proofing",false
+
+FA0002733,20140808,K027,"Standard not met: Food separated and protected",false
+
+FA0002733,20140808,K041,"Standard not met: Plumbing; proper backflow devices",false
+
+FA0002733,20140808,K044,"Standard not met: Premises; personal/cleaning items; vermin-proofing",false
+
+FA0007909,20140821,K044,"Standard not met: Premises; personal/cleaning items; vermin-proofing",false
+
+FA0007909,20140821,K027,"Standard not met: Food separated and protected",false
+
+FA0014018,20150730,K027,"Standard not met: Food separated and protected",false
+
+FA0010445,20151019,K027,"Standard not met: Food separated and protected",false
+
+FA0001442,20150420,K044,"Standard not met: Premises; personal/cleaning items; vermin-proofing",false
+
+FA0012414,20150413,K027,"Standard not met: Food separated and protected",false
+
+FA0016528,20150506,K041,"Standard not met: Plumbing; proper backflow devices",false
+
+FA0001542,20150925,K044,"Standard not met: Premises; personal/cleaning items; vermin-proofing",false
+
+FA0017122,20150421,K044,"Standard not met: Premises; personal/cleaning items; vermin-proofing",false
+
+FA0007361,20150522,K041,"Standard not met: Plumbing; proper backflow devices",false
+
+FA0010897,20150930,K027,"Standard not met: Food separated and protected",false
+
+FA0009923,20150714,K044,"Standard not met: Premises; personal/cleaning items; vermin-proofing",false
+
+FA0011905,20150305,K027,"Standard not met: Food separated and protected",false
+
+FA0009059,20150310,K027,"Standard not met: Food separated and protected",false
+
+FA0007530,20150428,K027,"Standard not met: Food separated and protected",false
+
+FA0012925,20150901,K027,"Standard not met: Food separated and protected",false
+
+FA0008045,20150604,K041,"Standard not met: Plumbing; proper backflow devices",false
+
+FA0009310,20150623,K027,"Standard not met: Food separated and protected",false
+
+FA0000551,20140625,K027,"Standard not met: Food separated and protected",false
+
+FA0000551,20140625,K041,"Standard not met: Plumbing; proper backflow devices",false
+
+FA0008057,20140624,K041,"Standard not met: Plumbing; proper backflow devices",false
+
+FA0005036,20140722,K027,"Standard not met: Food separated and protected",false
+
+FA0005036,20140722,K044,"Standard not met: Premises; personal/cleaning items; vermin-proofing",false
+
+FA0009718,20140811,K027,"Standard not met: Food separated and protected",false
+
+FA0009718,20140811,K044,"Standard not met: Premises; personal/cleaning items; vermin-proofing",false
+
+FA0012007,20140812,K044,"Standard not met: Premises; personal/cleaning items; vermin-proofing",false
+
+FA0015710,20140825,K041,"Standard not met: Plumbing; proper backflow devices",false
+
+FA0006903,20140826,K044,"Standard not met: Premises; personal/cleaning items; vermin-proofing",false
+
+FA0007560,20140826,K027,"Standard not met: Food separated and protected",false
+
+FA0007624,20150312,K044,"Standard not met: Premises; personal/cleaning items; vermin-proofing",false
+
+FA0007353,20150128,K027,"Standard not met: Food separated and protected",false
+
+FA0005158,20160429,K044,"Standard not met: Premises; personal/cleaning items; vermin-proofing",false
+
+FA0014550,20150324,K041,"Standard not met: Plumbing; proper backflow devices",false
+
+FA0001978,20150518,K041,"Standard not met: Plumbing; proper backflow devices",false
+
+FA0003564,20150628,K044,"Standard not met: Premises; personal/cleaning items; vermin-proofing",false
+
+FA0026715,20151120,K044,"Standard not met: Premises; personal/cleaning items; vermin-proofing",false
+
+FA0009452,20150205,K041,"Standard not met: Plumbing; proper backflow devices",false
+
+FA0009780,20140523,K041,"Standard not met: Plumbing; proper backflow devices",false
+
+FA0026522,20140605,K027,"Standard not met: Food separated and protected",false
+
+FA0011082,20140606,K027,"Standard not met: Food separated and protected",false
+
+FA0011082,20140606,K044,"Standard not met: Premises; personal/cleaning items; vermin-proofing",false
+
+FA0009410,20140627,K041,"Standard not met: Plumbing; proper backflow devices",false
+
+FA0014356,20140630,K044,"Standard not met: Premises; personal/cleaning items; vermin-proofing",false
+
+FA0009914,20140630,K044,"Standard not met: Premises; personal/cleaning items; vermin-proofing",false
+
+FA0004836,20140729,K044,"Standard not met: Premises; personal/cleaning items; vermin-proofing",false
+
+FA0009433,20140729,K027,"Standard not met: Food separated and protected",false
+
+FA0013034,20140814,K044,"Standard not met: Premises; personal/cleaning items; vermin-proofing",false
+
+FA0013034,20140814,K027,"Standard not met: Food separated and protected",false
+
+FA0013034,20140814,K041,"Standard not met: Plumbing; proper backflow devices",false
+
+FA0007440,20140829,K041,"Standard not met: Plumbing; proper backflow devices",false
+
+FA0015989,20140829,K044,"Standard not met: Premises; personal/cleaning items; vermin-proofing",false
+
+FA0005130,20150218,K044,"Standard not met: Premises; personal/cleaning items; vermin-proofing",false
+
+FA0021348,20150309,K044,"Standard not met: Premises; personal/cleaning items; vermin-proofing",false
+
+FA0025381,20160204,K044,"Standard not met: Premises; personal/cleaning items; vermin-proofing",false
+
+FA0011818,20150406,K044,"Standard not met: Premises; personal/cleaning items; vermin-proofing",false
+
+FA0009783,20150218,K044,"Standard not met: Premises; personal/cleaning items; vermin-proofing",false
+
+FA0009036,20150519,K026,"Standard not met: Approved thawing methods used, frozen food",false
+
+FA0016663,20150128,K032,"Standard not met: Food properly labeled & honestly presented",false
+
+FA0003503,20150519,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0001542,20150925,K001,"Standard not met: Demonstration of knowledge; food safety certification",false
+
+FA0004002,20150224,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0003137,20150625,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0007466,20150120,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0004466,20150414,K001,"Standard not met: Demonstration of knowledge; food safety certification",false
+
+FA0007767,20151125,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0004619,20151019,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0007876,20150204,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0015049,20150723,K001,"Standard not met: Demonstration of knowledge; food safety certification",false
+
+FA0005205,20150922,K001,"Standard not met: Demonstration of knowledge; food safety certification",false
+
+FA0003508,20160328,K032,"Standard not met: Food properly labeled & honestly presented",false
+
+FA0005985,20151014,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0001655,20150604,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0015401,20151116,K010,"Standard not met: Proper cooking time & temperatures",true
+
+FA0004924,20150202,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0002729,20150224,K032,"Standard not met: Food properly labeled & honestly presented",false
+
+FA0026715,20151120,K032,"Standard not met: Food properly labeled & honestly presented",false
+
+FA0011905,20150305,K032,"Standard not met: Food properly labeled & honestly presented",false
+
+FA0027342,20150311,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0001978,20150518,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0005691,20150501,K001,"Standard not met: Demonstration of knowledge; food safety certification",false
+
+FA0028453,20150504,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0009474,20151103,K032,"Standard not met: Food properly labeled & honestly presented",false
+
+FA0016115,20150821,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0000723,20160505,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0009214,20150217,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0007612,20150427,K001,"Standard not met: Demonstration of knowledge; food safety certification",false
+
+FA0029272,20160129,K001,"Standard not met: Demonstration of knowledge; food safety certification",false
+
+FA0002638,20150413,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0009904,20140609,K032,"Standard not met: Food properly labeled & honestly presented",false
+
+FA0008211,20140609,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0011905,20140610,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0004744,20140610,K001,"Standard not met: Demonstration of knowledge; food safety certification",false
+
+FA0006097,20140702,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0013914,20140702,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0027605,20140703,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0007583,20150121,K004,"Standard not met: Proper eating, tasting, drinking or tobacco use",false
+
+FA0015375,20150306,K036,"Standard not met: Equipment, utensils and linens: storage and use",false
+
+FA0013967,20160505,K014,"Standard not met: Food contact surfaces: clean and sanitized",true
+
+FA0004972,20150603,K036,"Standard not met: Equipment, utensils and linens: storage and use",false
+
+FA0009344,20150205,K014,"Standard not met: Food contact surfaces: clean and sanitized",false
+
+FA0014091,20150414,K036,"Standard not met: Equipment, utensils and linens: storage and use",false
+
+FA0005716,20150202,K014,"Standard not met: Food contact surfaces: clean and sanitized",true
+
+FA0000357,20150625,K014,"Standard not met: Food contact surfaces: clean and sanitized",true
+
+FA0005226,20160201,K036,"Standard not met: Equipment, utensils and linens: storage and use",false
+
+FA0000672,20150902,K036,"Standard not met: Equipment, utensils and linens: storage and use",false
+
+FA0006003,20150403,K036,"Standard not met: Equipment, utensils and linens: storage and use",false
+
+FA0007640,20140527,K036,"Standard not met: Equipment, utensils and linens: storage and use",false
+
+FA0026522,20140528,K004,"Standard not met: Proper eating, tasting, drinking or tobacco use",false
+
+FA0004123,20140528,K004,"Standard not met: Proper eating, tasting, drinking or tobacco use",false
+
+FA0004123,20140528,K014,"Standard not met: Food contact surfaces: clean and sanitized",true
+
+FA0013883,20140529,K014,"Standard not met: Food contact surfaces: clean and sanitized",true
+
+FA0016797,20150413,K014,"Standard not met: Food contact surfaces: clean and sanitized",true
+
+FA0016822,20151007,K014,"Standard not met: Food contact surfaces: clean and sanitized",false
+
+FA0009523,20151015,K036,"Standard not met: Equipment, utensils and linens: storage and use",false
+
+FA0012381,20150317,K014,"Standard not met: Food contact surfaces: clean and sanitized",false
+
+FA0008356,20150109,K004,"Standard not met: Proper eating, tasting, drinking or tobacco use",false
+
+FA0016735,20150121,K014,"Standard not met: Food contact surfaces: clean and sanitized",false
+
+FA0010183,20150917,K014,"Standard not met: Food contact surfaces: clean and sanitized",false
+
+FA0027677,20150827,K036,"Standard not met: Equipment, utensils and linens: storage and use",false
+
+FA0011588,20151113,K014,"Standard not met: Food contact surfaces: clean and sanitized",false
+
+FA0027386,20150313,K014,"Standard not met: Food contact surfaces: clean and sanitized",false
+
+FA0008064,20150210,K004,"Standard not met: Proper eating, tasting, drinking or tobacco use",false
+
+FA0006003,20150403,K004,"Standard not met: Proper eating, tasting, drinking or tobacco use",false
+
+FA0006120,20140602,K036,"Standard not met: Equipment, utensils and linens: storage and use",false
+
+FA0006120,20140602,K014,"Standard not met: Food contact surfaces: clean and sanitized",true
+
+FA0001646,20140602,K014,"Standard not met: Food contact surfaces: clean and sanitized",true
+
+FA0006003,20140603,K036,"Standard not met: Equipment, utensils and linens: storage and use",false
+
+FA0022027,20140709,K004,"Standard not met: Proper eating, tasting, drinking or tobacco use",false
+
+FA0022027,20140709,K014,"Standard not met: Food contact surfaces: clean and sanitized",true
+
+FA0012863,20140710,K014,"Standard not met: Food contact surfaces: clean and sanitized",true
+
+FA0009149,20140710,K014,"Standard not met: Food contact surfaces: clean and sanitized",false
+
+FA0010275,20150209,K014,"Standard not met: Food contact surfaces: clean and sanitized",false
+
+FA0007560,20150408,K004,"Standard not met: Proper eating, tasting, drinking or tobacco use",false
+
+FA0009950,20150129,K014,"Standard not met: Food contact surfaces: clean and sanitized",false
+
+FA0010182,20150422,K014,"Standard not met: Food contact surfaces: clean and sanitized",false
+
+FA0015984,20151118,K036,"Standard not met: Equipment, utensils and linens: storage and use",false
+
+FA0009160,20150410,K014,"Standard not met: Food contact surfaces: clean and sanitized",true
+
+FA0027605,20140703,K001,"Standard not met: Demonstration of knowledge; food safety certification",false
+
+FA0013600,20140702,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0009414,20140707,K001,"Standard not met: Demonstration of knowledge; food safety certification",false
+
+FA0010761,20140730,K001,"Standard not met: Demonstration of knowledge; food safety certification",false
+
+FA0015563,20150122,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0017308,20150903,K001,"Standard not met: Demonstration of knowledge; food safety certification",false
+
+FA0004436,20151113,K001,"Standard not met: Demonstration of knowledge; food safety certification",false
+
+FA0028996,20150615,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0012160,20151113,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0004012,20150507,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0013904,20150310,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0016390,20151020,K032,"Standard not met: Food properly labeled & honestly presented",false
+
+FA0010218,20151014,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0003537,20150918,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0005401,20150109,K001,"Standard not met: Demonstration of knowledge; food safety certification",false
+
+FA0014847,20150217,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0009977,20151019,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0004995,20150512,K001,"Standard not met: Demonstration of knowledge; food safety certification",false
+
+FA0018744,20140711,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0006894,20140724,K001,"Standard not met: Demonstration of knowledge; food safety certification",false
+
+FA0006894,20140724,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0009728,20140806,K001,"Standard not met: Demonstration of knowledge; food safety certification",false
+
+FA0015788,20140815,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0003025,20140815,K001,"Standard not met: Demonstration of knowledge; food safety certification",false
+
+FA0004883,20150618,K032,"Standard not met: Food properly labeled & honestly presented",false
+
+FA0008007,20150621,K010,"Standard not met: Proper cooking time & temperatures",true
+
+FA0010024,20160418,K001,"Standard not met: Demonstration of knowledge; food safety certification",false
+
+FA0016248,20151112,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0002450,20150212,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0003605,20150206,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0000132,20150120,K001,"Standard not met: Demonstration of knowledge; food safety certification",false
+
+FA0003572,20140603,K032,"Standard not met: Food properly labeled & honestly presented",false
+
+FA0001431,20140603,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0008307,20140605,K001,"Standard not met: Demonstration of knowledge; food safety certification",false
+
+FA0007804,20140620,K032,"Standard not met: Food properly labeled & honestly presented",false
+
+FA0007804,20140620,K026,"Standard not met: Approved thawing methods used, frozen food",false
+
+FA0009935,20140623,K001,"Standard not met: Demonstration of knowledge; food safety certification",false
+
+FA0009542,20140624,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0011524,20140716,K001,"Standard not met: Demonstration of knowledge; food safety certification",false
+
+FA0008209,20140717,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0008209,20140717,K001,"Standard not met: Demonstration of knowledge; food safety certification",false
+
+FA0004609,20140808,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0007909,20140821,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0010164,20150213,K001,"Standard not met: Demonstration of knowledge; food safety certification",false
+
+FA0009745,20150217,K001,"Standard not met: Demonstration of knowledge; food safety certification",false
+
+FA0007447,20160422,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0014930,20150518,K001,"Standard not met: Demonstration of knowledge; food safety certification",false
+
+FA0007630,20150112,K032,"Standard not met: Food properly labeled & honestly presented",false
+
+FA0016209,20150220,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0012663,20151103,K001,"Standard not met: Demonstration of knowledge; food safety certification",false
+
+FA0021371,20140527,K001,"Standard not met: Demonstration of knowledge; food safety certification",false
+
+FA0015495,20140527,K026,"Standard not met: Approved thawing methods used, frozen food",false
+
+FA0000551,20140625,K032,"Standard not met: Food properly labeled & honestly presented",false
+
+FA0022039,20140624,K001,"Standard not met: Demonstration of knowledge; food safety certification",false
+
+FA0009408,20140626,K001,"Standard not met: Demonstration of knowledge; food safety certification",false
+
+FA0006914,20140710,K001,"Standard not met: Demonstration of knowledge; food safety certification",false
+
+FA0005036,20140722,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0017008,20140721,K001,"Standard not met: Demonstration of knowledge; food safety certification",false
+
+FA0011764,20140811,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0003506,20140808,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0009718,20140811,K001,"Standard not met: Demonstration of knowledge; food safety certification",false
+
+FA0019398,20140812,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0006742,20140825,K001,"Standard not met: Demonstration of knowledge; food safety certification",false
+
+FA0003048,20150212,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0015110,20151105,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0005384,20151104,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0009780,20140523,K001,"Standard not met: Demonstration of knowledge; food safety certification",false
+
+FA0005384,20140605,K026,"Standard not met: Approved thawing methods used, frozen food",false
+
+FA0006742,20140605,K001,"Standard not met: Demonstration of knowledge; food safety certification",false
+
+FA0006742,20140605,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0011082,20140606,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0007359,20140619,K001,"Standard not met: Demonstration of knowledge; food safety certification",false
+
+FA0009410,20140627,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0014356,20140630,K001,"Standard not met: Demonstration of knowledge; food safety certification",false
+
+FA0009914,20140630,K001,"Standard not met: Demonstration of knowledge; food safety certification",false
+
+FA0004836,20140729,K001,"Standard not met: Demonstration of knowledge; food safety certification",false
+
+FA0004836,20140729,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0003177,20140814,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0009536,20150217,K048,"Standard not met: Food Handler Certification",false
+
+FA0024567,20150406,K033,"Standard not met: Nonfood-contact surfaces clean",false
+
+FA0004590,20150825,K033,"Standard not met: Nonfood-contact surfaces clean",false
+
+FA0005627,20150126,K048,"Standard not met: Food Handler Certification",false
+
+FA0007380,20150914,K048,"Standard not met: Food Handler Certification",false
+
+FA0010017,20150803,K048,"Standard not met: Food Handler Certification",false
+
+FA0027678,20150917,K033,"Standard not met: Nonfood-contact surfaces clean",false
+
+FA0010856,20150724,K033,"Standard not met: Nonfood-contact surfaces clean",false
+
+FA0000171,20150223,K033,"Standard not met: Nonfood-contact surfaces clean",false
+
+FA0013624,20150430,K048,"Standard not met: Food Handler Certification",false
+
+FA0020773,20150430,K033,"Standard not met: Nonfood-contact surfaces clean",false
+
+FA0026522,20140528,K048,"Standard not met: Food Handler Certification",false
+
+FA0026522,20140528,K011,"Standard not met: Proper reheating procedures for hot holding",true
+
+FA0004123,20140528,K011,"Standard not met: Proper reheating procedures for hot holding",true
+
+FA0004123,20140528,K048,"Standard not met: Food Handler Certification",false
+
+FA0018569,20150114,K048,"Standard not met: Food Handler Certification",false
+
+FA0007606,20150408,K015,"Standard not met: Food obtained from approved source",true
+
+FA0026596,20150414,K048,"Standard not met: Food Handler Certification",false
+
+FA0012420,20150225,K033,"Standard not met: Nonfood-contact surfaces clean",false
+
+FA0011792,20150326,K033,"Standard not met: Nonfood-contact surfaces clean",false
+
+FA0001648,20150903,K048,"Standard not met: Food Handler Certification",false
+
+FA0015710,20150812,K048,"Standard not met: Food Handler Certification",false
+
+FA0001646,20140602,K033,"Standard not met: Nonfood-contact surfaces clean",false
+
+FA0006003,20140603,K048,"Standard not met: Food Handler Certification",false
+
+FA0022027,20140709,K033,"Standard not met: Nonfood-contact surfaces clean",false
+
+FA0005664,20140709,K033,"Standard not met: Nonfood-contact surfaces clean",false
+
+FA0012863,20140710,K048,"Standard not met: Food Handler Certification",false
+
+FA0008307,20150415,K048,"Standard not met: Food Handler Certification",false
+
+FA0009950,20150129,K033,"Standard not met: Nonfood-contact surfaces clean",false
+
+FA0010881,20151124,K033,"Standard not met: Nonfood-contact surfaces clean",false
+
+FA0011528,20150527,K033,"Standard not met: Nonfood-contact surfaces clean",false
+
+FA0015440,20150317,K048,"Standard not met: Food Handler Certification",false
+
+FA0004034,20150915,K048,"Standard not met: Food Handler Certification",false
+
+FA0027431,20150611,K048,"Standard not met: Food Handler Certification",false
+
+FA0027974,20140527,K033,"Standard not met: Nonfood-contact surfaces clean",false
+
+FA0027497,20140527,K048,"Standard not met: Food Handler Certification",false
+
+FA0010446,20140527,K048,"Standard not met: Food Handler Certification",false
+
+FA0014255,20140624,K033,"Standard not met: Nonfood-contact surfaces clean",false
+
+FA0025237,20140626,K011,"Standard not met: Proper reheating procedures for hot holding",true
+
+FA0014909,20140811,K048,"Standard not met: Food Handler Certification",false
+
+FA0009718,20140811,K033,"Standard not met: Nonfood-contact surfaces clean",false
+
+FA0011973,20140812,K048,"Standard not met: Food Handler Certification",false
+
+FA0027509,20140825,K033,"Standard not met: Nonfood-contact surfaces clean",false
+
+FA0009335,20150120,K048,"Standard not met: Food Handler Certification",false
+
+FA0014324,20151005,K048,"Standard not met: Food Handler Certification",false
+
+FA0010187,20151021,K033,"Standard not met: Nonfood-contact surfaces clean",false
+
+FA0024796,20160402,K048,"Standard not met: Food Handler Certification",false
+
+FA0009891,20151001,K033,"Standard not met: Nonfood-contact surfaces clean",false
+
+FA0002891,20150530,K025,"Standard not met: Personal cleanliness and hair restraints",false
+
+FA0014752,20140611,K048,"Standard not met: Food Handler Certification",false
+
+FA0008950,20150507,K009,"Standard not met: Proper cooling methods",true
+
+FA0016636,20150814,K007,"Standard not met: Proper hot and cold holding temperatures",true
+
+FA0007947,20150910,K007,"Standard not met: Proper hot and cold holding temperatures",false
+
+FA0028399,20150814,K007,"Standard not met: Proper hot and cold holding temperatures",false
+
+FA0004671,20150827,K007,"Standard not met: Proper hot and cold holding temperatures",true
+
+FA0011879,20150107,K007,"Standard not met: Proper hot and cold holding temperatures",false
+
+FA0003526,20150825,K009,"Standard not met: Proper cooling methods",false
+
+FA0024157,20151119,K007,"Standard not met: Proper hot and cold holding temperatures",false
+
+FA0010271,20150212,K009,"Standard not met: Proper cooling methods",true
+
+FA0000082,20150225,K007,"Standard not met: Proper hot and cold holding temperatures",false
+
+FA0004692,20140528,K007,"Standard not met: Proper hot and cold holding temperatures",true
+
+FA0009155,20150930,K007,"Standard not met: Proper hot and cold holding temperatures",false
+
+FA0010360,20150915,K007,"Standard not met: Proper hot and cold holding temperatures",false
+
+FA0009644,20150212,K007,"Standard not met: Proper hot and cold holding temperatures",false
+
+FA0010021,20150414,K009,"Standard not met: Proper cooling methods",false
+
+FA0006128,20150506,K009,"Standard not met: Proper cooling methods",false
+
+FA0009965,20150421,K009,"Standard not met: Proper cooling methods",true
+
+FA0009025,20150617,K009,"Standard not met: Proper cooling methods",false
+
+FA0009168,20140708,K007,"Standard not met: Proper hot and cold holding temperatures",false
+
+FA0009168,20140708,K009,"Standard not met: Proper cooling methods",true
+
+FA0007445,20140709,K009,"Standard not met: Proper cooling methods",false
+
+FA0007445,20140709,K007,"Standard not met: Proper hot and cold holding temperatures",false
+
+FA0011368,20140703,K009,"Standard not met: Proper cooling methods",true
+
+FA0003662,20140801,K007,"Standard not met: Proper hot and cold holding temperatures",true
+
+FA0012039,20140804,K009,"Standard not met: Proper cooling methods",true
+
+FA0010181,20150501,K007,"Standard not met: Proper hot and cold holding temperatures",false
+
+FA0025030,20151117,K007,"Standard not met: Proper hot and cold holding temperatures",false
+
+FA0003455,20150617,K007,"Standard not met: Proper hot and cold holding temperatures",false
+
+FA0006601,20151112,K007,"Standard not met: Proper hot and cold holding temperatures",true
+
+FA0028582,20150821,K007,"Standard not met: Proper hot and cold holding temperatures",true
+
+FA0022884,20160420,K009,"Standard not met: Proper cooling methods",true
+
+FA0009546,20150715,K007,"Standard not met: Proper hot and cold holding temperatures",false
+
+FA0016084,20140527,K007,"Standard not met: Proper hot and cold holding temperatures",true
+
+FA0022045,20140625,K007,"Standard not met: Proper hot and cold holding temperatures",true
+
+FA0006621,20140626,K007,"Standard not met: Proper hot and cold holding temperatures",true
+
+FA0001796,20140722,K007,"Standard not met: Proper hot and cold holding temperatures",false
+
+FA0007448,20140812,K007,"Standard not met: Proper hot and cold holding temperatures",true
+
+FA0011133,20140812,K009,"Standard not met: Proper cooling methods",false
+
+FA0011133,20140812,K007,"Standard not met: Proper hot and cold holding temperatures",true
+
+FA0000797,20140812,K007,"Standard not met: Proper hot and cold holding temperatures",false
+
+FA0003605,20140822,K007,"Standard not met: Proper hot and cold holding temperatures",true
+
+FA0004113,20140826,K007,"Standard not met: Proper hot and cold holding temperatures",true
+
+FA0001626,20150319,K007,"Standard not met: Proper hot and cold holding temperatures",true
+
+FA0000760,20150807,K007,"Standard not met: Proper hot and cold holding temperatures",false
+
+FA0002031,20150901,K009,"Standard not met: Proper cooling methods",false
+
+FA0009160,20160304,K009,"Standard not met: Proper cooling methods",true
+
+FA0003163,20150310,K007,"Standard not met: Proper hot and cold holding temperatures",true
+
+FA0007440,20140829,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0007440,20140829,K032,"Standard not met: Food properly labeled & honestly presented",false
+
+FA0011505,20140829,K001,"Standard not met: Demonstration of knowledge; food safety certification",false
+
+FA0011302,20150327,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0005655,20150403,K001,"Standard not met: Demonstration of knowledge; food safety certification",false
+
+FA0016857,20151029,K001,"Standard not met: Demonstration of knowledge; food safety certification",false
+
+FA0009341,20150116,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0017053,20150925,K001,"Standard not met: Demonstration of knowledge; food safety certification",false
+
+FA0000012,20150317,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0007701,20150331,K032,"Standard not met: Food properly labeled & honestly presented",false
+
+FA0018757,20150518,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0004692,20150507,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0011061,20150219,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0026082,20150128,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0006723,20150924,K001,"Standard not met: Demonstration of knowledge; food safety certification",false
+
+FA0010150,20140708,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0010150,20140708,K032,"Standard not met: Food properly labeled & honestly presented",false
+
+FA0001564,20140804,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0006003,20150403,K001,"Standard not met: Demonstration of knowledge; food safety certification",false
+
+FA0029387,20151113,K001,"Standard not met: Demonstration of knowledge; food safety certification",false
+
+FA0000081,20150629,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0021061,20150918,K010,"Standard not met: Proper cooking time & temperatures",true
+
+FA0008934,20150415,K032,"Standard not met: Food properly labeled & honestly presented",false
+
+FA0007816,20150917,K032,"Standard not met: Food properly labeled & honestly presented",false
+
+FA0021026,20150826,K001,"Standard not met: Demonstration of knowledge; food safety certification",false
+
+FA0004102,20150421,K001,"Standard not met: Demonstration of knowledge; food safety certification",false
+
+FA0010186,20160412,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0010697,20150318,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0007771,20151008,K001,"Standard not met: Demonstration of knowledge; food safety certification",false
+
+FA0012509,20150728,K001,"Standard not met: Demonstration of knowledge; food safety certification",false
+
+FA0007640,20140527,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0026522,20140528,K026,"Standard not met: Approved thawing methods used, frozen food",false
+
+FA0026522,20140528,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0004123,20140528,K001,"Standard not met: Demonstration of knowledge; food safety certification",false
+
+FA0013883,20140529,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0009370,20150212,K032,"Standard not met: Food properly labeled & honestly presented",false
+
+FA0015406,20150623,K026,"Standard not met: Approved thawing methods used, frozen food",false
+
+FA0026596,20150414,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0014564,20150622,K032,"Standard not met: Food properly labeled & honestly presented",false
+
+FA0028939,20151112,K006,"Standard not met: Adequate handwashing facilities supplied & accessible",false
+
+FA0009940,20150805,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0010080,20150624,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0010660,20150127,K039,"Standard not met: Thermometers provided and accurate",false
+
+FA0011826,20150311,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0001326,20150417,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0026752,20150512,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0009425,20160509,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0007933,20151008,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0006724,20150130,K039,"Standard not met: Thermometers provided and accurate",false
+
+FA0014103,20150409,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0002015,20150416,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0006594,20150904,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0008063,20151109,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0004430,20150318,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0007597,20150709,K039,"Standard not met: Thermometers provided and accurate",false
+
+FA0003491,20150504,K039,"Standard not met: Thermometers provided and accurate",false
+
+FA0005204,20150618,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0005418,20150116,K039,"Standard not met: Thermometers provided and accurate",false
+
+FA0004923,20150819,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0003526,20150203,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0006145,20150318,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0014115,20151125,K039,"Standard not met: Thermometers provided and accurate",false
+
+FA0003586,20151104,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0019486,20151021,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0016390,20151020,K039,"Standard not met: Thermometers provided and accurate",false
+
+FA0004096,20150306,K039,"Standard not met: Thermometers provided and accurate",false
+
+FA0009579,20151102,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0014390,20150305,K030,"Standard not met: Food storage; food storage containers identified",false
+
+FA0016766,20151110,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0015611,20151020,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0012667,20150501,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0009423,20150210,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0005236,20150317,K047,"Standard not met: Signs posted; last inspection report available",false
+
+FA0006594,20150904,K040,"Standard not met: Wiping cloths: properly used and stored",false
+
+FA0004449,20151021,K024,"Standard not met: Person in charge present and performs duties",false
+
+FA0005279,20150109,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0005216,20150217,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0014365,20151007,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0010178,20150224,K034,"Standard not met: Warewashing facilities: installed, maintained, used; test strips",false
+
+FA0003048,20150212,K045,"Standard not met: Floors, walls and ceilings: built, maintained, and clean",false
+
+FA0009904,20140609,K039,"Standard not met: Thermometers provided and accurate",false
+
+FA0027773,20140611,K048,"Standard not met: Food Handler Certification",false
+
+FA0017048,20140611,K048,"Standard not met: Food Handler Certification",false
+
+FA0012967,20140612,K048,"Standard not met: Food Handler Certification",false
+
+FA0006937,20140708,K048,"Standard not met: Food Handler Certification",false
+
+FA0026418,20140708,K048,"Standard not met: Food Handler Certification",false
+
+FA0015374,20140709,K048,"Standard not met: Food Handler Certification",false
+
+FA0001661,20140801,K033,"Standard not met: Nonfood-contact surfaces clean",false
+
+FA0006536,20140815,K048,"Standard not met: Food Handler Certification",false
+
+FA0016031,20140819,K033,"Standard not met: Nonfood-contact surfaces clean",false
+
+FA0005260,20140902,K033,"Standard not met: Nonfood-contact surfaces clean",false
+
+FA0014847,20140903,K048,"Standard not met: Food Handler Certification",false
+
+FA0015404,20140903,K048,"Standard not met: Food Handler Certification",false
+
+FA0007881,20150108,K033,"Standard not met: Nonfood-contact surfaces clean",false
+
+FA0007837,20150309,K048,"Standard not met: Food Handler Certification",false
+
+FA0009344,20150205,K048,"Standard not met: Food Handler Certification",false
+
+FA0012948,20150602,K048,"Standard not met: Food Handler Certification",false
+
+FA0007560,20150408,K048,"Standard not met: Food Handler Certification",false
+
+FA0023833,20150306,K031,"Standard not met: Consumer self service",false
+
+FA0011012,20140609,K048,"Standard not met: Food Handler Certification",false
+
+FA0018657,20140703,K033,"Standard not met: Nonfood-contact surfaces clean",false
+
+FA0005327,20140703,K048,"Standard not met: Food Handler Certification",false
+
+FA0015586,20140731,K048,"Standard not met: Food Handler Certification",false
+
+FA0015586,20140731,K048,"Standard not met: Food Handler Certification",false
+
+FA0015852,20140821,K048,"Standard not met: Food Handler Certification",false
+
+FA0001264,20140821,K048,"Standard not met: Food Handler Certification",false
+
+FA0001264,20140821,K033,"Standard not met: Nonfood-contact surfaces clean",false
+
+FA0004927,20140821,K048,"Standard not met: Food Handler Certification",false
+
+FA0011277,20140822,K048,"Standard not met: Food Handler Certification",false
+
+FA0009894,20151007,K048,"Standard not met: Food Handler Certification",false
+
+FA0010915,20151022,K018,"Standard not met: Compliance with variance, specialized process, & HACCP Plan",false
+
+FA0010169,20151120,K033,"Standard not met: Nonfood-contact surfaces clean",false
+
+FA0018764,20140605,K048,"Standard not met: Food Handler Certification",false
+
+FA0015767,20140605,K048,"Standard not met: Food Handler Certification",false
+
+FA0007584,20140729,K015,"Standard not met: Food obtained from approved source",true
+
+FA0007836,20140814,K048,"Standard not met: Food Handler Certification",false
+
+FA0002953,20140827,K048,"Standard not met: Food Handler Certification",false
+
+FA0018634,20140909,K015,"Standard not met: Food obtained from approved source",true
+
+FA0014315,20140908,K048,"Standard not met: Food Handler Certification",false
+
+FA0009177,20150825,K011,"Standard not met: Proper reheating procedures for hot holding",true
+
+FA0011773,20150728,K018,"Standard not met: Compliance with variance, specialized process, & HACCP Plan",false
+
+FA0026487,20150604,K033,"Standard not met: Nonfood-contact surfaces clean",false
+
+FA0028489,20150508,K025,"Standard not met: Personal cleanliness and hair restraints",false
+
+FA0005351,20150203,K048,"Standard not met: Food Handler Certification",false
+
+FA0010676,20150312,K048,"Standard not met: Food Handler Certification",false
+
+FA0006601,20150122,K048,"Standard not met: Food Handler Certification",false
+
+FA0012379,20150403,K048,"Standard not met: Food Handler Certification",false
+
+FA0008393,20150309,K048,"Standard not met: Food Handler Certification",false
+
+FA0012385,20150511,K033,"Standard not met: Nonfood-contact surfaces clean",false
+
+FA0013364,20140603,K048,"Standard not met: Food Handler Certification",false
+
+FA0005377,20140604,K048,"Standard not met: Food Handler Certification",false
+
+FA0027991,20140609,K007,"Standard not met: Proper hot and cold holding temperatures",false
